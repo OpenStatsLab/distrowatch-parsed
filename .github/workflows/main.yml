@@ -1,0 +1,41 @@
+name: DistroWatch Parse
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
+    - name: Clone repository
+      run: |
+         rm -r parsed/
+         git clone https://github.com/OpenStatsLab/distrowatch-parsing
+
+    - name: Run Python files
+      run: |
+        find distrowatch-parsing -name "*.py" -type f -exec python {} \;
+
+    - name: Delete cloned repository
+      run: rm -rf distrowatch-parsing
+
+    - name: Commit changes
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add -A
+        git commit -m "Run Python scripts"
+
+    - name: Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
