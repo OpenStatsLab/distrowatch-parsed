@@ -1,6 +1,12 @@
 [
     {
         "date": "09/01",
+        "package_name": "thunderbird",
+        "version": "115.6.1",
+        "link": ""
+    },
+    {
+        "date": "09/01",
         "package_name": "firefox",
         "version": "121.0.1",
         "link": ""
