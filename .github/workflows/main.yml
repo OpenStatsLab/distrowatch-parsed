@@ -2,7 +2,7 @@ name: DistroWatch Parse
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/30 * * * *'
 
 jobs:
   build:
