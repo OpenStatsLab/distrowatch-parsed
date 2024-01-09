@@ -39,5 +39,5 @@ jobs:
     - name: Push changes
       uses: actions-js/push@master
       with:
-        github_token:${{ secrets.GH_TOKEN }}
+        github_token: ${{ secrets.GH_TOKEN }}
        
