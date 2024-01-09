@@ -1,5 +1,11 @@
 [
     {
+        "date": "09/01",
+        "package_name": "firefox",
+        "version": "121.0.1",
+        "link": ""
+    },
+    {
         "date": "08/01",
         "package_name": "samba",
         "version": "4.19.4",
