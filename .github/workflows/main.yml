@@ -23,6 +23,7 @@ jobs:
 
     - name: Run Python files
       run: |
+        pip install bs4
         find distrowatch-parsing -name "*.py" -type f -exec python {} \;
 
     - name: Delete cloned repository
