@@ -37,7 +37,6 @@ jobs:
         git commit -m "Run Python scripts"
 
     - name: Push changes
-      uses: actions-js/push@master
-      with:
-        github_token: ${{ secrets.GH_TOKEN }}
+      run: |
+        git push https://${{ secrets.GH_TOKEN }}@github.com/OpenStatsLab/distrowatch-parsed.git
        
