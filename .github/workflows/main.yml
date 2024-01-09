@@ -23,7 +23,7 @@ jobs:
 
     - name: Run Python files
       run: |
-        pip install bs4
+        pip install bs4 lxml
         find distrowatch-parsing -name "*.py" -type f -exec python {} \;
 
     - name: Delete cloned repository
@@ -40,3 +40,7 @@ jobs:
       uses: actions-js/push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Push?
+      run: |
+        git push
