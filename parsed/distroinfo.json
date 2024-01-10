@@ -360,6 +360,15 @@
         "ostype": "Linux"
     },
     {
+        "distro": "Commodore",
+        "codename": "commodore",
+        "url": "https://distrowatch.com/table.php?distribution=commodore",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/commodore.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/commodore.png",
+        "homepage": "https://www.commodoreusa.net",
+        "ostype": "Linux"
+    },
+    {
         "distro": "CROWZ",
         "codename": "crowz",
         "url": "https://distrowatch.com/table.php?distribution=crowz",
