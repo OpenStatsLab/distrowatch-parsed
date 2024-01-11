@@ -1,0 +1,74 @@
+[
+    {
+        "date": "11/01",
+        "package_name": "firebird",
+        "version": "5.0.0",
+        "link": ""
+    },
+    {
+        "date": "11/01",
+        "package_name": "pipewire",
+        "version": "1.0.1",
+        "link": ""
+    },
+    {
+        "date": "11/01",
+        "package_name": "apt",
+        "version": "2.7.9",
+        "link": ""
+    },
+    {
+        "date": "10/01",
+        "package_name": "mesa",
+        "version": "23.3.3",
+        "link": ""
+    },
+    {
+        "date": "10/01",
+        "package_name": "kodi",
+        "version": "20.3",
+        "link": ""
+    },
+    {
+        "date": "09/01",
+        "package_name": "thunderbird",
+        "version": "115.6.1",
+        "link": ""
+    },
+    {
+        "date": "09/01",
+        "package_name": "firefox",
+        "version": "121.0.1",
+        "link": ""
+    },
+    {
+        "date": "08/01",
+        "package_name": "samba",
+        "version": "4.19.4",
+        "link": ""
+    },
+    {
+        "date": "08/01",
+        "package_name": "linux",
+        "version": "6.7",
+        "link": ""
+    },
+    {
+        "date": "07/01",
+        "package_name": "scribus",
+        "version": "1.6.1",
+        "link": ""
+    },
+    {
+        "date": "07/01",
+        "package_name": "gnome-shell",
+        "version": "45.3",
+        "link": ""
+    },
+    {
+        "date": "05/01",
+        "package_name": "evolution",
+        "version": "3.50.3",
+        "link": ""
+    }
+]
