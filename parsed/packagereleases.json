@@ -1,6 +1,18 @@
 [
     {
         "date": "11/01",
+        "package_name": "firebird",
+        "version": "5.0.0",
+        "link": ""
+    },
+    {
+        "date": "11/01",
+        "package_name": "pipewire",
+        "version": "1.0.1",
+        "link": ""
+    },
+    {
+        "date": "11/01",
         "package_name": "apt",
         "version": "2.7.9",
         "link": ""
@@ -57,12 +69,6 @@
         "date": "05/01",
         "package_name": "evolution",
         "version": "3.50.3",
-        "link": ""
-    },
-    {
-        "date": "05/01",
-        "package_name": "calibre",
-        "version": "7.3.0",
         "link": ""
     }
 ]

@@ -1,5 +1,10 @@
 [
     {
+        "date": "11/01",
+        "distro_name": "Whonix",
+        "version": "17.1.1.5"
+    },
+    {
         "date": "10/01",
         "distro_name": "TUXEDO OS",
         "version": "2-20240110"
@@ -33,30 +38,5 @@
         "date": "05/01",
         "distro_name": "Relianoid",
         "version": "7.1"
-    },
-    {
-        "date": "04/01",
-        "distro_name": "Mabox",
-        "version": "24.01"
-    },
-    {
-        "date": "04/01",
-        "distro_name": "Gnoppix",
-        "version": "24"
-    },
-    {
-        "date": "04/01",
-        "distro_name": "KDE neon",
-        "version": "20240104"
-    },
-    {
-        "date": "04/01",
-        "distro_name": "Endless",
-        "version": "5.1.1"
-    },
-    {
-        "date": "04/01",
-        "distro_name": "MakuluLinux",
-        "version": "2024-01-03"
     }
 ]
