@@ -1,6 +1,11 @@
 [
     {
         "date": "11/01",
+        "distro_name": "SmartOS",
+        "version": "20240111"
+    },
+    {
+        "date": "11/01",
         "distro_name": "Whonix",
         "version": "17.1.1.5"
     },
