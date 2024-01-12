@@ -64,11 +64,5 @@
         "package_name": "gnome-shell",
         "version": "45.3",
         "link": ""
-    },
-    {
-        "date": "05/01",
-        "package_name": "evolution",
-        "version": "3.50.3",
-        "link": ""
     }
 ]
