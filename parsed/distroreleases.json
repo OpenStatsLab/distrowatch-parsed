@@ -1,5 +1,10 @@
 [
     {
+        "date": "14/01",
+        "distro_name": "LibreELEC",
+        "version": "11.0.5"
+    },
+    {
         "date": "13/01",
         "distro_name": "Bluestar",
         "version": "6.6.10"
@@ -43,10 +48,5 @@
         "date": "08/01",
         "distro_name": "Archcraft",
         "version": "2024.01.08"
-    },
-    {
-        "date": "07/01",
-        "distro_name": "Live Raizo",
-        "version": "15.24.01.07"
     }
 ]
