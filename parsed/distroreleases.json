@@ -1,6 +1,11 @@
 [
     {
         "date": "13/01",
+        "distro_name": "Bluestar",
+        "version": "6.6.10"
+    },
+    {
+        "date": "13/01",
         "distro_name": "Manjaro",
         "version": "23.1.3"
     },
