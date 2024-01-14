@@ -58,17 +58,5 @@
         "package_name": "linux",
         "version": "6.7",
         "link": ""
-    },
-    {
-        "date": "07/01",
-        "package_name": "scribus",
-        "version": "1.6.1",
-        "link": ""
-    },
-    {
-        "date": "07/01",
-        "package_name": "gnome-shell",
-        "version": "45.3",
-        "link": ""
     }
 ]
