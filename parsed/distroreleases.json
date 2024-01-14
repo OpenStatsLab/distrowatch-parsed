@@ -1,6 +1,11 @@
 [
     {
         "date": "14/01",
+        "distro_name": "AVLinux",
+        "version": "23.1"
+    },
+    {
+        "date": "14/01",
         "distro_name": "LibreELEC",
         "version": "11.0.5"
     },
