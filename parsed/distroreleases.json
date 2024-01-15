@@ -1,6 +1,11 @@
 [
     {
         "date": "14/01",
+        "distro_name": "Slackel",
+        "version": "7.7-beta1"
+    },
+    {
+        "date": "14/01",
         "distro_name": "AVLinux",
         "version": "23.1"
     },
