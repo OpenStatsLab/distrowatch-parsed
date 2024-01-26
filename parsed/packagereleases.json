@@ -1,0 +1,74 @@
+[
+    {
+        "date": "25/01",
+        "package_name": "gnupg",
+        "version": "2.4.4",
+        "link": ""
+    },
+    {
+        "date": "24/01",
+        "package_name": "gstreamer",
+        "version": "1.22.9",
+        "link": ""
+    },
+    {
+        "date": "24/01",
+        "package_name": "mesa",
+        "version": "23.3.4",
+        "link": ""
+    },
+    {
+        "date": "24/01",
+        "package_name": "systemd",
+        "version": "255.3",
+        "link": ""
+    },
+    {
+        "date": "24/01",
+        "package_name": "cryptsetup",
+        "version": "2.7.0",
+        "link": ""
+    },
+    {
+        "date": "24/01",
+        "package_name": "docker",
+        "version": "25.0.1",
+        "link": ""
+    },
+    {
+        "date": "24/01",
+        "package_name": "chromium",
+        "version": "121.0.6167.85",
+        "link": ""
+    },
+    {
+        "date": "23/01",
+        "package_name": "thunderbird",
+        "version": "115.7.0",
+        "link": ""
+    },
+    {
+        "date": "23/01",
+        "package_name": "shim",
+        "version": "15.8",
+        "link": ""
+    },
+    {
+        "date": "22/01",
+        "package_name": "zlib",
+        "version": "1.3.1",
+        "link": ""
+    },
+    {
+        "date": "22/01",
+        "package_name": "firefox",
+        "version": "122.0",
+        "link": ""
+    },
+    {
+        "date": "20/01",
+        "package_name": "postfix",
+        "version": "3.8.5",
+        "link": ""
+    }
+]

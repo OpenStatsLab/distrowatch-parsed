@@ -1,0 +1,62 @@
+[
+    {
+        "date": "25/01",
+        "distro_name": "Redcore",
+        "version": "2401"
+    },
+    {
+        "date": "25/01",
+        "distro_name": "KDE neon",
+        "version": "20240125"
+    },
+    {
+        "date": "25/01",
+        "distro_name": "SmartOS",
+        "version": "20240125"
+    },
+    {
+        "date": "24/01",
+        "distro_name": "Gnoppix",
+        "version": "24.1.15"
+    },
+    {
+        "date": "24/01",
+        "distro_name": "Slackel 7.7",
+        "version": "\"MATE\""
+    },
+    {
+        "date": "24/01",
+        "distro_name": "Parrot",
+        "version": "6.0"
+    },
+    {
+        "date": "24/01",
+        "distro_name": "BunsenLabs",
+        "version": "Boron"
+    },
+    {
+        "date": "22/01",
+        "distro_name": "Linuxfx",
+        "version": "11.4.4"
+    },
+    {
+        "date": "21/01",
+        "distro_name": "MX Linux",
+        "version": "23.2"
+    },
+    {
+        "date": "21/01",
+        "distro_name": "NuTyX",
+        "version": "24.01.0"
+    },
+    {
+        "date": "21/01",
+        "distro_name": "CachyOS",
+        "version": "240121"
+    },
+    {
+        "date": "21/01",
+        "distro_name": "EasyOS",
+        "version": "6.0.1"
+    }
+]

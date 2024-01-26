@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Distribution Release: Redcore Linux 2401",
+        "link": "",
+        "description": "Redcore Linux is a desktop-oriented distribution based on Gentoo. The project's latest release, Redcore Linux 2401, brings updated hardware support through newer kernels and switches the default sound system to PipeWire. 'resync with Gentoo Linux' testing tree as of 21.01.2024; Linux kernel v6.6.13 LTS as default, v6.1 LTS and v5.15 LTS available in repositories, for those who want an older kernel; glibc v2.37, gcc v13.2.0, binutils v2.40, clang/llvm v17.0.6, rust v1.74.1 based toolchain; latest mesa, xorg, xwayland and wayland based graphical stack; PipeWire is now the default sound server implementation, replacing both PulseAudio and JACK, modernising the sound stack; OpenSSL v3 is now default, moving away from the good old OpenSSL v1; FFmpeg v6 is now default, moving away from the good old ffmpeg v4.' Additional details can be found in the distribution's release announcement. Download: Redcore.Linux.Hardened.2401.Tarazed.KDE.amd64.iso (4,583MB, SHA256, signature, pkglist).",
+        "date": "25/01/2024, 22:38"
+    },
+    {
+        "title": "Distribution Release: Gnoppix 24.1.15",
+        "link": "",
+        "description": "Redcore Linux is a desktop-oriented distribution based on Gentoo. The project's latest release, Redcore Linux 2401, brings updated hardware support through newer kernels and switches the default sound system to PipeWire. 'resync with Gentoo Linux' testing tree as of 21.01.2024; Linux kernel v6.6.13 LTS as default, v6.1 LTS and v5.15 LTS available in repositories, for those who want an older kernel; glibc v2.37, gcc v13.2.0, binutils v2.40, clang/llvm v17.0.6, rust v1.74.1 based toolchain; latest mesa, xorg, xwayland and wayland based graphical stack; PipeWire is now the default sound server implementation, replacing both PulseAudio and JACK, modernising the sound stack; OpenSSL v3 is now default, moving away from the good old OpenSSL v1; FFmpeg v6 is now default, moving away from the good old ffmpeg v4.' Additional details can be found in the distribution's release announcement. Download: Redcore.Linux.Hardened.2401.Tarazed.KDE.amd64.iso (4,583MB, SHA256, signature, pkglist).",
+        "date": "24/01/2024, 23:13"
+    },
+    {
+        "title": "Distribution Release: BunsenLabs Linux Boron",
+        "link": "",
+        "description": "Redcore Linux is a desktop-oriented distribution based on Gentoo. The project's latest release, Redcore Linux 2401, brings updated hardware support through newer kernels and switches the default sound system to PipeWire. 'resync with Gentoo Linux' testing tree as of 21.01.2024; Linux kernel v6.6.13 LTS as default, v6.1 LTS and v5.15 LTS available in repositories, for those who want an older kernel; glibc v2.37, gcc v13.2.0, binutils v2.40, clang/llvm v17.0.6, rust v1.74.1 based toolchain; latest mesa, xorg, xwayland and wayland based graphical stack; PipeWire is now the default sound server implementation, replacing both PulseAudio and JACK, modernising the sound stack; OpenSSL v3 is now default, moving away from the good old OpenSSL v1; FFmpeg v6 is now default, moving away from the good old ffmpeg v4.' Additional details can be found in the distribution's release announcement. Download: Redcore.Linux.Hardened.2401.Tarazed.KDE.amd64.iso (4,583MB, SHA256, signature, pkglist).",
+        "date": "24/01/2024, 14:19"
+    },
+    {
+        "title": "Distribution Release: Parrot 6.0",
+        "link": "",
+        "description": "Redcore Linux is a desktop-oriented distribution based on Gentoo. The project's latest release, Redcore Linux 2401, brings updated hardware support through newer kernels and switches the default sound system to PipeWire. 'resync with Gentoo Linux' testing tree as of 21.01.2024; Linux kernel v6.6.13 LTS as default, v6.1 LTS and v5.15 LTS available in repositories, for those who want an older kernel; glibc v2.37, gcc v13.2.0, binutils v2.40, clang/llvm v17.0.6, rust v1.74.1 based toolchain; latest mesa, xorg, xwayland and wayland based graphical stack; PipeWire is now the default sound server implementation, replacing both PulseAudio and JACK, modernising the sound stack; OpenSSL v3 is now default, moving away from the good old OpenSSL v1; FFmpeg v6 is now default, moving away from the good old ffmpeg v4.' Additional details can be found in the distribution's release announcement. Download: Redcore.Linux.Hardened.2401.Tarazed.KDE.amd64.iso (4,583MB, SHA256, signature, pkglist).",
+        "date": "24/01/2024, 14:18"
+    },
+    {
+        "title": "Distribution Release: MX Linux 23.2",
+        "link": "",
+        "description": "Redcore Linux is a desktop-oriented distribution based on Gentoo. The project's latest release, Redcore Linux 2401, brings updated hardware support through newer kernels and switches the default sound system to PipeWire. 'resync with Gentoo Linux' testing tree as of 21.01.2024; Linux kernel v6.6.13 LTS as default, v6.1 LTS and v5.15 LTS available in repositories, for those who want an older kernel; glibc v2.37, gcc v13.2.0, binutils v2.40, clang/llvm v17.0.6, rust v1.74.1 based toolchain; latest mesa, xorg, xwayland and wayland based graphical stack; PipeWire is now the default sound server implementation, replacing both PulseAudio and JACK, modernising the sound stack; OpenSSL v3 is now default, moving away from the good old OpenSSL v1; FFmpeg v6 is now default, moving away from the good old ffmpeg v4.' Additional details can be found in the distribution's release announcement. Download: Redcore.Linux.Hardened.2401.Tarazed.KDE.amd64.iso (4,583MB, SHA256, signature, pkglist).",
+        "date": "22/01/2024, 11:37"
+    },
+    {
+        "title": "DistroWatch Weekly, Issue 1054",
+        "link": "",
+        "description": "Redcore Linux is a desktop-oriented distribution based on Gentoo. The project's latest release, Redcore Linux 2401, brings updated hardware support through newer kernels and switches the default sound system to PipeWire. 'resync with Gentoo Linux' testing tree as of 21.01.2024; Linux kernel v6.6.13 LTS as default, v6.1 LTS and v5.15 LTS available in repositories, for those who want an older kernel; glibc v2.37, gcc v13.2.0, binutils v2.40, clang/llvm v17.0.6, rust v1.74.1 based toolchain; latest mesa, xorg, xwayland and wayland based graphical stack; PipeWire is now the default sound server implementation, replacing both PulseAudio and JACK, modernising the sound stack; OpenSSL v3 is now default, moving away from the good old OpenSSL v1; FFmpeg v6 is now default, moving away from the good old ffmpeg v4.' Additional details can be found in the distribution's release announcement. Download: Redcore.Linux.Hardened.2401.Tarazed.KDE.amd64.iso (4,583MB, SHA256, signature, pkglist).",
+        "date": "22/01/2024, 01:24"
+    },
+    {
+        "title": "Development Release: NetBSD 10.0 RC3",
+        "link": "",
+        "description": "Redcore Linux is a desktop-oriented distribution based on Gentoo. The project's latest release, Redcore Linux 2401, brings updated hardware support through newer kernels and switches the default sound system to PipeWire. 'resync with Gentoo Linux' testing tree as of 21.01.2024; Linux kernel v6.6.13 LTS as default, v6.1 LTS and v5.15 LTS available in repositories, for those who want an older kernel; glibc v2.37, gcc v13.2.0, binutils v2.40, clang/llvm v17.0.6, rust v1.74.1 based toolchain; latest mesa, xorg, xwayland and wayland based graphical stack; PipeWire is now the default sound server implementation, replacing both PulseAudio and JACK, modernising the sound stack; OpenSSL v3 is now default, moving away from the good old OpenSSL v1; FFmpeg v6 is now default, moving away from the good old ffmpeg v4.' Additional details can be found in the distribution's release announcement. Download: Redcore.Linux.Hardened.2401.Tarazed.KDE.amd64.iso (4,583MB, SHA256, signature, pkglist).",
+        "date": "19/01/2024, 14:19"
+    },
+    {
+        "title": "Distribution Release: SDesk 2024.01.18",
+        "link": "",
+        "description": "Redcore Linux is a desktop-oriented distribution based on Gentoo. The project's latest release, Redcore Linux 2401, brings updated hardware support through newer kernels and switches the default sound system to PipeWire. 'resync with Gentoo Linux' testing tree as of 21.01.2024; Linux kernel v6.6.13 LTS as default, v6.1 LTS and v5.15 LTS available in repositories, for those who want an older kernel; glibc v2.37, gcc v13.2.0, binutils v2.40, clang/llvm v17.0.6, rust v1.74.1 based toolchain; latest mesa, xorg, xwayland and wayland based graphical stack; PipeWire is now the default sound server implementation, replacing both PulseAudio and JACK, modernising the sound stack; OpenSSL v3 is now default, moving away from the good old OpenSSL v1; FFmpeg v6 is now default, moving away from the good old ffmpeg v4.' Additional details can be found in the distribution's release announcement. Download: Redcore.Linux.Hardened.2401.Tarazed.KDE.amd64.iso (4,583MB, SHA256, signature, pkglist).",
+        "date": "19/01/2024, 00:37"
+    },
+    {
+        "title": "Distribution Release: AV Linux MXE-23.1",
+        "link": "",
+        "description": "Redcore Linux is a desktop-oriented distribution based on Gentoo. The project's latest release, Redcore Linux 2401, brings updated hardware support through newer kernels and switches the default sound system to PipeWire. 'resync with Gentoo Linux' testing tree as of 21.01.2024; Linux kernel v6.6.13 LTS as default, v6.1 LTS and v5.15 LTS available in repositories, for those who want an older kernel; glibc v2.37, gcc v13.2.0, binutils v2.40, clang/llvm v17.0.6, rust v1.74.1 based toolchain; latest mesa, xorg, xwayland and wayland based graphical stack; PipeWire is now the default sound server implementation, replacing both PulseAudio and JACK, modernising the sound stack; OpenSSL v3 is now default, moving away from the good old OpenSSL v1; FFmpeg v6 is now default, moving away from the good old ffmpeg v4.' Additional details can be found in the distribution's release announcement. Download: Redcore.Linux.Hardened.2401.Tarazed.KDE.amd64.iso (4,583MB, SHA256, signature, pkglist).",
+        "date": "16/01/2024, 14:45"
+    },
+    {
+        "title": "DistroWatch Weekly, Issue 1053",
+        "link": "",
+        "description": "Redcore Linux is a desktop-oriented distribution based on Gentoo. The project's latest release, Redcore Linux 2401, brings updated hardware support through newer kernels and switches the default sound system to PipeWire. 'resync with Gentoo Linux' testing tree as of 21.01.2024; Linux kernel v6.6.13 LTS as default, v6.1 LTS and v5.15 LTS available in repositories, for those who want an older kernel; glibc v2.37, gcc v13.2.0, binutils v2.40, clang/llvm v17.0.6, rust v1.74.1 based toolchain; latest mesa, xorg, xwayland and wayland based graphical stack; PipeWire is now the default sound server implementation, replacing both PulseAudio and JACK, modernising the sound stack; OpenSSL v3 is now default, moving away from the good old OpenSSL v1; FFmpeg v6 is now default, moving away from the good old ffmpeg v4.' Additional details can be found in the distribution's release announcement. Download: Redcore.Linux.Hardened.2401.Tarazed.KDE.amd64.iso (4,583MB, SHA256, signature, pkglist).",
+        "date": "15/01/2024, 01:18"
+    }
+]
