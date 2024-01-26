@@ -1,6 +1,12 @@
 [
     {
         "date": "25/01",
+        "package_name": "linux",
+        "version": "6.7.2",
+        "link": ""
+    },
+    {
+        "date": "25/01",
         "package_name": "gnupg",
         "version": "2.4.4",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "22/01",
         "package_name": "firefox",
         "version": "122.0",
-        "link": ""
-    },
-    {
-        "date": "20/01",
-        "package_name": "postfix",
-        "version": "3.8.5",
         "link": ""
     }
 ]
