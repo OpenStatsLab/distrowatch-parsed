@@ -18,6 +18,7 @@ jobs:
 
     - name: Clone repository
       run: |
+         mkdir parsed 2> /dev/null
          rm -r parsed/
          git push https://${{ secrets.GH_TOKEN }}@github.com/OpenStatsLab/distrowatch-parsed.git
          git clone https://github.com/OpenStatsLab/distrowatch-parsing
