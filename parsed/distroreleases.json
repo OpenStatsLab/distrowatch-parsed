@@ -1,5 +1,10 @@
 [
     {
+        "date": "27/01",
+        "distro_name": "EndeavourOS",
+        "version": "2024.01.256https://mirrors.gigenet.com/endeavouros/iso/EndeavourOS_Galileo-Neo-2024.01.25.iso"
+    },
+    {
         "date": "26/01",
         "distro_name": "Alpine",
         "version": "3.19.1"
@@ -53,10 +58,5 @@
         "date": "21/01",
         "distro_name": "MX Linux",
         "version": "23.2"
-    },
-    {
-        "date": "21/01",
-        "distro_name": "NuTyX",
-        "version": "24.01.0"
     }
 ]
