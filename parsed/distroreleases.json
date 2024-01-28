@@ -1,6 +1,11 @@
 [
     {
         "date": "28/01",
+        "distro_name": "SystemRescue",
+        "version": "11.00"
+    },
+    {
+        "date": "28/01",
         "distro_name": "openmamba",
         "version": "20240128"
     },
@@ -53,10 +58,5 @@
         "date": "24/01",
         "distro_name": "BunsenLabs",
         "version": "Boron"
-    },
-    {
-        "date": "22/01",
-        "distro_name": "Linuxfx",
-        "version": "11.4.4"
     }
 ]
