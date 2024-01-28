@@ -1,5 +1,11 @@
 [
     {
+        "date": "28/01",
+        "package_name": "budgie-desktop",
+        "version": "10.9",
+        "link": ""
+    },
+    {
         "date": "27/01",
         "package_name": "mc",
         "version": "4.8.31",
@@ -63,12 +69,6 @@
         "date": "23/01",
         "package_name": "thunderbird",
         "version": "115.7.0",
-        "link": ""
-    },
-    {
-        "date": "23/01",
-        "package_name": "shim",
-        "version": "15.8",
         "link": ""
     }
 ]
