@@ -1,6 +1,12 @@
 [
     {
         "date": "29/01",
+        "package_name": "openldap",
+        "version": "2.6.7",
+        "link": ""
+    },
+    {
+        "date": "29/01",
         "package_name": "binutils",
         "version": "2.42",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "24/01",
         "package_name": "docker",
         "version": "25.0.1",
-        "link": ""
-    },
-    {
-        "date": "24/01",
-        "package_name": "chromium",
-        "version": "121.0.6167.85",
         "link": ""
     }
 ]
