@@ -1,5 +1,11 @@
 [
     {
+        "date": "29/01",
+        "package_name": "binutils",
+        "version": "2.42",
+        "link": ""
+    },
+    {
         "date": "28/01",
         "package_name": "budgie-desktop",
         "version": "10.9",
@@ -63,12 +69,6 @@
         "date": "24/01",
         "package_name": "chromium",
         "version": "121.0.6167.85",
-        "link": ""
-    },
-    {
-        "date": "23/01",
-        "package_name": "thunderbird",
-        "version": "115.7.0",
         "link": ""
     }
 ]
