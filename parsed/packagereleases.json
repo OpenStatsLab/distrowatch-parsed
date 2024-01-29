@@ -1,6 +1,12 @@
 [
     {
         "date": "29/01",
+        "package_name": "qemu",
+        "version": "8.2.1",
+        "link": ""
+    },
+    {
+        "date": "29/01",
         "package_name": "lzip",
         "version": "1.24",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "24/01",
         "package_name": "systemd",
         "version": "255.3",
-        "link": ""
-    },
-    {
-        "date": "24/01",
-        "package_name": "cryptsetup",
-        "version": "2.7.0",
         "link": ""
     }
 ]
