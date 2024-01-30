@@ -1,5 +1,15 @@
 [
     {
+        "date": "29/01",
+        "distro_name": "Regata",
+        "version": "23.0.40"
+    },
+    {
+        "date": "29/01",
+        "distro_name": "LibreELEC",
+        "version": "11.0.6"
+    },
+    {
         "date": "28/01",
         "distro_name": "SDesk",
         "version": "2024.01.26"
@@ -48,15 +58,5 @@
         "date": "24/01",
         "distro_name": "Gnoppix",
         "version": "24.1.15"
-    },
-    {
-        "date": "24/01",
-        "distro_name": "Slackel 7.7",
-        "version": "\"MATE\""
-    },
-    {
-        "date": "24/01",
-        "distro_name": "Parrot",
-        "version": "6.0"
     }
 ]
