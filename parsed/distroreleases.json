@@ -1,6 +1,11 @@
 [
     {
         "date": "30/01",
+        "distro_name": "SysLinuxOS",
+        "version": "12.3"
+    },
+    {
+        "date": "30/01",
         "distro_name": "Pentoo",
         "version": "2024.0"
     },
@@ -53,10 +58,5 @@
         "date": "26/01",
         "distro_name": "Alpine",
         "version": "3.19.1"
-    },
-    {
-        "date": "26/01",
-        "distro_name": "Bluestar",
-        "version": "6.7.1"
     }
 ]
