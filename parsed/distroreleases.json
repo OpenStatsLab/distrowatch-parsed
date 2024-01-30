@@ -1,5 +1,10 @@
 [
     {
+        "date": "30/01",
+        "distro_name": "Tails",
+        "version": "5.22"
+    },
+    {
         "date": "29/01",
         "distro_name": "Regata",
         "version": "23.0.40"
@@ -53,10 +58,5 @@
         "date": "25/01",
         "distro_name": "SmartOS",
         "version": "20240125"
-    },
-    {
-        "date": "24/01",
-        "distro_name": "Gnoppix",
-        "version": "24.1.15"
     }
 ]
