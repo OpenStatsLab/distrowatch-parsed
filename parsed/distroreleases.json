@@ -1,6 +1,11 @@
 [
     {
         "date": "30/01",
+        "distro_name": "OPNsense",
+        "version": "24.1"
+    },
+    {
+        "date": "30/01",
         "distro_name": "Tails",
         "version": "5.22"
     },
@@ -52,11 +57,6 @@
     {
         "date": "25/01",
         "distro_name": "KDE neon",
-        "version": "20240125"
-    },
-    {
-        "date": "25/01",
-        "distro_name": "SmartOS",
         "version": "20240125"
     }
 ]
