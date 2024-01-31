@@ -1,6 +1,24 @@
 [
     {
         "date": "31/01",
+        "package_name": "LibreOffice",
+        "version": "24.2.0",
+        "link": ""
+    },
+    {
+        "date": "31/01",
+        "package_name": "chromium",
+        "version": "121.0.6167.139",
+        "link": ""
+    },
+    {
+        "date": "31/01",
+        "package_name": "sendmail",
+        "version": "8.18.1",
+        "link": ""
+    },
+    {
+        "date": "31/01",
         "package_name": "pipewire",
         "version": "1.0.2",
         "link": ""
@@ -51,24 +69,6 @@
         "date": "29/01",
         "package_name": "lzip",
         "version": "1.24",
-        "link": ""
-    },
-    {
-        "date": "29/01",
-        "package_name": "openldap",
-        "version": "2.6.7",
-        "link": ""
-    },
-    {
-        "date": "29/01",
-        "package_name": "binutils",
-        "version": "2.42",
-        "link": ""
-    },
-    {
-        "date": "28/01",
-        "package_name": "budgie-desktop",
-        "version": "10.9",
         "link": ""
     }
 ]
