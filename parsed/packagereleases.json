@@ -1,6 +1,12 @@
 [
     {
         "date": "31/01",
+        "package_name": "pipewire",
+        "version": "1.0.2",
+        "link": ""
+    },
+    {
+        "date": "31/01",
         "package_name": "curl",
         "version": "8.6.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "28/01",
         "package_name": "budgie-desktop",
         "version": "10.9",
-        "link": ""
-    },
-    {
-        "date": "27/01",
-        "package_name": "mc",
-        "version": "4.8.31",
         "link": ""
     }
 ]
