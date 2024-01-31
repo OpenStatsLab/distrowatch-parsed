@@ -1,5 +1,11 @@
 [
     {
+        "date": "31/01",
+        "package_name": "curl",
+        "version": "8.6.0",
+        "link": ""
+    },
+    {
         "date": "30/01",
         "package_name": "wordpress",
         "version": "6.4.3",
@@ -63,12 +69,6 @@
         "date": "27/01",
         "package_name": "mc",
         "version": "4.8.31",
-        "link": ""
-    },
-    {
-        "date": "26/01",
-        "package_name": "xz",
-        "version": "5.4.6",
         "link": ""
     }
 ]
