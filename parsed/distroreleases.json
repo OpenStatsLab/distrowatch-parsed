@@ -1,6 +1,11 @@
 [
     {
         "date": "01/02",
+        "distro_name": "Bluestar",
+        "version": "6.7.2"
+    },
+    {
+        "date": "01/02",
         "distro_name": "KDE neon",
         "version": "20240201"
     },
@@ -53,10 +58,5 @@
         "date": "29/01",
         "distro_name": "LibreELEC",
         "version": "11.0.6"
-    },
-    {
-        "date": "28/01",
-        "distro_name": "SDesk",
-        "version": "2024.01.26"
     }
 ]
