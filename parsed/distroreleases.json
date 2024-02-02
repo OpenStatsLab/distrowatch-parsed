@@ -1,6 +1,11 @@
 [
     {
         "date": "02/02",
+        "distro_name": "deepin",
+        "version": "23-beta3"
+    },
+    {
+        "date": "02/02",
         "distro_name": "Clonezilla",
         "version": "3.1.2-9"
     },
@@ -53,10 +58,5 @@
         "date": "30/01",
         "distro_name": "NomadBSD",
         "version": "140R-20240126"
-    },
-    {
-        "date": "30/01",
-        "distro_name": "OPNsense",
-        "version": "24.1"
     }
 ]
