@@ -1,5 +1,10 @@
 [
     {
+        "date": "02/02",
+        "distro_name": "Snal",
+        "version": "1.31"
+    },
+    {
         "date": "01/02",
         "distro_name": "Damn Small",
         "version": "2024-alpha"
@@ -53,10 +58,5 @@
         "date": "30/01",
         "distro_name": "Tails",
         "version": "5.22"
-    },
-    {
-        "date": "29/01",
-        "distro_name": "Regata",
-        "version": "23.0.40"
     }
 ]
