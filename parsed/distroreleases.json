@@ -1,6 +1,11 @@
 [
     {
         "date": "02/02",
+        "distro_name": "Mabox",
+        "version": "24.02"
+    },
+    {
+        "date": "02/02",
         "distro_name": "Tails",
         "version": "6.0-rc1"
     },
@@ -53,10 +58,5 @@
         "date": "31/01",
         "distro_name": "Bicom Systems 7.1.0",
         "version": "\"PBX\""
-    },
-    {
-        "date": "31/01",
-        "distro_name": "ArcoLinux",
-        "version": "24.02.04"
     }
 ]
