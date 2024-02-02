@@ -1,6 +1,11 @@
 [
     {
         "date": "02/02",
+        "distro_name": "KaOS",
+        "version": "2024.01"
+    },
+    {
+        "date": "02/02",
         "distro_name": "Archman",
         "version": "20240202"
     },
@@ -53,10 +58,5 @@
         "date": "30/01",
         "distro_name": "SysLinuxOS",
         "version": "12.3"
-    },
-    {
-        "date": "30/01",
-        "distro_name": "Pentoo",
-        "version": "2024.0"
     }
 ]
