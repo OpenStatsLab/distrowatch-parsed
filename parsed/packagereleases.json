@@ -1,5 +1,11 @@
 [
     {
+        "date": "04/02",
+        "package_name": "squid",
+        "version": "6.7",
+        "link": ""
+    },
+    {
         "date": "02/02",
         "package_name": "budgie-desktop",
         "version": "10.9.1",
@@ -63,12 +69,6 @@
         "date": "30/01",
         "package_name": "wordpress",
         "version": "6.4.3",
-        "link": ""
-    },
-    {
-        "date": "30/01",
-        "package_name": "sqlite",
-        "version": "3.45.1",
         "link": ""
     }
 ]
