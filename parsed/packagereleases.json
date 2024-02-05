@@ -1,6 +1,12 @@
 [
     {
         "date": "05/02",
+        "package_name": "cmake",
+        "version": "3.28.3",
+        "link": ""
+    },
+    {
+        "date": "05/02",
         "package_name": "xfsprogs",
         "version": "6.6.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "31/01",
         "package_name": "sendmail",
         "version": "8.18.1",
-        "link": ""
-    },
-    {
-        "date": "31/01",
-        "package_name": "curl",
-        "version": "8.6.0",
         "link": ""
     }
 ]
