@@ -1,5 +1,11 @@
 [
     {
+        "date": "06/02",
+        "package_name": "mariadb",
+        "version": "11.2.3",
+        "link": ""
+    },
+    {
         "date": "05/02",
         "package_name": "firefox",
         "version": "122.0.1",
@@ -63,12 +69,6 @@
         "date": "31/01",
         "package_name": "LibreOffice",
         "version": "24.2.0",
-        "link": ""
-    },
-    {
-        "date": "31/01",
-        "package_name": "chromium",
-        "version": "121.0.6167.139",
         "link": ""
     }
 ]
