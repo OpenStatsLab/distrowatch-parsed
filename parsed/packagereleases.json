@@ -1,6 +1,18 @@
 [
     {
         "date": "07/02",
+        "package_name": "opera",
+        "version": "107.0.5045.15",
+        "link": ""
+    },
+    {
+        "date": "07/02",
+        "package_name": "chromium",
+        "version": "121.0.6167.160",
+        "link": ""
+    },
+    {
+        "date": "07/02",
         "package_name": "clamav",
         "version": "1.3.0",
         "link": ""
@@ -57,18 +69,6 @@
         "date": "05/02",
         "package_name": "cmake",
         "version": "3.28.3",
-        "link": ""
-    },
-    {
-        "date": "05/02",
-        "package_name": "xfsprogs",
-        "version": "6.6.0",
-        "link": ""
-    },
-    {
-        "date": "04/02",
-        "package_name": "squid",
-        "version": "6.7",
         "link": ""
     }
 ]
