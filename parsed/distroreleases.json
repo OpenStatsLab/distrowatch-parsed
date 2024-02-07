@@ -1,5 +1,10 @@
 [
     {
+        "date": "07/02",
+        "distro_name": "Plop",
+        "version": "24.1"
+    },
+    {
         "date": "06/02",
         "distro_name": "Grml",
         "version": "2024.02-rc1"
@@ -53,10 +58,5 @@
         "date": "02/02",
         "distro_name": "deepin",
         "version": "23-beta3"
-    },
-    {
-        "date": "02/02",
-        "distro_name": "Clonezilla",
-        "version": "3.1.2-9"
     }
 ]
