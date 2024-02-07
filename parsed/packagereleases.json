@@ -1,6 +1,12 @@
 [
     {
         "date": "07/02",
+        "package_name": "clamav",
+        "version": "1.3.0",
+        "link": ""
+    },
+    {
+        "date": "07/02",
         "package_name": "rpm",
         "version": "4.19.1.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "04/02",
         "package_name": "squid",
         "version": "6.7",
-        "link": ""
-    },
-    {
-        "date": "02/02",
-        "package_name": "budgie-desktop",
-        "version": "10.9.1",
         "link": ""
     }
 ]
