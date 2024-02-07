@@ -1,6 +1,12 @@
 [
     {
         "date": "07/02",
+        "package_name": "qt-creator",
+        "version": "12.0.2",
+        "link": ""
+    },
+    {
+        "date": "07/02",
         "package_name": "docker",
         "version": "25.0.3",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "02/02",
         "package_name": "pipewire",
         "version": "1.0.3",
-        "link": ""
-    },
-    {
-        "date": "01/02",
-        "package_name": "docker",
-        "version": "25.0.3",
         "link": ""
     }
 ]
