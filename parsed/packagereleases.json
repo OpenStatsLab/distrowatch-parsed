@@ -1,6 +1,12 @@
 [
     {
         "date": "08/02",
+        "package_name": "dnf",
+        "version": "4.19.0",
+        "link": ""
+    },
+    {
+        "date": "08/02",
         "package_name": "rust",
         "version": "1.76.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "05/02",
         "package_name": "firefox",
         "version": "122.0.1",
-        "link": ""
-    },
-    {
-        "date": "05/02",
-        "package_name": "linux",
-        "version": "6.7.4",
         "link": ""
     }
 ]
