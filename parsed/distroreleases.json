@@ -1,6 +1,11 @@
 [
     {
         "date": "08/02",
+        "distro_name": "SmartOS",
+        "version": "20240208"
+    },
+    {
+        "date": "08/02",
         "distro_name": "KDE neon",
         "version": "20240208"
     },
@@ -53,10 +58,5 @@
         "date": "02/02",
         "distro_name": "Tails",
         "version": "6.0-rc1"
-    },
-    {
-        "date": "02/02",
-        "distro_name": "KaOS",
-        "version": "2024.01"
     }
 ]
