@@ -1,5 +1,11 @@
 [
     {
+        "date": "08/02",
+        "package_name": "rust",
+        "version": "1.76.0",
+        "link": ""
+    },
+    {
         "date": "07/02",
         "package_name": "opera",
         "version": "107.0.5045.15",
@@ -63,12 +69,6 @@
         "date": "05/02",
         "package_name": "linux",
         "version": "6.7.4",
-        "link": ""
-    },
-    {
-        "date": "05/02",
-        "package_name": "cmake",
-        "version": "3.28.3",
         "link": ""
     }
 ]

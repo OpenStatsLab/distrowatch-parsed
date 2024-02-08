@@ -1,5 +1,10 @@
 [
     {
+        "date": "08/02",
+        "distro_name": "KDE neon",
+        "version": "20240208"
+    },
+    {
         "date": "07/02",
         "distro_name": "NetBSD",
         "version": "10.0-RC4"
@@ -53,10 +58,5 @@
         "date": "02/02",
         "distro_name": "KaOS",
         "version": "2024.01"
-    },
-    {
-        "date": "02/02",
-        "distro_name": "Archman",
-        "version": "20240202"
     }
 ]
