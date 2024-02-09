@@ -1,6 +1,12 @@
 [
     {
         "date": "09/02",
+        "package_name": "mythtv",
+        "version": "34.0",
+        "link": ""
+    },
+    {
+        "date": "09/02",
         "package_name": "git",
         "version": "2.43.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "07/02",
         "package_name": "docker",
         "version": "25.0.3",
-        "link": ""
-    },
-    {
-        "date": "06/02",
-        "package_name": "Python",
-        "version": "3.12.2",
         "link": ""
     }
 ]
