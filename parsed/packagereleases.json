@@ -1,6 +1,12 @@
 [
     {
         "date": "09/02",
+        "package_name": "git",
+        "version": "2.43.1",
+        "link": ""
+    },
+    {
+        "date": "09/02",
         "package_name": "evolution",
         "version": "3.50.4",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "06/02",
         "package_name": "Python",
         "version": "3.12.2",
-        "link": ""
-    },
-    {
-        "date": "06/02",
-        "package_name": "postgresql",
-        "version": "16.2",
         "link": ""
     }
 ]
