@@ -1,6 +1,11 @@
 [
     {
         "date": "09/02",
+        "distro_name": "FreeBSD",
+        "version": "13.3-BETA2"
+    },
+    {
+        "date": "09/02",
         "distro_name": "ExTiX",
         "version": "24.2"
     },
