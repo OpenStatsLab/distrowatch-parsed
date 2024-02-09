@@ -1,5 +1,17 @@
 [
     {
+        "date": "09/02",
+        "package_name": "evolution",
+        "version": "3.50.4",
+        "link": ""
+    },
+    {
+        "date": "09/02",
+        "package_name": "calibre",
+        "version": "7.5.1",
+        "link": ""
+    },
+    {
         "date": "08/02",
         "package_name": "dnf",
         "version": "4.19.0",
@@ -57,18 +69,6 @@
         "date": "06/02",
         "package_name": "postgresql",
         "version": "16.2",
-        "link": ""
-    },
-    {
-        "date": "06/02",
-        "package_name": "mariadb",
-        "version": "11.2.3",
-        "link": ""
-    },
-    {
-        "date": "05/02",
-        "package_name": "firefox",
-        "version": "122.0.1",
         "link": ""
     }
 ]
