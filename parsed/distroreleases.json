@@ -1,5 +1,10 @@
 [
     {
+        "date": "09/02",
+        "distro_name": "ExTiX",
+        "version": "24.2"
+    },
+    {
         "date": "08/02",
         "distro_name": "SmartOS",
         "version": "20240208"
@@ -43,20 +48,5 @@
         "date": "03/02",
         "distro_name": "EasyOS",
         "version": "5.7"
-    },
-    {
-        "date": "02/02",
-        "distro_name": "Arch",
-        "version": "2024.02.01"
-    },
-    {
-        "date": "02/02",
-        "distro_name": "Mabox",
-        "version": "24.02"
-    },
-    {
-        "date": "02/02",
-        "distro_name": "Tails",
-        "version": "6.0-rc1"
     }
 ]
