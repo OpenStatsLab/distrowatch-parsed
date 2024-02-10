@@ -1,5 +1,11 @@
 [
     {
+        "date": "10/02",
+        "package_name": "kodi",
+        "version": "20.4",
+        "link": ""
+    },
+    {
         "date": "09/02",
         "package_name": "mythtv",
         "version": "34.0",
@@ -63,12 +69,6 @@
         "date": "07/02",
         "package_name": "qt-creator",
         "version": "12.0.2",
-        "link": ""
-    },
-    {
-        "date": "07/02",
-        "package_name": "docker",
-        "version": "25.0.3",
         "link": ""
     }
 ]
