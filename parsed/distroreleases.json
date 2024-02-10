@@ -1,6 +1,11 @@
 [
     {
         "date": "10/02",
+        "distro_name": "Debian",
+        "version": "12.5.0"
+    },
+    {
+        "date": "10/02",
         "distro_name": "NuTyX",
         "version": "24.02.0"
     },
@@ -53,10 +58,5 @@
         "date": "05/02",
         "distro_name": "Ultimate",
         "version": "2024.02.04"
-    },
-    {
-        "date": "04/02",
-        "distro_name": "FreeBSD",
-        "version": "13.3-BETA1"
     }
 ]
