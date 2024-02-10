@@ -1,5 +1,10 @@
 [
     {
+        "date": "10/02",
+        "distro_name": "4MLinux",
+        "version": "44.1"
+    },
+    {
         "date": "09/02",
         "distro_name": "FreeBSD",
         "version": "13.3-BETA2"
@@ -48,10 +53,5 @@
         "date": "04/02",
         "distro_name": "FreeBSD",
         "version": "13.3-BETA1"
-    },
-    {
-        "date": "03/02",
-        "distro_name": "EasyOS",
-        "version": "5.7"
     }
 ]
