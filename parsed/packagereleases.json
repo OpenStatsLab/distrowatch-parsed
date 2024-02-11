@@ -1,5 +1,11 @@
 [
     {
+        "date": "11/02",
+        "package_name": "gnome-shell",
+        "version": "45.4",
+        "link": ""
+    },
+    {
         "date": "10/02",
         "package_name": "kodi",
         "version": "20.4",
@@ -63,12 +69,6 @@
         "date": "07/02",
         "package_name": "rpm",
         "version": "4.19.1.1",
-        "link": ""
-    },
-    {
-        "date": "07/02",
-        "package_name": "qt-creator",
-        "version": "12.0.2",
         "link": ""
     }
 ]
