@@ -1,5 +1,10 @@
 [
     {
+        "date": "11/01",
+        "distro_name": "Bluestar",
+        "version": "6.7.4"
+    },
+    {
         "date": "10/01",
         "distro_name": "Debian-Edu",
         "version": "12.5.0"
@@ -53,10 +58,5 @@
         "date": "06/02",
         "distro_name": "Grml",
         "version": "2024.02-rc1"
-    },
-    {
-        "date": "05/02",
-        "distro_name": "OSMC",
-        "version": "2024.02-1"
     }
 ]
