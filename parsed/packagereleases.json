@@ -1,6 +1,12 @@
 [
     {
         "date": "12/02",
+        "package_name": "mate-desktop",
+        "version": "1.28.0",
+        "link": ""
+    },
+    {
+        "date": "12/02",
         "package_name": "openvpn",
         "version": "2.6.9",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "08/02",
         "package_name": "rust",
         "version": "1.76.0",
-        "link": ""
-    },
-    {
-        "date": "07/02",
-        "package_name": "opera",
-        "version": "107.0.5045.15",
         "link": ""
     }
 ]
