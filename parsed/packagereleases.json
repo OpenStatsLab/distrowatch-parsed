@@ -1,6 +1,12 @@
 [
     {
         "date": "12/02",
+        "package_name": "openvpn",
+        "version": "2.6.9",
+        "link": ""
+    },
+    {
+        "date": "12/02",
         "package_name": "man-pages",
         "version": "6.06",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "07/02",
         "package_name": "opera",
         "version": "107.0.5045.15",
-        "link": ""
-    },
-    {
-        "date": "07/02",
-        "package_name": "chromium",
-        "version": "121.0.6167.160",
         "link": ""
     }
 ]
