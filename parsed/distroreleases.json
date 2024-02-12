@@ -1,6 +1,11 @@
 [
     {
         "date": "11/01",
+        "distro_name": "Sparky",
+        "version": "2024.02"
+    },
+    {
+        "date": "11/01",
         "distro_name": "Bluestar",
         "version": "6.7.4"
     },
@@ -53,10 +58,5 @@
         "date": "07/02",
         "distro_name": "Plop",
         "version": "24.1"
-    },
-    {
-        "date": "06/02",
-        "distro_name": "Grml",
-        "version": "2024.02-rc1"
     }
 ]
