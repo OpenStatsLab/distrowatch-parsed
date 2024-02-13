@@ -1,5 +1,10 @@
 [
     {
+        "date": "13/02",
+        "distro_name": "GhostBSD",
+        "version": "24.01.1"
+    },
+    {
         "date": "11/02",
         "distro_name": "SparkyLinux",
         "version": "2024.02"
@@ -53,10 +58,5 @@
         "date": "07/02",
         "distro_name": "NetBSD",
         "version": "10.0-RC4"
-    },
-    {
-        "date": "07/02",
-        "distro_name": "Plop",
-        "version": "24.1"
     }
 ]
