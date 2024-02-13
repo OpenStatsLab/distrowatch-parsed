@@ -1,5 +1,11 @@
 [
     {
+        "date": "13/02",
+        "package_name": "tmux",
+        "version": "3.4",
+        "link": ""
+    },
+    {
         "date": "12/02",
         "package_name": "mate-desktop",
         "version": "1.28.0",
@@ -63,12 +69,6 @@
         "date": "08/02",
         "package_name": "dnf",
         "version": "4.19.0",
-        "link": ""
-    },
-    {
-        "date": "08/02",
-        "package_name": "rust",
-        "version": "1.76.0",
         "link": ""
     }
 ]
