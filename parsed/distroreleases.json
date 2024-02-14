@@ -53,10 +53,5 @@
         "date": "08/02",
         "distro_name": "KDE neon",
         "version": "20240208"
-    },
-    {
-        "date": "07/02",
-        "distro_name": "NetBSD",
-        "version": "10.0-RC4"
     }
 ]
