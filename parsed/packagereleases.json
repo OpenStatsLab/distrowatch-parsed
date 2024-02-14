@@ -1,6 +1,12 @@
 [
     {
         "date": "14/02",
+        "package_name": "git",
+        "version": "2.43.2",
+        "link": ""
+    },
+    {
+        "date": "14/02",
         "package_name": "shotwell",
         "version": "0.32.6",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "12/02",
         "package_name": "openvpn",
         "version": "2.6.9",
-        "link": ""
-    },
-    {
-        "date": "12/02",
-        "package_name": "man-pages",
-        "version": "6.06",
         "link": ""
     }
 ]
