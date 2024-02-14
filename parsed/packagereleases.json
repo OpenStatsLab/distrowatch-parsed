@@ -1,5 +1,11 @@
 [
     {
+        "date": "14/02",
+        "package_name": "qt",
+        "version": "6.6.2",
+        "link": ""
+    },
+    {
         "date": "13/02",
         "package_name": "chromium",
         "version": "121.0.6167.184",
@@ -63,12 +69,6 @@
         "date": "12/02",
         "package_name": "gnumeric",
         "version": "1.12.57",
-        "link": ""
-    },
-    {
-        "date": "11/02",
-        "package_name": "gnome-shell",
-        "version": "45.4",
         "link": ""
     }
 ]
