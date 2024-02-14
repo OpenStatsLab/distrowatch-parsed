@@ -1,6 +1,12 @@
 [
     {
         "date": "14/02",
+        "package_name": "shotwell",
+        "version": "0.32.5",
+        "link": ""
+    },
+    {
+        "date": "14/02",
         "package_name": "qt",
         "version": "6.6.2",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "12/02",
         "package_name": "man-pages",
         "version": "6.06",
-        "link": ""
-    },
-    {
-        "date": "12/02",
-        "package_name": "gnumeric",
-        "version": "1.12.57",
         "link": ""
     }
 ]
