@@ -1,5 +1,10 @@
 [
     {
+        "date": "15/02",
+        "distro_name": "Plop",
+        "version": "24.2"
+    },
+    {
         "date": "13/02",
         "distro_name": "GhostBSD",
         "version": "24.01.1"
