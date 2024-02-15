@@ -1,6 +1,11 @@
 [
     {
         "date": "15/02",
+        "distro_name": "KDE neon",
+        "version": "20240215"
+    },
+    {
+        "date": "15/02",
         "distro_name": "Plop",
         "version": "24.2"
     },
@@ -48,15 +53,5 @@
         "date": "09/02",
         "distro_name": "ExTiX",
         "version": "24.2"
-    },
-    {
-        "date": "08/02",
-        "distro_name": "SmartOS",
-        "version": "20240208"
-    },
-    {
-        "date": "08/02",
-        "distro_name": "KDE neon",
-        "version": "20240208"
     }
 ]
