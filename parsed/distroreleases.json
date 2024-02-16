@@ -1,5 +1,10 @@
 [
     {
+        "date": "16/02",
+        "distro_name": "FreeBSD",
+        "version": "13.3-BETA3"
+    },
+    {
         "date": "15/02",
         "distro_name": "KDE neon",
         "version": "20240215"
