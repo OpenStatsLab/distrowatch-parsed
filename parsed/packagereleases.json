@@ -1,5 +1,11 @@
 [
     {
+        "date": "18/02",
+        "package_name": "snapd",
+        "version": "2.61.2",
+        "link": ""
+    },
+    {
         "date": "16/02",
         "package_name": "mate-desktop",
         "version": "1.28.1",
@@ -63,12 +69,6 @@
         "date": "13/02",
         "package_name": "apt",
         "version": "2.7.11",
-        "link": ""
-    },
-    {
-        "date": "13/02",
-        "package_name": "gstreamer",
-        "version": "1.22.10",
         "link": ""
     }
 ]
