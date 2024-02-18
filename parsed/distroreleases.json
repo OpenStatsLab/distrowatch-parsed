@@ -1,5 +1,10 @@
 [
     {
+        "date": "18/02",
+        "distro_name": "Bluestar",
+        "version": "6.7.5"
+    },
+    {
         "date": "17/02",
         "distro_name": "OpenMediaVault",
         "version": "7.0-32"
@@ -23,10 +28,5 @@
         "date": "13/02",
         "distro_name": "GhostBSD",
         "version": "24.01.1"
-    },
-    {
-        "date": "11/02",
-        "distro_name": "SparkyLinux",
-        "version": "2024.02"
     }
 ]
