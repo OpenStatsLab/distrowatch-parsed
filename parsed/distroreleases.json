@@ -28,10 +28,5 @@
         "date": "11/02",
         "distro_name": "SparkyLinux",
         "version": "2024.02"
-    },
-    {
-        "date": "11/02",
-        "distro_name": "Bluestar",
-        "version": "6.7.4"
     }
 ]
