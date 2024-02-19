@@ -1,6 +1,12 @@
 [
     {
         "date": "19/02",
+        "package_name": "apache-tomcat",
+        "version": "10.1.19",
+        "link": ""
+    },
+    {
+        "date": "19/02",
         "package_name": "samba",
         "version": "4.19.5",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "14/02",
         "package_name": "qt",
         "version": "6.6.2",
-        "link": ""
-    },
-    {
-        "date": "13/02",
-        "package_name": "chromium",
-        "version": "122.0.6261.39",
         "link": ""
     }
 ]
