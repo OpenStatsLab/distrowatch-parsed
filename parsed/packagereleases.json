@@ -1,5 +1,11 @@
 [
     {
+        "date": "20/02",
+        "package_name": "lighttpd",
+        "version": "1.4.74",
+        "link": ""
+    },
+    {
         "date": "19/02",
         "package_name": "apache-tomcat",
         "version": "10.1.19",
@@ -63,12 +69,6 @@
         "date": "14/02",
         "package_name": "shotwell",
         "version": "0.32.6",
-        "link": ""
-    },
-    {
-        "date": "14/02",
-        "package_name": "qt",
-        "version": "6.6.2",
         "link": ""
     }
 ]
