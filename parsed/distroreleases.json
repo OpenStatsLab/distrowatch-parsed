@@ -1,5 +1,10 @@
 [
     {
+        "date": "21/02",
+        "distro_name": "antiX",
+        "version": "23.1"
+    },
+    {
         "date": "18/02",
         "distro_name": "Bluestar",
         "version": "6.7.5"
