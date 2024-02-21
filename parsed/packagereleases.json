@@ -1,5 +1,11 @@
 [
     {
+        "date": "21/02",
+        "package_name": "thunderbird",
+        "version": "115.8.0",
+        "link": ""
+    },
+    {
         "date": "20/02",
         "package_name": "apt",
         "version": "2.7.12",
@@ -57,18 +63,6 @@
         "date": "15/02",
         "package_name": "qt-creator",
         "version": "13.0.0",
-        "link": ""
-    },
-    {
-        "date": "14/02",
-        "package_name": "mesa",
-        "version": "24.0.1",
-        "link": ""
-    },
-    {
-        "date": "14/02",
-        "package_name": "wireshark",
-        "version": "4.2.3",
         "link": ""
     }
 ]
