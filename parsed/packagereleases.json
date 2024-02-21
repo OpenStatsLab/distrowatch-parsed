@@ -1,6 +1,12 @@
 [
     {
         "date": "21/02",
+        "package_name": "chromium",
+        "version": "122.0.6261.57",
+        "link": ""
+    },
+    {
+        "date": "21/02",
         "package_name": "thunderbird",
         "version": "115.8.0",
         "link": ""
