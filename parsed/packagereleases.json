@@ -1,5 +1,11 @@
 [
     {
+        "date": "22/02",
+        "package_name": "gettext",
+        "version": "0.22.5",
+        "link": ""
+    },
+    {
         "date": "21/02",
         "package_name": "chromium",
         "version": "122.0.6261.57",
@@ -63,12 +69,6 @@
         "date": "16/02",
         "package_name": "linux",
         "version": "6.7.5",
-        "link": ""
-    },
-    {
-        "date": "15/02",
-        "package_name": "qt-creator",
-        "version": "13.0.0",
         "link": ""
     }
 ]
