@@ -1,6 +1,26 @@
 [
     {
         "date": "22/02",
+        "distro_name": "Xubuntu",
+        "version": "22.04.4"
+    },
+    {
+        "date": "22/02",
+        "distro_name": "Ubuntu",
+        "version": "22.04.4"
+    },
+    {
+        "date": "22/02",
+        "distro_name": "Tiny Core",
+        "version": "15.0"
+    },
+    {
+        "date": "22/02",
+        "distro_name": "TUXEDO OS",
+        "version": "2-20240222"
+    },
+    {
+        "date": "22/02",
         "distro_name": "SmartOS",
         "version": "20230222"
     },
