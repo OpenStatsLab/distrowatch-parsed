@@ -1,6 +1,36 @@
 [
     {
         "date": "22/02",
+        "distro_name": "Kubuntu",
+        "version": "22.04.4"
+    },
+    {
+        "date": "22/02",
+        "distro_name": "Lubuntu",
+        "version": "22.04.4"
+    },
+    {
+        "date": "22/02",
+        "distro_name": "Ubuntu Kylin",
+        "version": "22.04.4"
+    },
+    {
+        "date": "22/02",
+        "distro_name": "Ubuntu MATE",
+        "version": "22.04.4"
+    },
+    {
+        "date": "22/02",
+        "distro_name": "Ubuntu Budgie",
+        "version": "22.04.4"
+    },
+    {
+        "date": "22/02",
+        "distro_name": "Ubuntu Studio",
+        "version": "22.04.4"
+    },
+    {
+        "date": "22/02",
         "distro_name": "Xubuntu",
         "version": "22.04.4"
     },
@@ -28,20 +58,5 @@
         "date": "21/02",
         "distro_name": "antiX",
         "version": "23.1"
-    },
-    {
-        "date": "18/02",
-        "distro_name": "Bluestar",
-        "version": "6.7.5"
-    },
-    {
-        "date": "17/02",
-        "distro_name": "OpenMediaVault",
-        "version": "7.0-32"
-    },
-    {
-        "date": "16/02",
-        "distro_name": "FreeBSD",
-        "version": "13.3-BETA3"
     }
 ]
