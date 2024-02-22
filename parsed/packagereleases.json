@@ -1,6 +1,12 @@
 [
     {
         "date": "22/02",
+        "package_name": "NetworkManager",
+        "version": "1.46.0",
+        "link": ""
+    },
+    {
+        "date": "22/02",
         "package_name": "gettext",
         "version": "0.22.5",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "16/02",
         "package_name": "mate-desktop",
         "version": "1.28.1",
-        "link": ""
-    },
-    {
-        "date": "16/02",
-        "package_name": "linux",
-        "version": "6.7.5",
         "link": ""
     }
 ]
