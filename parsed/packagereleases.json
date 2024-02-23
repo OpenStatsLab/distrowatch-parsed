@@ -1,6 +1,12 @@
 [
     {
         "date": "23/02",
+        "package_name": "chromium",
+        "version": "122.0.6261.69",
+        "link": ""
+    },
+    {
+        "date": "23/02",
         "package_name": "pidgin",
         "version": "2.14.13",
         "link": ""
@@ -27,12 +33,6 @@
         "date": "22/02",
         "package_name": "gettext",
         "version": "0.22.5",
-        "link": ""
-    },
-    {
-        "date": "21/02",
-        "package_name": "chromium",
-        "version": "122.0.6261.57",
         "link": ""
     },
     {
