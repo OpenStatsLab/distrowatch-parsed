@@ -1,5 +1,10 @@
 [
     {
+        "date": "24/02",
+        "distro_name": "CachyOS",
+        "version": "240224"
+    },
+    {
         "date": "22/02",
         "distro_name": "Kubuntu",
         "version": "22.04.4"
@@ -53,10 +58,5 @@
         "date": "22/02",
         "distro_name": "SmartOS",
         "version": "20240222"
-    },
-    {
-        "date": "21/02",
-        "distro_name": "antiX",
-        "version": "23.1"
     }
 ]
