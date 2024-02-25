@@ -1,5 +1,15 @@
 [
     {
+        "date": "25/02",
+        "distro_name": "Bluestar",
+        "version": "6.7.6"
+    },
+    {
+        "date": "25/02",
+        "distro_name": "Accessible-Coconut",
+        "version": "22.04.3"
+    },
+    {
         "date": "24/02",
         "distro_name": "CachyOS",
         "version": "240224"
@@ -48,15 +58,5 @@
         "date": "22/02",
         "distro_name": "Tiny Core",
         "version": "15.0"
-    },
-    {
-        "date": "22/02",
-        "distro_name": "TUXEDO",
-        "version": "2-20240222"
-    },
-    {
-        "date": "22/02",
-        "distro_name": "SmartOS",
-        "version": "20240222"
     }
 ]
