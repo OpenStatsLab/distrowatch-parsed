@@ -36,6 +36,15 @@
         "ostype": "Linux"
     },
     {
+        "distro": "Accessible-Coconut",
+        "codename": "ac",
+        "url": "https://distrowatch.com/table.php?distribution=ac",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/ac.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/ac.png",
+        "homepage": "https://zendalona.com/accessible-coconut/",
+        "ostype": "Linux"
+    },
+    {
         "distro": "AlmaLinux",
         "codename": "alma",
         "url": "https://distrowatch.com/table.php?distribution=alma",
