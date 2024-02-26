@@ -1,5 +1,11 @@
 [
     {
+        "date": "26/02",
+        "package_name": "gparted",
+        "version": "1.6.0",
+        "link": ""
+    },
+    {
         "date": "24/02",
         "package_name": "xz",
         "version": "5.6.0",
@@ -63,12 +69,6 @@
         "date": "20/02",
         "package_name": "apt",
         "version": "2.7.12",
-        "link": ""
-    },
-    {
-        "date": "20/02",
-        "package_name": "netbeans",
-        "version": "21",
         "link": ""
     }
 ]
