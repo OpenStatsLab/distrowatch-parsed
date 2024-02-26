@@ -1,5 +1,10 @@
 [
     {
+        "date": "26/02",
+        "distro_name": "FreeBSD",
+        "version": "13.3-RC1"
+    },
+    {
         "date": "25/02",
         "distro_name": "Bluestar",
         "version": "6.7.6"
@@ -53,10 +58,5 @@
         "date": "22/02",
         "distro_name": "Ubuntu",
         "version": "22.04.4"
-    },
-    {
-        "date": "22/02",
-        "distro_name": "Tiny Core",
-        "version": "15.0"
     }
 ]
