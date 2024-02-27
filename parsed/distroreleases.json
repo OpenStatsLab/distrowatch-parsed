@@ -1,6 +1,11 @@
 [
     {
         "date": "27/02",
+        "distro_name": "Tails",
+        "version": "6.0"
+    },
+    {
+        "date": "27/02",
         "distro_name": "MakuluLinux",
         "version": "2024-02-27"
     },
@@ -52,11 +57,6 @@
     {
         "date": "22/02",
         "distro_name": "Ubuntu Budgie",
-        "version": "22.04.4"
-    },
-    {
-        "date": "22/02",
-        "distro_name": "Ubuntu Studio",
         "version": "22.04.4"
     }
 ]
