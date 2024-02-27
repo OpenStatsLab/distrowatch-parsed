@@ -1,5 +1,10 @@
 [
     {
+        "date": "27/02",
+        "distro_name": "MakuluLinux",
+        "version": "2024-02-27"
+    },
+    {
         "date": "26/02",
         "distro_name": "Zentyal",
         "version": "8.0"
@@ -52,11 +57,6 @@
     {
         "date": "22/02",
         "distro_name": "Ubuntu Studio",
-        "version": "22.04.4"
-    },
-    {
-        "date": "22/02",
-        "distro_name": "Xubuntu",
         "version": "22.04.4"
     }
 ]
