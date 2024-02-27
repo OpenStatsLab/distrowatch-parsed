@@ -64,11 +64,5 @@
         "package_name": "thunderbird",
         "version": "115.8.0",
         "link": ""
-    },
-    {
-        "date": "20/02",
-        "package_name": "apt",
-        "version": "2.7.12",
-        "link": ""
     }
 ]
