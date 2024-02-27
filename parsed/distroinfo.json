@@ -2457,6 +2457,15 @@
         "ostype": "Linux"
     },
     {
+        "distro": "Zentyal",
+        "codename": "zentyal",
+        "url": "https://distrowatch.com/table.php?distribution=zentyal",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/zentyal.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/zentyal.png",
+        "homepage": "https://www.zentyal.org/",
+        "ostype": "Linux"
+    },
+    {
         "distro": "Zenwalk",
         "codename": "zenwalk",
         "url": "https://distrowatch.com/table.php?distribution=zenwalk",
