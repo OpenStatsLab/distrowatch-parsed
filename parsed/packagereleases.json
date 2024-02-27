@@ -1,5 +1,11 @@
 [
     {
+        "date": "27/02",
+        "package_name": "systemd",
+        "version": "255.4",
+        "link": ""
+    },
+    {
         "date": "26/02",
         "package_name": "gparted",
         "version": "1.6.0",
