@@ -1,6 +1,12 @@
 [
     {
         "date": "28/02",
+        "package_name": "k3b",
+        "version": "24.02.0",
+        "link": ""
+    },
+    {
+        "date": "28/02",
         "package_name": "plasma-desktop",
         "version": "6.0.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "22/02",
         "package_name": "NetworkManager",
         "version": "1.46.0",
-        "link": ""
-    },
-    {
-        "date": "22/02",
-        "package_name": "gettext",
-        "version": "0.22.5",
         "link": ""
     }
 ]
