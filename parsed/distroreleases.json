@@ -1,5 +1,10 @@
 [
     {
+        "date": "28/02",
+        "distro_name": "openmamba",
+        "version": "20240228"
+    },
+    {
         "date": "27/02",
         "distro_name": "Tails",
         "version": "6.0"
@@ -52,11 +57,6 @@
     {
         "date": "22/02",
         "distro_name": "Ubuntu MATE",
-        "version": "22.04.4"
-    },
-    {
-        "date": "22/02",
-        "distro_name": "Ubuntu Budgie",
         "version": "22.04.4"
     }
 ]
