@@ -1,6 +1,18 @@
 [
     {
         "date": "28/02",
+        "package_name": "kdevelop",
+        "version": "24.02.0",
+        "link": ""
+    },
+    {
+        "date": "28/02",
+        "package_name": "ktorrent",
+        "version": "24.02.0",
+        "link": ""
+    },
+    {
+        "date": "28/02",
         "package_name": "k3b",
         "version": "24.02.0",
         "link": ""
@@ -57,18 +69,6 @@
         "date": "23/02",
         "package_name": "linux",
         "version": "6.7.6",
-        "link": ""
-    },
-    {
-        "date": "22/02",
-        "package_name": "zfs",
-        "version": "2.2.3",
-        "link": ""
-    },
-    {
-        "date": "22/02",
-        "package_name": "NetworkManager",
-        "version": "1.46.0",
         "link": ""
     }
 ]
