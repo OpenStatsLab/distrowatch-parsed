@@ -1,6 +1,11 @@
 [
     {
         "date": "28/02",
+        "distro_name": "Grml",
+        "version": "2024.02"
+    },
+    {
+        "date": "28/02",
         "distro_name": "ArcoLinux",
         "version": "24.03.01"
     },
@@ -52,11 +57,6 @@
     {
         "date": "22/02",
         "distro_name": "Lubuntu",
-        "version": "22.04.4"
-    },
-    {
-        "date": "22/02",
-        "distro_name": "Ubuntu Kylin",
         "version": "22.04.4"
     }
 ]
