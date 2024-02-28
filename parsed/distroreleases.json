@@ -1,6 +1,11 @@
 [
     {
         "date": "28/02",
+        "distro_name": "NetBSD",
+        "version": "10.0-RC5"
+    },
+    {
+        "date": "28/02",
         "distro_name": "Kali",
         "version": "2024.1"
     },
@@ -53,10 +58,5 @@
         "date": "25/02",
         "distro_name": "Accessible-Coconut",
         "version": "22.04.3"
-    },
-    {
-        "date": "24/02",
-        "distro_name": "CachyOS",
-        "version": "240224"
     }
 ]
