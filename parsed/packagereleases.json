@@ -1,6 +1,12 @@
 [
     {
         "date": "28/02",
+        "package_name": "mesa",
+        "version": "24.0.2",
+        "link": ""
+    },
+    {
+        "date": "28/02",
         "package_name": "kdevelop",
         "version": "24.02.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "23/02",
         "package_name": "pidgin",
         "version": "2.14.13",
-        "link": ""
-    },
-    {
-        "date": "23/02",
-        "package_name": "linux",
-        "version": "6.7.6",
         "link": ""
     }
 ]
