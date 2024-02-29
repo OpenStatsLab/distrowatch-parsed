@@ -21,11 +21,6 @@
     },
     {
         "date": "28/02",
-        "distro_name": "KDE neon",
-        "version": "20240228"
-    },
-    {
-        "date": "28/02",
         "distro_name": "Grml",
         "version": "2024.02"
     },
@@ -58,5 +53,10 @@
         "date": "26/02",
         "distro_name": "FreeBSD",
         "version": "13.3-RC1"
+    },
+    {
+        "date": "25/02",
+        "distro_name": "Bluestar",
+        "version": "6.7.6"
     }
 ]
