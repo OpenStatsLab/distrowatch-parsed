@@ -1,74 +1,74 @@
 [
     {
-        "date": "28/02",
-        "package_name": "tcl",
-        "version": "8.6.14",
+        "date": "05/03",
+        "package_name": "gstreamer",
+        "version": "1.24.0",
         "link": ""
     },
     {
-        "date": "28/02",
-        "package_name": "apt",
-        "version": "2.7.13",
+        "date": "04/03",
+        "package_name": "postfix",
+        "version": "3.8.6",
         "link": ""
     },
     {
-        "date": "28/02",
-        "package_name": "mesa",
-        "version": "24.0.2",
+        "date": "04/03",
+        "package_name": "qemu",
+        "version": "8.2.2",
         "link": ""
     },
     {
-        "date": "28/02",
-        "package_name": "kdevelop",
-        "version": "24.02.0",
+        "date": "04/03",
+        "package_name": "firefox",
+        "version": "123.0.1",
         "link": ""
     },
     {
-        "date": "28/02",
-        "package_name": "ktorrent",
-        "version": "24.02.0",
+        "date": "04/03",
+        "package_name": "vivaldi",
+        "version": "6.6.3271.45",
         "link": ""
     },
     {
-        "date": "28/02",
-        "package_name": "k3b",
-        "version": "24.02.0",
+        "date": "04/03",
+        "package_name": "squid",
+        "version": "6.8",
         "link": ""
     },
     {
-        "date": "28/02",
-        "package_name": "plasma-desktop",
-        "version": "6.0.0",
+        "date": "04/03",
+        "package_name": "pacman",
+        "version": "6.1.0",
         "link": ""
     },
     {
-        "date": "28/02",
-        "package_name": "chromium",
-        "version": "122.0.6261.94",
+        "date": "02/03",
+        "package_name": "kodi",
+        "version": "20.5",
         "link": ""
     },
     {
-        "date": "27/02",
-        "package_name": "systemd",
-        "version": "255.4",
+        "date": "02/03",
+        "package_name": "linux",
+        "version": "6.7.8",
         "link": ""
     },
     {
-        "date": "26/02",
-        "package_name": "gparted",
-        "version": "1.6.0",
+        "date": "01/03",
+        "package_name": "lzip",
+        "version": "1.24.1",
         "link": ""
     },
     {
-        "date": "24/02",
-        "package_name": "xz",
-        "version": "5.6.0",
+        "date": "01/03",
+        "package_name": "libvirt",
+        "version": "10.1.0",
         "link": ""
     },
     {
-        "date": "23/02",
-        "package_name": "git",
-        "version": "2.44.0",
+        "date": "01/03",
+        "package_name": "calibre",
+        "version": "7.6.0",
         "link": ""
     }
 ]
