@@ -1,6 +1,12 @@
 [
     {
         "date": "05/03",
+        "package_name": "thunderbird",
+        "version": "115.8.1",
+        "link": ""
+    },
+    {
+        "date": "05/03",
         "package_name": "gstreamer",
         "version": "1.24.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "01/03",
         "package_name": "libvirt",
         "version": "10.1.0",
-        "link": ""
-    },
-    {
-        "date": "01/03",
-        "package_name": "calibre",
-        "version": "7.6.0",
         "link": ""
     }
 ]
