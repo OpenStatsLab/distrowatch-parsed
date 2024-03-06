@@ -1,6 +1,12 @@
 [
     {
         "date": "06/03",
+        "package_name": "linux",
+        "version": "6.7.9",
+        "link": ""
+    },
+    {
+        "date": "06/03",
         "package_name": "kmod",
         "version": "32",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "04/03",
         "package_name": "pacman",
         "version": "6.1.0",
-        "link": ""
-    },
-    {
-        "date": "02/03",
-        "package_name": "kodi",
-        "version": "20.5",
         "link": ""
     }
 ]
