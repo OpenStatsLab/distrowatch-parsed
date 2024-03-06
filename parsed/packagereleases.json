@@ -1,6 +1,12 @@
 [
     {
         "date": "06/03",
+        "package_name": "chromium",
+        "version": "122.0.6261.111",
+        "link": ""
+    },
+    {
+        "date": "06/03",
         "package_name": "postfix",
         "version": "3.9.0",
         "link": ""
@@ -39,12 +45,6 @@
         "date": "05/03",
         "package_name": "gstreamer",
         "version": "1.24.0",
-        "link": ""
-    },
-    {
-        "date": "04/03",
-        "package_name": "postfix",
-        "version": "3.9.0",
         "link": ""
     },
     {
