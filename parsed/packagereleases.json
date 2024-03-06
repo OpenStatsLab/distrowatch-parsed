@@ -1,6 +1,12 @@
 [
     {
         "date": "05/03",
+        "package_name": "plasma-desktop",
+        "version": "6.0.1",
+        "link": ""
+    },
+    {
+        "date": "05/03",
         "package_name": "opera",
         "version": "108.0.5067.20",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "02/03",
         "package_name": "linux",
         "version": "6.7.8",
-        "link": ""
-    },
-    {
-        "date": "01/03",
-        "package_name": "lzip",
-        "version": "1.24.1",
         "link": ""
     }
 ]
