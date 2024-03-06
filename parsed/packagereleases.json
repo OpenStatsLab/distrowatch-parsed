@@ -1,6 +1,12 @@
 [
     {
         "date": "06/03",
+        "package_name": "postfix",
+        "version": "3.9.0",
+        "link": ""
+    },
+    {
+        "date": "06/03",
         "package_name": "linux",
         "version": "6.7.9",
         "link": ""
@@ -38,7 +44,7 @@
     {
         "date": "04/03",
         "package_name": "postfix",
-        "version": "3.8.6",
+        "version": "3.9.0",
         "link": ""
     },
     {
@@ -63,12 +69,6 @@
         "date": "04/03",
         "package_name": "squid",
         "version": "6.8",
-        "link": ""
-    },
-    {
-        "date": "04/03",
-        "package_name": "pacman",
-        "version": "6.1.0",
         "link": ""
     }
 ]
