@@ -1,6 +1,11 @@
 [
     {
         "date": "07/03",
+        "distro_name": "Zorin OS",
+        "version": "17.1"
+    },
+    {
+        "date": "07/03",
         "distro_name": "SmartOS",
         "version": "20240307"
     },
