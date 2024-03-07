@@ -1,6 +1,11 @@
 [
     {
         "date": "07/03",
+        "distro_name": "KDE neon",
+        "version": "20240307"
+    },
+    {
+        "date": "07/03",
         "distro_name": "openSUSE",
         "version": "15.6-beta"
     },
