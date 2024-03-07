@@ -1,6 +1,12 @@
 [
     {
         "date": "07/03",
+        "package_name": "docker",
+        "version": "25.0.4",
+        "link": ""
+    },
+    {
+        "date": "07/03",
         "package_name": "snapd",
         "version": "2.61.3",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "04/03",
         "package_name": "qemu",
         "version": "8.2.2",
-        "link": ""
-    },
-    {
-        "date": "04/03",
-        "package_name": "firefox",
-        "version": "123.0.1",
         "link": ""
     }
 ]
