@@ -1,8 +1,8 @@
 [
     {
         "date": "07/03",
-        "package_name": "gnupg",
-        "version": "2.4.5",
+        "package_name": "cryptsetup",
+        "version": "2.7.1",
         "link": ""
     },
     {
