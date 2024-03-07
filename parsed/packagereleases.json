@@ -1,6 +1,12 @@
 [
     {
         "date": "07/03",
+        "package_name": "snapd",
+        "version": "2.61.3",
+        "link": ""
+    },
+    {
+        "date": "07/03",
         "package_name": "ghostscript",
         "version": "10.03.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "04/03",
         "package_name": "firefox",
         "version": "123.0.1",
-        "link": ""
-    },
-    {
-        "date": "04/03",
-        "package_name": "vivaldi",
-        "version": "6.6.3271.48",
         "link": ""
     }
 ]
