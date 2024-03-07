@@ -1,5 +1,11 @@
 [
     {
+        "date": "07/03",
+        "package_name": "ghostscript",
+        "version": "10.03.0",
+        "link": ""
+    },
+    {
         "date": "06/03",
         "package_name": "chromium",
         "version": "122.0.6261.111",
@@ -63,12 +69,6 @@
         "date": "04/03",
         "package_name": "vivaldi",
         "version": "6.6.3271.48",
-        "link": ""
-    },
-    {
-        "date": "04/03",
-        "package_name": "squid",
-        "version": "6.8",
         "link": ""
     }
 ]
