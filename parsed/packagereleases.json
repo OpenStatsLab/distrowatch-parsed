@@ -1,6 +1,12 @@
 [
     {
         "date": "07/03",
+        "package_name": "gnupg",
+        "version": "2.4.5",
+        "link": ""
+    },
+    {
+        "date": "07/03",
         "package_name": "cryptsetup",
         "version": "2.7.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "05/03",
         "package_name": "thunderbird",
         "version": "115.8.1",
-        "link": ""
-    },
-    {
-        "date": "05/03",
-        "package_name": "gstreamer",
-        "version": "1.24.0",
         "link": ""
     }
 ]
