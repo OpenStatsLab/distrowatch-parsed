@@ -1,6 +1,12 @@
 [
     {
         "date": "07/03",
+        "package_name": "icewm",
+        "version": "3.4.6",
+        "link": ""
+    },
+    {
+        "date": "07/03",
         "package_name": "gnupg",
         "version": "2.4.5",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "05/03",
         "package_name": "opera",
         "version": "108.0.5067.20",
-        "link": ""
-    },
-    {
-        "date": "05/03",
-        "package_name": "thunderbird",
-        "version": "115.8.1",
         "link": ""
     }
 ]
