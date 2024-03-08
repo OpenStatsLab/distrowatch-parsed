@@ -27,15 +27,6 @@
         "ostype": "Linux"
     },
     {
-        "distro": "AcademiX",
-        "codename": "academix",
-        "url": "https://distrowatch.com/table.php?distribution=academix",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/academix.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/academix.png",
-        "homepage": "https://academixproject.com",
-        "ostype": "Linux"
-    },
-    {
         "distro": "Accessible-Coconut",
         "codename": "ac",
         "url": "https://distrowatch.com/table.php?distribution=ac",
