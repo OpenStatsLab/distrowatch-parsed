@@ -43,15 +43,5 @@
         "date": "03/03",
         "distro_name": "OpenMediaVault",
         "version": "7.0"
-    },
-    {
-        "date": "02/03",
-        "distro_name": "Archman",
-        "version": "20240303"
-    },
-    {
-        "date": "02/03",
-        "distro_name": "Arch",
-        "version": "2024.03.01"
     }
 ]
