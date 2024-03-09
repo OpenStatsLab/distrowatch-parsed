@@ -1,5 +1,11 @@
 [
     {
+        "date": "09/03",
+        "package_name": "xz",
+        "version": "5.6.1",
+        "link": ""
+    },
+    {
         "date": "07/03",
         "package_name": "icewm",
         "version": "3.4.6",
@@ -63,12 +69,6 @@
         "date": "05/03",
         "package_name": "plasma-desktop",
         "version": "6.0.1",
-        "link": ""
-    },
-    {
-        "date": "05/03",
-        "package_name": "opera",
-        "version": "108.0.5067.20",
         "link": ""
     }
 ]
