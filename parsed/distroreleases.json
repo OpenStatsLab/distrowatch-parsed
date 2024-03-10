@@ -1,5 +1,10 @@
 [
     {
+        "date": "10/03",
+        "distro_name": "Live Raizo",
+        "version": "15.24.03.09"
+    },
+    {
         "date": "07/03",
         "distro_name": "TrueNAS 23.10.2",
         "version": "\"SCALE\""
@@ -38,10 +43,5 @@
         "date": "05/03",
         "distro_name": "FreeBSD",
         "version": "13.3"
-    },
-    {
-        "date": "03/03",
-        "distro_name": "OpenMediaVault",
-        "version": "7.0"
     }
 ]
