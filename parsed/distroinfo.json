@@ -1278,15 +1278,6 @@
         "ostype": "Linux"
     },
     {
-        "distro": "Omarine",
-        "codename": "omarine",
-        "url": "https://distrowatch.com/table.php?distribution=omarine",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/omarine.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/omarine.png",
-        "homepage": "N/A",
-        "ostype": "Linux"
-    },
-    {
         "distro": "Omoikane",
         "codename": "omoikane",
         "url": "https://distrowatch.com/table.php?distribution=omoikane",
@@ -1746,15 +1737,6 @@
         "ostype": "Linux"
     },
     {
-        "distro": "Rescatux",
-        "codename": "rescatux",
-        "url": "https://distrowatch.com/table.php?distribution=rescatux",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/rescatux.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/rescatux.png",
-        "homepage": "http://www.supergrubdisk.org/rescatux/",
-        "ostype": "Linux"
-    },
-    {
         "distro": "Rescuezilla",
         "codename": "rescuezilla",
         "url": "https://distrowatch.com/table.php?distribution=rescuezilla",
@@ -1878,15 +1860,6 @@
         "logo": "https://distrowatch.com/images/yvzhuwbpy/selks.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/selks.png",
         "homepage": "https://www.stamus-networks.com/open-source/#selks",
-        "ostype": "Linux"
-    },
-    {
-        "distro": "Septor",
-        "codename": "septor",
-        "url": "https://distrowatch.com/table.php?distribution=septor",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/septor.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/septor.png",
-        "homepage": "https://septor.sourceforge.io",
         "ostype": "Linux"
     },
     {
@@ -2367,15 +2340,6 @@
         "ostype": "Linux"
     },
     {
-        "distro": "VzLinux",
-        "codename": "vz",
-        "url": "https://distrowatch.com/table.php?distribution=vz",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/vz.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/vz.png",
-        "homepage": "https://vzlinux.org/",
-        "ostype": "Linux"
-    },
-    {
         "distro": "wattOS",
         "codename": "wattos",
         "url": "https://distrowatch.com/table.php?distribution=wattos",
@@ -2419,15 +2383,6 @@
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/xigmanas.png",
         "homepage": "https://www.xigmanas.com/",
         "ostype": "BSD"
-    },
-    {
-        "distro": "XStreamOS",
-        "codename": "xstreamos",
-        "url": "https://distrowatch.com/table.php?distribution=xstreamos",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/xstreamos.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/xstreamos.png",
-        "homepage": "http://www.sonicle.com/index.jsp?pagename=xstreamos&parent=products",
-        "ostype": "Solaris"
     },
     {
         "distro": "Xubuntu",
