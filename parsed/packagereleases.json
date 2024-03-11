@@ -1,6 +1,12 @@
 [
     {
         "date": "11/03",
+        "package_name": "mate-desktop",
+        "version": "1.28.2",
+        "link": ""
+    },
+    {
+        "date": "11/03",
         "package_name": "openssh",
         "version": "9.7p1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "07/03",
         "package_name": "ghostscript",
         "version": "10.03.0",
-        "link": ""
-    },
-    {
-        "date": "06/03",
-        "package_name": "chromium",
-        "version": "122.0.6261.111",
         "link": ""
     }
 ]
