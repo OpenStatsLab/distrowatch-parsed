@@ -1,5 +1,10 @@
 [
     {
+        "date": "11/03",
+        "distro_name": "DSL",
+        "version": "2024-rc1"
+    },
+    {
         "date": "10/03",
         "distro_name": "Live Raizo",
         "version": "15.24.03.09"
