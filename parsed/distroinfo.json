@@ -468,6 +468,15 @@
         "ostype": "Linux"
     },
     {
+        "distro": "Dr.Parted",
+        "codename": "drparted",
+        "url": "https://distrowatch.com/table.php?distribution=drparted",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/drparted.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/drparted.png",
+        "homepage": "https://dr-parted-live.sourceforge.io/",
+        "ostype": "Linux"
+    },
+    {
         "distro": "DragonFly",
         "codename": "dragonflybsd",
         "url": "https://distrowatch.com/table.php?distribution=dragonflybsd",
