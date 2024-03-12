@@ -38,15 +38,5 @@
         "date": "06/03",
         "distro_name": "Voyager",
         "version": "24.04-alpha"
-    },
-    {
-        "date": "05/03",
-        "distro_name": "Bluestar",
-        "version": "6.7.8"
-    },
-    {
-        "date": "05/03",
-        "distro_name": "FreeBSD",
-        "version": "13.3"
     }
 ]

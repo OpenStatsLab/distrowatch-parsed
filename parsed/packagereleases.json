@@ -1,6 +1,12 @@
 [
     {
         "date": "12/03",
+        "package_name": "sqlite",
+        "version": "3.45.2",
+        "link": ""
+    },
+    {
+        "date": "12/03",
         "package_name": "krusader",
         "version": "2.8.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "07/03",
         "package_name": "docker",
         "version": "25.0.4",
-        "link": ""
-    },
-    {
-        "date": "07/03",
-        "package_name": "snapd",
-        "version": "2.61.3",
         "link": ""
     }
 ]
