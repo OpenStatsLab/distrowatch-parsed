@@ -1,5 +1,11 @@
 [
     {
+        "date": "12/03",
+        "package_name": "krusader",
+        "version": "2.8.1",
+        "link": ""
+    },
+    {
         "date": "11/03",
         "package_name": "mate-desktop",
         "version": "1.28.2",
@@ -63,12 +69,6 @@
         "date": "07/03",
         "package_name": "snapd",
         "version": "2.61.3",
-        "link": ""
-    },
-    {
-        "date": "07/03",
-        "package_name": "ghostscript",
-        "version": "10.03.0",
         "link": ""
     }
 ]
