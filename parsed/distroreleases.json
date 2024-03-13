@@ -1,6 +1,11 @@
 [
     {
         "date": "13/03",
+        "distro_name": "SDesk",
+        "version": "2024.03.13"
+    },
+    {
+        "date": "13/03",
         "distro_name": "NetBSD",
         "version": "10.0_RC6"
     },
@@ -53,10 +58,5 @@
         "date": "07/03",
         "distro_name": "SmartOS",
         "version": "20240307"
-    },
-    {
-        "date": "07/03",
-        "distro_name": "openSUSE",
-        "version": "15.6-beta"
     }
 ]
