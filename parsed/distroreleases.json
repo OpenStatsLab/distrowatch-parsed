@@ -1,6 +1,11 @@
 [
     {
         "date": "13/03",
+        "distro_name": "NetBSD",
+        "version": "10.0-RC6"
+    },
+    {
+        "date": "13/03",
         "distro_name": "Mabox",
         "version": "24.03"
     },
