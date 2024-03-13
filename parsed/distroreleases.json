@@ -1,6 +1,11 @@
 [
     {
         "date": "13/03",
+        "distro_name": "Mabox",
+        "version": "24.03"
+    },
+    {
+        "date": "13/03",
         "distro_name": "RasPiOS",
         "version": "2024-03-12"
     },
