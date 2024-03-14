@@ -1,6 +1,11 @@
 [
     {
         "date": "14/03",
+        "distro_name": "Univention",
+        "version": "5.0-7"
+    },
+    {
+        "date": "14/03",
         "distro_name": "KDE neon",
         "version": "20240314"
     },
@@ -53,10 +58,5 @@
         "date": "11/03",
         "distro_name": "Damn Small",
         "version": "2024-rc1"
-    },
-    {
-        "date": "10/03",
-        "distro_name": "Live Raizo",
-        "version": "15.24.03.09"
     }
 ]
