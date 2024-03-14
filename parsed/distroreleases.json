@@ -1,5 +1,10 @@
 [
     {
+        "date": "14/03",
+        "distro_name": "Dr.Parted",
+        "version": "24.03.1"
+    },
+    {
         "date": "13/03",
         "distro_name": "SDesk",
         "version": "2024.03.13"
@@ -43,20 +48,5 @@
         "date": "10/03",
         "distro_name": "Live Raizo",
         "version": "15.24.03.09"
-    },
-    {
-        "date": "07/03",
-        "distro_name": "TrueNAS 23.10.2",
-        "version": "\"SCALE\""
-    },
-    {
-        "date": "07/03",
-        "distro_name": "Zorin",
-        "version": "17.1"
-    },
-    {
-        "date": "07/03",
-        "distro_name": "SmartOS",
-        "version": "20240307"
     }
 ]
