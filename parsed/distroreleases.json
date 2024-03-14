@@ -1,6 +1,11 @@
 [
     {
         "date": "14/03",
+        "distro_name": "Athena",
+        "version": "23.11"
+    },
+    {
+        "date": "14/03",
         "distro_name": "Univention",
         "version": "5.0-7"
     },
@@ -53,10 +58,5 @@
         "date": "12/03",
         "distro_name": "KaOS",
         "version": "2024.03"
-    },
-    {
-        "date": "11/03",
-        "distro_name": "Damn Small",
-        "version": "2024-rc1"
     }
 ]
