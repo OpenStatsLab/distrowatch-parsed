@@ -1,6 +1,11 @@
 [
     {
         "date": "14/03",
+        "distro_name": "KDE neon",
+        "version": "20240314"
+    },
+    {
+        "date": "14/03",
         "distro_name": "Voyager",
         "version": "12.5"
     },
