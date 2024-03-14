@@ -1,6 +1,11 @@
 [
     {
         "date": "14/03",
+        "distro_name": "SparkyLinux",
+        "version": "7.3"
+    },
+    {
+        "date": "14/03",
         "distro_name": "Athena",
         "version": "23.11"
     },
@@ -53,10 +58,5 @@
         "date": "12/03",
         "distro_name": "Whonix",
         "version": "17.1.3.1"
-    },
-    {
-        "date": "12/03",
-        "distro_name": "KaOS",
-        "version": "2024.03"
     }
 ]
