@@ -1,5 +1,10 @@
 [
     {
+        "date": "16/03",
+        "distro_name": "Qubes",
+        "version": "4.2.1-rc1"
+    },
+    {
         "date": "15/03",
         "distro_name": "RasPiOS",
         "version": "2024-03-15"
@@ -53,10 +58,5 @@
         "date": "13/03",
         "distro_name": "CachyOS",
         "version": "240313"
-    },
-    {
-        "date": "13/03",
-        "distro_name": "Mabox",
-        "version": "24.03"
     }
 ]
