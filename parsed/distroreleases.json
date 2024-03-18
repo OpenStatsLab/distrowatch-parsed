@@ -1,6 +1,11 @@
 [
     {
         "date": "17/03",
+        "distro_name": "4MLinux",
+        "version": "45.0"
+    },
+    {
+        "date": "17/03",
         "distro_name": "LibreELEC",
         "version": "12-beta1"
     },
@@ -53,10 +58,5 @@
         "date": "14/03",
         "distro_name": "Voyager",
         "version": "12.5"
-    },
-    {
-        "date": "14/03",
-        "distro_name": "Dr.Parted",
-        "version": "24.03.1"
     }
 ]
