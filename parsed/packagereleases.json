@@ -1,6 +1,12 @@
 [
     {
         "date": "18/03",
+        "package_name": "firefox",
+        "version": "124.0",
+        "link": ""
+    },
+    {
+        "date": "18/03",
         "package_name": "nautilus",
         "version": "46.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "13/03",
         "package_name": "eclipse",
         "version": "4.31",
-        "link": ""
-    },
-    {
-        "date": "13/03",
-        "package_name": "lighttpd",
-        "version": "1.4.75",
         "link": ""
     }
 ]
