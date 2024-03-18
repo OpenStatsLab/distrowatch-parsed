@@ -1,5 +1,10 @@
 [
     {
+        "date": "18/03",
+        "distro_name": "Regata",
+        "version": "24.0.0"
+    },
+    {
         "date": "17/03",
         "distro_name": "4MLinux",
         "version": "45.0"
@@ -53,10 +58,5 @@
         "date": "14/03",
         "distro_name": "KDE neon",
         "version": "20240314"
-    },
-    {
-        "date": "14/03",
-        "distro_name": "Voyager",
-        "version": "12.5"
     }
 ]
