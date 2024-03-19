@@ -1,6 +1,12 @@
 [
     {
         "date": "19/03",
+        "package_name": "openjdk",
+        "version": "22",
+        "link": ""
+    },
+    {
+        "date": "19/03",
         "package_name": "man-pages",
         "version": "6.7",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "15/03",
         "package_name": "evolution",
         "version": "3.52.0",
-        "link": ""
-    },
-    {
-        "date": "14/03",
-        "package_name": "snort",
-        "version": "3.1.82.0",
         "link": ""
     }
 ]
