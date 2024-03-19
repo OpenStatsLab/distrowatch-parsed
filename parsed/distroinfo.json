@@ -261,15 +261,6 @@
         "ostype": "Linux"
     },
     {
-        "distro": "BOSS",
-        "codename": "boss",
-        "url": "https://distrowatch.com/table.php?distribution=boss",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/boss.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/boss.png",
-        "homepage": "https://bosslinux.in/",
-        "ostype": "Linux"
-    },
-    {
         "distro": "Br OS",
         "codename": "bros",
         "url": "https://distrowatch.com/table.php?distribution=bros",
