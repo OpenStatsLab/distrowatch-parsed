@@ -1,6 +1,12 @@
 [
     {
         "date": "19/03",
+        "package_name": "docker",
+        "version": "25.0.5",
+        "link": ""
+    },
+    {
+        "date": "19/03",
         "package_name": "openjdk",
         "version": "22",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "15/03",
         "package_name": "digikam",
         "version": "8.3.0",
-        "link": ""
-    },
-    {
-        "date": "15/03",
-        "package_name": "evolution",
-        "version": "3.52.0",
         "link": ""
     }
 ]
