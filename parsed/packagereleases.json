@@ -1,6 +1,12 @@
 [
     {
         "date": "21/03",
+        "package_name": "gstreamer",
+        "version": "1.24.1",
+        "link": ""
+    },
+    {
+        "date": "21/03",
         "package_name": "snapd",
         "version": "2.62",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "19/03",
         "package_name": "openjdk",
         "version": "22",
-        "link": ""
-    },
-    {
-        "date": "19/03",
-        "package_name": "man-pages",
-        "version": "6.7",
         "link": ""
     }
 ]
