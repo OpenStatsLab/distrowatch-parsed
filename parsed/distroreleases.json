@@ -1,6 +1,16 @@
 [
     {
         "date": "21/03",
+        "distro_name": "KDE neon",
+        "version": "20240321"
+    },
+    {
+        "date": "21/03",
+        "distro_name": "SmartOS",
+        "version": "20240321"
+    },
+    {
+        "date": "21/03",
         "distro_name": "MakuluLinux",
         "version": "2024-03-18"
     },
