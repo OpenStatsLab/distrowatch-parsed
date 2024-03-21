@@ -1,6 +1,12 @@
 [
     {
         "date": "21/03",
+        "package_name": "cmake",
+        "version": "3.29.0",
+        "link": ""
+    },
+    {
+        "date": "21/03",
         "package_name": "kdevelop",
         "version": "24.02.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "19/03",
         "package_name": "NVIDIA",
         "version": "550.67",
-        "link": ""
-    },
-    {
-        "date": "19/03",
-        "package_name": "thunderbird",
-        "version": "115.9.0",
         "link": ""
     }
 ]
