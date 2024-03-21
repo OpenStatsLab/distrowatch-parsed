@@ -1,6 +1,11 @@
 [
     {
         "date": "21/03",
+        "distro_name": "Dynebolic",
+        "version": "4.0.0-beta"
+    },
+    {
+        "date": "21/03",
         "distro_name": "KDE neon",
         "version": "20240321"
     },
