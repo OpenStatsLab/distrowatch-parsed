@@ -486,6 +486,15 @@
         "ostype": "Linux"
     },
     {
+        "distro": "Dynebolic",
+        "codename": "dynebolic",
+        "url": "https://distrowatch.com/table.php?distribution=dynebolic",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/dynebolic.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/dynebolic.png",
+        "homepage": "https://dynebolic.org/",
+        "ostype": "Linux"
+    },
+    {
         "distro": "DynFi",
         "codename": "dynfi",
         "url": "https://distrowatch.com/table.php?distribution=dynfi",
