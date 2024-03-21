@@ -1,5 +1,10 @@
 [
     {
+        "date": "21/03",
+        "distro_name": "MakuluLinux",
+        "version": "2024-03-18"
+    },
+    {
         "date": "18/03",
         "distro_name": "Regata",
         "version": "24.0.0"
@@ -38,25 +43,5 @@
         "date": "15/03",
         "distro_name": "Void",
         "version": "20240314"
-    },
-    {
-        "date": "14/03",
-        "distro_name": "SparkyLinux",
-        "version": "7.3"
-    },
-    {
-        "date": "14/03",
-        "distro_name": "Athena",
-        "version": "23.11"
-    },
-    {
-        "date": "14/03",
-        "distro_name": "Univention",
-        "version": "5.0-7"
-    },
-    {
-        "date": "14/03",
-        "distro_name": "Voyager",
-        "version": "12.5"
     }
 ]
