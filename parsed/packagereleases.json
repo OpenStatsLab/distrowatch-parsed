@@ -1,5 +1,11 @@
 [
     {
+        "date": "22/03",
+        "package_name": "firefox",
+        "version": "124.0.1",
+        "link": ""
+    },
+    {
         "date": "21/03",
         "package_name": "gstreamer",
         "version": "1.24.1",
@@ -63,12 +69,6 @@
         "date": "20/03",
         "package_name": "chromium",
         "version": "123.0.6312.58",
-        "link": ""
-    },
-    {
-        "date": "19/03",
-        "package_name": "openjdk",
-        "version": "22",
         "link": ""
     }
 ]
