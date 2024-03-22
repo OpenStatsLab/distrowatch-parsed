@@ -1,5 +1,10 @@
 [
     {
+        "date": "22/03",
+        "distro_name": "Regata",
+        "version": "24.0.0"
+    },
+    {
         "date": "21/03",
         "distro_name": "Peropesis",
         "version": "2.4"
@@ -25,11 +30,6 @@
         "version": "2024-03-18"
     },
     {
-        "date": "18/03",
-        "distro_name": "Regata",
-        "version": "24.0.0"
-    },
-    {
         "date": "17/03",
         "distro_name": "4MLinux",
         "version": "45.0"
@@ -53,10 +53,5 @@
         "date": "16/03",
         "distro_name": "Qubes",
         "version": "4.2.1-rc1"
-    },
-    {
-        "date": "15/03",
-        "distro_name": "RasPiOS",
-        "version": "2024-03-15"
     }
 ]
