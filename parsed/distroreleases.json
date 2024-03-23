@@ -38,20 +38,5 @@
         "date": "17/03",
         "distro_name": "LibreELEC",
         "version": "12-beta1"
-    },
-    {
-        "date": "16/03",
-        "distro_name": "CachyOS",
-        "version": "240316"
-    },
-    {
-        "date": "16/03",
-        "distro_name": "ALT",
-        "version": "10.2"
-    },
-    {
-        "date": "16/03",
-        "distro_name": "Qubes",
-        "version": "4.2.1-rc1"
     }
 ]
