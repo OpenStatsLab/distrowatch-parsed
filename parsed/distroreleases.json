@@ -1,5 +1,10 @@
 [
     {
+        "date": "23/03",
+        "distro_name": "Voyager",
+        "version": "24.04-alpha2"
+    },
+    {
         "date": "22/03",
         "distro_name": "Regata",
         "version": "24.0.2"
