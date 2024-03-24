@@ -1,5 +1,11 @@
 [
     {
+        "date": "24/03",
+        "package_name": "emacs",
+        "version": "29.3",
+        "link": ""
+    },
+    {
         "date": "22/03",
         "package_name": "apt",
         "version": "2.7.14",
@@ -63,12 +69,6 @@
         "date": "20/03",
         "package_name": "openvpn",
         "version": "2.6.10",
-        "link": ""
-    },
-    {
-        "date": "20/03",
-        "package_name": "bind",
-        "version": "9.18.25",
         "link": ""
     }
 ]
