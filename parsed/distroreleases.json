@@ -38,15 +38,5 @@
         "date": "21/03",
         "distro_name": "MakuluLinux",
         "version": "2024-03-18"
-    },
-    {
-        "date": "17/03",
-        "distro_name": "4MLinux",
-        "version": "45.0"
-    },
-    {
-        "date": "17/03",
-        "distro_name": "LibreELEC",
-        "version": "12-beta1"
     }
 ]
