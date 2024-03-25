@@ -1,6 +1,12 @@
 [
     {
         "date": "24/03",
+        "package_name": "qbittorrent",
+        "version": "4.6.4",
+        "link": ""
+    },
+    {
+        "date": "24/03",
         "package_name": "emacs",
         "version": "29.3",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "20/03",
         "package_name": "docker",
         "version": "26.0.0",
-        "link": ""
-    },
-    {
-        "date": "20/03",
-        "package_name": "openvpn",
-        "version": "2.6.10",
         "link": ""
     }
 ]
