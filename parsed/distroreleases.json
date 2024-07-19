@@ -1,6 +1,11 @@
 [
     {
         "date": "19/07",
+        "distro_name": "KaOS",
+        "version": "2024.07"
+    },
+    {
+        "date": "19/07",
         "distro_name": "CentOS",
         "version": "9-20240715"
     },
@@ -53,10 +58,5 @@
         "date": "16/07",
         "distro_name": "RELIANOID",
         "version": "7.3"
-    },
-    {
-        "date": "15/07",
-        "distro_name": "Bluestar",
-        "version": "6.9.9"
     }
 ]
