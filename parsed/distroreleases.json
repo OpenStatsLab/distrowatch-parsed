@@ -1,42 +1,62 @@
 [
     {
-        "date": "24/03",
-        "distro_name": "DSL",
-        "version": "2024-rc2"
+        "date": "18/07",
+        "distro_name": "OpenMandriva",
+        "version": "24.07-rc"
     },
     {
-        "date": "23/03",
-        "distro_name": "Voyager",
-        "version": "24.04-alpha2"
-    },
-    {
-        "date": "22/03",
-        "distro_name": "Regata",
-        "version": "24.0.2"
-    },
-    {
-        "date": "21/03",
-        "distro_name": "Peropesis",
-        "version": "2.4"
-    },
-    {
-        "date": "21/03",
-        "distro_name": "Dynebolic",
-        "version": "4.0.0-beta"
-    },
-    {
-        "date": "21/03",
+        "date": "18/07",
         "distro_name": "KDE neon",
-        "version": "20240321"
+        "version": "20240718"
     },
     {
-        "date": "21/03",
-        "distro_name": "SmartOS",
-        "version": "20240321"
+        "date": "18/07",
+        "distro_name": "Calculate",
+        "version": "20240716"
     },
     {
-        "date": "21/03",
-        "distro_name": "MakuluLinux",
-        "version": "2024-03-18"
+        "date": "17/07",
+        "distro_name": "Archman",
+        "version": "20240717"
+    },
+    {
+        "date": "17/07",
+        "distro_name": "Clonezilla",
+        "version": "3.1.3-16"
+    },
+    {
+        "date": "17/07",
+        "distro_name": "Nobara",
+        "version": "40"
+    },
+    {
+        "date": "17/07",
+        "distro_name": "Manjaro",
+        "version": "24.0.4"
+    },
+    {
+        "date": "16/07",
+        "distro_name": "Pardus",
+        "version": "23.2"
+    },
+    {
+        "date": "16/07",
+        "distro_name": "Tails",
+        "version": "6.5"
+    },
+    {
+        "date": "16/07",
+        "distro_name": "RELIANOID",
+        "version": "7.3"
+    },
+    {
+        "date": "15/07",
+        "distro_name": "Bluestar",
+        "version": "6.9.9"
+    },
+    {
+        "date": "15/07",
+        "distro_name": "NomadBSD",
+        "version": "141R"
     }
 ]

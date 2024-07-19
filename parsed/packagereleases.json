@@ -1,74 +1,74 @@
 [
     {
-        "date": "25/03",
-        "package_name": "bitcoin",
-        "version": "26.1",
-        "link": ""
-    },
-    {
-        "date": "25/03",
-        "package_name": "icewm",
-        "version": "3.4.7",
-        "link": ""
-    },
-    {
-        "date": "25/03",
-        "package_name": "snort",
-        "version": "3.1.83.0",
-        "link": ""
-    },
-    {
-        "date": "25/03",
-        "package_name": "sysvinit",
-        "version": "3.09",
-        "link": ""
-    },
-    {
-        "date": "24/03",
-        "package_name": "qbittorrent",
-        "version": "4.6.4",
-        "link": ""
-    },
-    {
-        "date": "24/03",
-        "package_name": "emacs",
-        "version": "29.3",
-        "link": ""
-    },
-    {
-        "date": "22/03",
-        "package_name": "apt",
-        "version": "2.7.14",
-        "link": ""
-    },
-    {
-        "date": "22/03",
-        "package_name": "firefox",
-        "version": "124.0.1",
-        "link": ""
-    },
-    {
-        "date": "21/03",
-        "package_name": "gstreamer",
-        "version": "1.24.1",
-        "link": ""
-    },
-    {
-        "date": "21/03",
-        "package_name": "snapd",
-        "version": "2.62",
-        "link": ""
-    },
-    {
-        "date": "21/03",
+        "date": "18/07",
         "package_name": "cmake",
-        "version": "3.29.0",
+        "version": "3.30.1",
         "link": ""
     },
     {
-        "date": "21/03",
-        "package_name": "kdevelop",
-        "version": "24.02.1",
+        "date": "18/07",
+        "package_name": "openvpn",
+        "version": "2.6.12",
+        "link": ""
+    },
+    {
+        "date": "18/07",
+        "package_name": "snort",
+        "version": "3.3.1.0",
+        "link": ""
+    },
+    {
+        "date": "17/07",
+        "package_name": "chromium",
+        "version": "126.0.6478.182",
+        "link": ""
+    },
+    {
+        "date": "17/07",
+        "package_name": "httpd",
+        "version": "2.4.62",
+        "link": ""
+    },
+    {
+        "date": "17/07",
+        "package_name": "mesa",
+        "version": "24.1.4",
+        "link": ""
+    },
+    {
+        "date": "17/07",
+        "package_name": "cinnamon",
+        "version": "6.2.5",
+        "link": ""
+    },
+    {
+        "date": "17/07",
+        "package_name": "qemu",
+        "version": "9.0.2",
+        "link": ""
+    },
+    {
+        "date": "16/07",
+        "package_name": "nftables",
+        "version": "1.1.0",
+        "link": ""
+    },
+    {
+        "date": "16/07",
+        "package_name": "audacity",
+        "version": "3.6.0",
+        "link": ""
+    },
+    {
+        "date": "16/07",
+        "package_name": "wordpress",
+        "version": "6.6",
+        "link": ""
+    },
+    {
+        "date": "16/07",
+        "package_name": "plasma-desktop",
+        "version": "6.1.3",
         "link": ""
     }
 ]

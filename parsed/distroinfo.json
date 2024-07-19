@@ -144,6 +144,15 @@
         "ostype": "Linux"
     },
     {
+        "distro": "AUSTRUMI",
+        "codename": "austrumi",
+        "url": "https://distrowatch.com/table.php?distribution=austrumi",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/austrumi.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/austrumi.png",
+        "homepage": "http://cyti.latgola.lv/ruuni/",
+        "ostype": "Linux"
+    },
+    {
         "distro": "AV Linux",
         "codename": "avlinux",
         "url": "https://distrowatch.com/table.php?distribution=avlinux",
@@ -239,7 +248,7 @@
         "url": "https://distrowatch.com/table.php?distribution=blueonyx",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/blueonyx.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/blueonyx.png",
-        "homepage": "http://www.blueonyx.it/",
+        "homepage": "https://www.blueonyx.it/",
         "ostype": "Linux"
     },
     {
@@ -401,7 +410,7 @@
         "url": "https://distrowatch.com/table.php?distribution=daphile",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/daphile.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/daphile.png",
-        "homepage": "http://www.daphile.com/",
+        "homepage": "https://www.daphile.com/",
         "ostype": "Linux"
     },
     {
@@ -536,7 +545,7 @@
         "url": "https://distrowatch.com/table.php?distribution=elearnix",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/elearnix.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/elearnix.png",
-        "homepage": "http://freeloader.live/",
+        "homepage": "http://freehumanity.live/",
         "ostype": "Linux"
     },
     {
@@ -878,7 +887,7 @@
         "url": "https://distrowatch.com/table.php?distribution=kaos",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/kaos.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/kaos.png",
-        "homepage": "http://kaosx.us/",
+        "homepage": "https://kaosx.us/",
         "ostype": "Linux"
     },
     {
@@ -999,15 +1008,6 @@
         "ostype": "Linux"
     },
     {
-        "distro": "Linuxfx",
-        "codename": "linuxfx",
-        "url": "https://distrowatch.com/table.php?distribution=linuxfx",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/linuxfx.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/linuxfx.png",
-        "homepage": "http://www.linuxfx.org/",
-        "ostype": "Linux"
-    },
-    {
         "distro": "Lite",
         "codename": "lite",
         "url": "https://distrowatch.com/table.php?distribution=lite",
@@ -1121,7 +1121,7 @@
         "url": "https://distrowatch.com/table.php?distribution=midnightbsd",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/midnightbsd.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/midnightbsd.png",
-        "homepage": "http://www.midnightbsd.org/",
+        "homepage": "https://www.midnightbsd.org/",
         "ostype": "BSD"
     },
     {
@@ -1186,6 +1186,15 @@
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/netbsd.png",
         "homepage": "https://www.netbsd.org/",
         "ostype": "BSD"
+    },
+    {
+        "distro": "NethSecurity",
+        "codename": "nethsecurity",
+        "url": "https://distrowatch.com/table.php?distribution=nethsecurity",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/nethsecurity.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/nethsecurity.png",
+        "homepage": "https://nethsecurity.org/",
+        "ostype": "Linux"
     },
     {
         "distro": "Netrunner",
@@ -1710,15 +1719,6 @@
         "ostype": "Linux"
     },
     {
-        "distro": "Redo",
-        "codename": "redo",
-        "url": "https://distrowatch.com/table.php?distribution=redo",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/redo.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/redo.png",
-        "homepage": "http://redorescue.com/",
-        "ostype": "Linux"
-    },
-    {
         "distro": "Refracta",
         "codename": "refracta",
         "url": "https://distrowatch.com/table.php?distribution=refracta",
@@ -1737,7 +1737,7 @@
         "ostype": "Linux"
     },
     {
-        "distro": "Relianoid",
+        "distro": "RELIANOID",
         "codename": "relianoid",
         "url": "https://distrowatch.com/table.php?distribution=relianoid",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/relianoid.png",
@@ -1859,7 +1859,7 @@
         "url": "https://distrowatch.com/table.php?distribution=sdesk",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/sdesk.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/sdesk.png",
-        "homepage": "https://www.stevestudios.ca/sdesk",
+        "homepage": "https://www.stevestudios.net/",
         "ostype": "Linux"
     },
     {
@@ -2016,21 +2016,12 @@
         "ostype": "Linux"
     },
     {
-        "distro": "Star",
-        "codename": "star",
-        "url": "https://distrowatch.com/table.php?distribution=star",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/star.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/star.png",
-        "homepage": "https://sourceforge.net/projects/linnix/",
-        "ostype": "Linux"
-    },
-    {
         "distro": "Super Grub2",
         "codename": "supergrub",
         "url": "https://distrowatch.com/table.php?distribution=supergrub",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/supergrub.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/supergrub.png",
-        "homepage": "http://www.supergrubdisk.org/super-grub2-disk/",
+        "homepage": "https://www.supergrubdisk.org/super-grub2-disk/",
         "ostype": "GRUB"
     },
     {
@@ -2057,7 +2048,7 @@
         "url": "https://distrowatch.com/table.php?distribution=systemrescue",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/systemrescue.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/systemrescue.png",
-        "homepage": "http://www.system-rescue.org/",
+        "homepage": "https://www.system-rescue.org/",
         "ostype": "Linux"
     },
     {
@@ -2084,7 +2075,7 @@
         "url": "https://distrowatch.com/table.php?distribution=thinstation",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/thinstation.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/thinstation.png",
-        "homepage": "http://www.thinstation.org/",
+        "homepage": "https://www.thinstation.org/",
         "ostype": "Linux"
     },
     {
@@ -2187,15 +2178,6 @@
         "ostype": "Linux"
     },
     {
-        "distro": "Ubuntu DP",
-        "codename": "ubuntudp",
-        "url": "https://distrowatch.com/table.php?distribution=ubuntudp",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/ubuntudp.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/ubuntudp.png",
-        "homepage": "http://ualinux.com/en/ubuntu-oem",
-        "ostype": "Linux"
-    },
-    {
         "distro": "Ubuntu Kylin",
         "codename": "ubuntukylin",
         "url": "https://distrowatch.com/table.php?distribution=ubuntukylin",
@@ -2211,6 +2193,15 @@
         "logo": "https://distrowatch.com/images/yvzhuwbpy/ubuntumate.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/ubuntumate.png",
         "homepage": "https://ubuntu-mate.org/",
+        "ostype": "Linux"
+    },
+    {
+        "distro": "Ubuntu Pack",
+        "codename": "ubuntudp",
+        "url": "https://distrowatch.com/table.php?distribution=ubuntudp",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/ubuntudp.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/ubuntudp.png",
+        "homepage": "https://ualinux.com/en/ubuntu-oem",
         "ostype": "Linux"
     },
     {
@@ -2273,7 +2264,7 @@
         "url": "https://distrowatch.com/table.php?distribution=untangle",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/untangle.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/untangle.png",
-        "homepage": "http://www.untangle.com/",
+        "homepage": "https://www.untangle.com/",
         "ostype": "Linux"
     },
     {
