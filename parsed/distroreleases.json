@@ -1,5 +1,10 @@
 [
     {
+        "date": "19/07",
+        "distro_name": "CentOS",
+        "version": "9-20240715"
+    },
+    {
         "date": "18/07",
         "distro_name": "OpenMandriva",
         "version": "24.07-rc"
@@ -53,10 +58,5 @@
         "date": "15/07",
         "distro_name": "Bluestar",
         "version": "6.9.9"
-    },
-    {
-        "date": "15/07",
-        "distro_name": "NomadBSD",
-        "version": "141R"
     }
 ]
