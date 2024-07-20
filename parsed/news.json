@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: OpenMandriva 24.07 \"ROME\"",
+        "link": "",
+        "description": "Description not available",
+        "date": "20/07/2024, 23:16"
+    },
+    {
         "title": "Distribution Release: Nobara Project 40",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "08/07/2024, 00:06"
-    },
-    {
-        "title": "Distribution Release: Finnix 126",
-        "link": "",
-        "description": "Description not available",
-        "date": "04/07/2024, 18:41"
     }
 ]
