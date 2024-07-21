@@ -1,5 +1,11 @@
 [
     {
+        "date": "21/07",
+        "package_name": "webmin",
+        "version": "2.200",
+        "link": ""
+    },
+    {
         "date": "20/07",
         "package_name": "cinnamon",
         "version": "6.2.7",
@@ -63,12 +69,6 @@
         "date": "16/07",
         "package_name": "audacity",
         "version": "3.6.0",
-        "link": ""
-    },
-    {
-        "date": "16/07",
-        "package_name": "wordpress",
-        "version": "6.6",
         "link": ""
     }
 ]
