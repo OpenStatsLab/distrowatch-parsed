@@ -1,6 +1,11 @@
 [
     {
         "date": "20/07",
+        "distro_name": "openmamba",
+        "version": "20240721"
+    },
+    {
+        "date": "20/07",
         "distro_name": "OpenMandriva 24.07",
         "version": "\"ROME\""
     },
@@ -53,10 +58,5 @@
         "date": "16/07",
         "distro_name": "Pardus",
         "version": "23.2"
-    },
-    {
-        "date": "16/07",
-        "distro_name": "Tails",
-        "version": "6.5"
     }
 ]
