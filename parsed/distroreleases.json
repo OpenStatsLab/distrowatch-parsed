@@ -1,5 +1,10 @@
 [
     {
+        "date": "21/07",
+        "distro_name": "Bluestar",
+        "version": "6.9.10"
+    },
+    {
         "date": "20/07",
         "distro_name": "openmamba",
         "version": "20240721"
@@ -53,10 +58,5 @@
         "date": "17/07",
         "distro_name": "Manjaro",
         "version": "24.0.4"
-    },
-    {
-        "date": "16/07",
-        "distro_name": "Pardus",
-        "version": "23.2"
     }
 ]
