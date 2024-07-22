@@ -1,6 +1,12 @@
 [
     {
         "date": "22/07",
+        "package_name": "xfsprogs",
+        "version": "6.9.0",
+        "link": ""
+    },
+    {
+        "date": "22/07",
         "package_name": "audacity",
         "version": "3.6.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "17/07",
         "package_name": "qemu",
         "version": "9.0.2",
-        "link": ""
-    },
-    {
-        "date": "16/07",
-        "package_name": "nftables",
-        "version": "1.1.0",
         "link": ""
     }
 ]
