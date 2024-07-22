@@ -1,5 +1,11 @@
 [
     {
+        "date": "22/07",
+        "package_name": "glibc",
+        "version": "2.40",
+        "link": ""
+    },
+    {
         "date": "21/07",
         "package_name": "webmin",
         "version": "2.200",
@@ -63,12 +69,6 @@
         "date": "16/07",
         "package_name": "nftables",
         "version": "1.1.0",
-        "link": ""
-    },
-    {
-        "date": "16/07",
-        "package_name": "audacity",
-        "version": "3.6.0",
         "link": ""
     }
 ]
