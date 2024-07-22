@@ -1,5 +1,11 @@
 [
     {
+        "title": "DistroWatch Weekly, Issue 1080",
+        "link": "",
+        "description": "Description not available",
+        "date": "22/07/2024, 00:10"
+    },
+    {
         "title": "Distribution Release: OpenMandriva 24.07 \"ROME\"",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "08/07/2024, 12:53"
-    },
-    {
-        "title": "DistroWatch Weekly, Issue 1078",
-        "link": "",
-        "description": "Description not available",
-        "date": "08/07/2024, 00:06"
     }
 ]
