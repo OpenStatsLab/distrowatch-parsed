@@ -1,6 +1,12 @@
 [
     {
         "date": "23/07",
+        "package_name": "tigervnc",
+        "version": "1.14.0",
+        "link": ""
+    },
+    {
+        "date": "23/07",
         "package_name": "systemd",
         "version": "256.3",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "18/07",
         "package_name": "snort",
         "version": "3.3.1.0",
-        "link": ""
-    },
-    {
-        "date": "17/07",
-        "package_name": "chromium",
-        "version": "126.0.6478.182",
         "link": ""
     }
 ]
