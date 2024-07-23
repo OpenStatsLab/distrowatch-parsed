@@ -1,6 +1,12 @@
 [
     {
         "date": "23/07",
+        "package_name": "wordpress",
+        "version": "6.6.1",
+        "link": ""
+    },
+    {
+        "date": "23/07",
         "package_name": "bind",
         "version": "9.20.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "20/07",
         "package_name": "cinnamon",
         "version": "6.2.7",
-        "link": ""
-    },
-    {
-        "date": "19/07",
-        "package_name": "calibre",
-        "version": "7.15.0",
         "link": ""
     }
 ]
