@@ -1,6 +1,12 @@
 [
     {
         "date": "23/07",
+        "package_name": "bind",
+        "version": "9.20.0",
+        "link": ""
+    },
+    {
+        "date": "23/07",
         "package_name": "firefox",
         "version": "128.0.2",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "19/07",
         "package_name": "calibre",
         "version": "7.15.0",
-        "link": ""
-    },
-    {
-        "date": "18/07",
-        "package_name": "cmake",
-        "version": "3.30.1",
         "link": ""
     }
 ]
