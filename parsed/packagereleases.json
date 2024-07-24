@@ -1,6 +1,12 @@
 [
     {
         "date": "24/07",
+        "package_name": "curl",
+        "version": "8.9.0",
+        "link": ""
+    },
+    {
+        "date": "24/07",
         "package_name": "webmin",
         "version": "2.201",
         "link": ""
@@ -45,12 +51,6 @@
         "date": "23/07",
         "package_name": "tigervnc",
         "version": "1.14.0",
-        "link": ""
-    },
-    {
-        "date": "23/07",
-        "package_name": "systemd",
-        "version": "256.3",
         "link": ""
     },
     {
