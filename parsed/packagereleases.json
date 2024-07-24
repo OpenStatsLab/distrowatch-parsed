@@ -1,6 +1,12 @@
 [
     {
         "date": "24/07",
+        "package_name": "webmin",
+        "version": "2.201",
+        "link": ""
+    },
+    {
+        "date": "24/07",
         "package_name": "chromium",
         "version": "127.0.6533.72",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "22/07",
         "package_name": "audacity",
         "version": "3.6.1",
-        "link": ""
-    },
-    {
-        "date": "20/07",
-        "package_name": "cinnamon",
-        "version": "6.2.7",
         "link": ""
     }
 ]
