@@ -1,5 +1,10 @@
 [
     {
+        "date": "24/07",
+        "distro_name": "EasyOS",
+        "version": "6.1.1"
+    },
+    {
         "date": "23/07",
         "distro_name": "Mint",
         "version": "22"
@@ -53,10 +58,5 @@
         "date": "18/07",
         "distro_name": "KDE neon",
         "version": "20240718"
-    },
-    {
-        "date": "18/07",
-        "distro_name": "Calculate",
-        "version": "20240716"
     }
 ]
