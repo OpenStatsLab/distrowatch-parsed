@@ -1,6 +1,12 @@
 [
     {
         "date": "25/07",
+        "package_name": "NetworkManager",
+        "version": "1.48.6",
+        "link": ""
+    },
+    {
+        "date": "25/07",
         "package_name": "snapd",
         "version": "2.64",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "23/07",
         "package_name": "bind",
         "version": "9.20.0",
-        "link": ""
-    },
-    {
-        "date": "23/07",
-        "package_name": "firefox",
-        "version": "128.0.2",
         "link": ""
     }
 ]
