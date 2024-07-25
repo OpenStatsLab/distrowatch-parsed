@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: Murena 2.2",
+        "link": "",
+        "description": "Description not available",
+        "date": "25/07/2024, 15:43"
+    },
+    {
         "title": "BSD Release: MidnightBSD 3.2.0",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "09/07/2024, 15:49"
-    },
-    {
-        "title": "Distribution Release: Clonezilla Live 3.1.3-11",
-        "link": "",
-        "description": "Description not available",
-        "date": "09/07/2024, 13:00"
     }
 ]
