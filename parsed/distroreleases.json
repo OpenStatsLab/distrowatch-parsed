@@ -1,6 +1,11 @@
 [
     {
         "date": "25/07",
+        "distro_name": "OPNsense",
+        "version": "24.7"
+    },
+    {
+        "date": "25/07",
         "distro_name": "Ubuntu Pack",
         "version": "24.04"
     },
@@ -53,10 +58,5 @@
         "date": "21/07",
         "distro_name": "Ultimate",
         "version": "2024.07.21"
-    },
-    {
-        "date": "21/07",
-        "distro_name": "Bluestar",
-        "version": "6.9.10"
     }
 ]
