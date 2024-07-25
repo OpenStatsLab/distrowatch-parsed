@@ -1,6 +1,12 @@
 [
     {
         "date": "25/07",
+        "package_name": "rust",
+        "version": "1.80.0",
+        "link": ""
+    },
+    {
+        "date": "25/07",
         "package_name": "qt-creator",
         "version": "14.0.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "23/07",
         "package_name": "mysql",
         "version": "9.0.1",
-        "link": ""
-    },
-    {
-        "date": "23/07",
-        "package_name": "tigervnc",
-        "version": "1.14.0",
         "link": ""
     }
 ]
