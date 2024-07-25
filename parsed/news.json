@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: Linux Mint 22",
+        "link": "",
+        "description": "Description not available",
+        "date": "25/07/2024, 16:03"
+    },
+    {
         "title": "Distribution Release: Murena 2.2",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "14/07/2024, 14:55"
-    },
-    {
-        "title": "Distribution Release: TrueNAS 24.04.1.1 \"SCALE\"",
-        "link": "",
-        "description": "Description not available",
-        "date": "09/07/2024, 15:49"
     }
 ]
