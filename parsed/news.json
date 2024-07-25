@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: Ubuntu Pack 24.04",
+        "link": "",
+        "description": "Description not available",
+        "date": "25/07/2024, 19:22"
+    },
+    {
         "title": "Distribution Release: Linux Mint 22",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "15/07/2024, 00:16"
-    },
-    {
-        "title": "Distribution Release: Qubes OS 4.2.2",
-        "link": "",
-        "description": "Description not available",
-        "date": "14/07/2024, 14:55"
     }
 ]
