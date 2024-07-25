@@ -1,6 +1,11 @@
 [
     {
         "date": "24/07",
+        "distro_name": "MidnightBSD",
+        "version": "3.2.0"
+    },
+    {
+        "date": "24/07",
         "distro_name": "Calculate",
         "version": "20240724"
     },
@@ -53,10 +58,5 @@
         "date": "19/07",
         "distro_name": "CentOS",
         "version": "9-20240715"
-    },
-    {
-        "date": "18/07",
-        "distro_name": "OpenMandriva",
-        "version": "24.07-rc"
     }
 ]
