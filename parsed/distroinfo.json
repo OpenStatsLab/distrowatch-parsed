@@ -720,15 +720,6 @@
         "ostype": "BSD"
     },
     {
-        "distro": "Funtoo",
-        "codename": "funtoo",
-        "url": "https://distrowatch.com/table.php?distribution=funtoo",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/funtoo.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/funtoo.png",
-        "homepage": "https://www.funtoo.org/",
-        "ostype": "Linux"
-    },
-    {
         "distro": "Garuda",
         "codename": "garuda",
         "url": "https://distrowatch.com/table.php?distribution=garuda",
