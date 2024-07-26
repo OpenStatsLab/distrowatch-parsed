@@ -883,12 +883,12 @@
     },
     {
         "distro": "Karoshi",
-        "codename": "karoshi",
-        "url": "https://distrowatch.com/table.php?distribution=karoshi",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/karoshi.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/karoshi.png",
-        "homepage": "https://www.linuxschools.com/",
-        "ostype": "Linux"
+        "codename": "0linux",
+        "url": "https://distrowatch.com/table.php?distribution=0linux",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/0linux.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/0linux.png",
+        "homepage": "N/A",
+        "ostype": ""
     },
     {
         "distro": "KDE neon",
