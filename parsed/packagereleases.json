@@ -1,6 +1,12 @@
 [
     {
         "date": "25/07",
+        "package_name": "firefox",
+        "version": "128.0.3",
+        "link": ""
+    },
+    {
+        "date": "25/07",
         "package_name": "NetworkManager",
         "version": "1.48.6",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "23/07",
         "package_name": "wordpress",
         "version": "6.6.1",
-        "link": ""
-    },
-    {
-        "date": "23/07",
-        "package_name": "bind",
-        "version": "9.20.0",
         "link": ""
     }
 ]
