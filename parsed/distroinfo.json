@@ -882,15 +882,6 @@
         "ostype": "Linux"
     },
     {
-        "distro": "Karoshi",
-        "codename": "0linux",
-        "url": "https://distrowatch.com/table.php?distribution=0linux",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/0linux.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/0linux.png",
-        "homepage": "N/A",
-        "ostype": ""
-    },
-    {
         "distro": "KDE neon",
         "codename": "kdeneon",
         "url": "https://distrowatch.com/table.php?distribution=kdeneon",
@@ -996,6 +987,15 @@
         "logo": "https://distrowatch.com/images/yvzhuwbpy/linspire.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/linspire.png",
         "homepage": "http://www.linspirelinux.com/",
+        "ostype": "Linux"
+    },
+    {
+        "distro": "Linux Schools",
+        "codename": "linuxschools",
+        "url": "https://distrowatch.com/table.php?distribution=linuxschools",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/linuxschools.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/linuxschools.png",
+        "homepage": "https://www.linuxschools.com/",
         "ostype": "Linux"
     },
     {
