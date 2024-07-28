@@ -53,10 +53,5 @@
         "date": "22/07",
         "distro_name": "Alpine",
         "version": "3.20.2"
-    },
-    {
-        "date": "21/07",
-        "distro_name": "Ultimate",
-        "version": "2024.07.21"
     }
 ]
