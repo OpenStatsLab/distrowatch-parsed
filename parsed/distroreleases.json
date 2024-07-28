@@ -1,5 +1,10 @@
 [
     {
+        "date": "28/07",
+        "distro_name": "Vanilla",
+        "version": "2"
+    },
+    {
         "date": "25/07",
         "distro_name": "OPNsense",
         "version": "24.7"
