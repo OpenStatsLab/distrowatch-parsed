@@ -1,6 +1,12 @@
 [
     {
-        "title": "Distribution Release: OPNsense 24.7",
+        "title": "Distribution Release: Vanilla OS 2",
+        "link": "",
+        "description": "Description not available",
+        "date": "28/07/2024, 22:37"
+    },
+    {
+        "title": "BSD Release: OPNsense 24.7",
         "link": "",
         "description": "Description not available",
         "date": "25/07/2024, 20:56"
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "16/07/2024, 12:41"
-    },
-    {
-        "title": "BSD Release: NomadBSD 141R",
-        "link": "",
-        "description": "Description not available",
-        "date": "15/07/2024, 15:43"
     }
 ]
