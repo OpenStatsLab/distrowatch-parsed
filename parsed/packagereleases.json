@@ -1,5 +1,11 @@
 [
     {
+        "date": "29/07",
+        "package_name": "opera",
+        "version": "112.0.5197.39",
+        "link": ""
+    },
+    {
         "date": "28/07",
         "package_name": "links",
         "version": "2.30",
@@ -63,12 +69,6 @@
         "date": "24/07",
         "package_name": "chromium",
         "version": "127.0.6533.72",
-        "link": ""
-    },
-    {
-        "date": "23/07",
-        "package_name": "docker",
-        "version": "27.1.1",
         "link": ""
     }
 ]
