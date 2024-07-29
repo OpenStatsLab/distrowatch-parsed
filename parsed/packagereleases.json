@@ -1,6 +1,12 @@
 [
     {
         "date": "29/07",
+        "package_name": "sysvinit",
+        "version": "3.10",
+        "link": ""
+    },
+    {
+        "date": "29/07",
         "package_name": "opera",
         "version": "112.0.5197.39",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "24/07",
         "package_name": "webmin",
         "version": "2.201",
-        "link": ""
-    },
-    {
-        "date": "24/07",
-        "package_name": "chromium",
-        "version": "127.0.6533.72",
         "link": ""
     }
 ]
