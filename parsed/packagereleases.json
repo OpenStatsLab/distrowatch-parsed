@@ -1,6 +1,12 @@
 [
     {
         "date": "29/07",
+        "package_name": "git",
+        "version": "2.46.0",
+        "link": ""
+    },
+    {
+        "date": "29/07",
         "package_name": "sysvinit",
         "version": "3.10",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "24/07",
         "package_name": "curl",
         "version": "8.9.0",
-        "link": ""
-    },
-    {
-        "date": "24/07",
-        "package_name": "webmin",
-        "version": "2.201",
         "link": ""
     }
 ]
