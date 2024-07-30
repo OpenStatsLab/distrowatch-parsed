@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: Super Grub2 Disk 2.06s4",
+        "link": "",
+        "description": "Description not available",
+        "date": "30/07/2024, 23:14"
+    },
+    {
         "title": "Distribution Release: Emmabunt\u00fcs DE5-1.02",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "22/07/2024, 00:10"
-    },
-    {
-        "title": "Distribution Release: OpenMandriva 24.07 \"ROME\"",
-        "link": "",
-        "description": "Description not available",
-        "date": "20/07/2024, 23:16"
     }
 ]
