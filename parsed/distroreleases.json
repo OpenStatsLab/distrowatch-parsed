@@ -11,11 +11,6 @@
     },
     {
         "date": "29/07",
-        "distro_name": "Manjaro",
-        "version": "24.0.5"
-    },
-    {
-        "date": "29/07",
         "distro_name": "deepin",
         "version": "20.9"
     },
@@ -58,5 +53,10 @@
         "date": "24/07",
         "distro_name": "Calculate",
         "version": "20240724"
+    },
+    {
+        "date": "24/07",
+        "distro_name": "EasyOS",
+        "version": "6.1.1"
     }
 ]
