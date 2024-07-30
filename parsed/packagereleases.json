@@ -1,6 +1,12 @@
 [
     {
         "date": "30/07",
+        "package_name": "php",
+        "version": "8.3.10",
+        "link": ""
+    },
+    {
+        "date": "30/07",
         "package_name": "cryptsetup",
         "version": "2.7.4",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "25/07",
         "package_name": "snapd",
         "version": "2.64",
-        "link": ""
-    },
-    {
-        "date": "25/07",
-        "package_name": "rust",
-        "version": "1.80.0",
         "link": ""
     }
 ]
