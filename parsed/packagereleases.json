@@ -1,6 +1,12 @@
 [
     {
         "date": "30/07",
+        "package_name": "cryptsetup",
+        "version": "2.7.4",
+        "link": ""
+    },
+    {
+        "date": "30/07",
         "package_name": "apt",
         "version": "2.9.7",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "25/07",
         "package_name": "rust",
         "version": "1.80.0",
-        "link": ""
-    },
-    {
-        "date": "25/07",
-        "package_name": "qt-creator",
-        "version": "14.0.0",
         "link": ""
     }
 ]
