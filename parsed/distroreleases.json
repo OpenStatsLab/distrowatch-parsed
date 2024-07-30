@@ -1,6 +1,11 @@
 [
     {
         "date": "30/07",
+        "distro_name": "Super Grub2",
+        "version": "2.06s4"
+    },
+    {
+        "date": "30/07",
         "distro_name": "T2",
         "version": "24.8"
     },
@@ -53,10 +58,5 @@
         "date": "24/07",
         "distro_name": "MidnightBSD",
         "version": "3.2.0"
-    },
-    {
-        "date": "24/07",
-        "distro_name": "Calculate",
-        "version": "20240724"
     }
 ]
