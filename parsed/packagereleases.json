@@ -1,6 +1,12 @@
 [
     {
         "date": "30/07",
+        "package_name": "snort",
+        "version": "3.3.2.0",
+        "link": ""
+    },
+    {
+        "date": "30/07",
         "package_name": "php",
         "version": "8.3.10",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "25/07",
         "package_name": "NetworkManager",
         "version": "1.48.6",
-        "link": ""
-    },
-    {
-        "date": "25/07",
-        "package_name": "snapd",
-        "version": "2.64",
         "link": ""
     }
 ]
