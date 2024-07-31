@@ -1,6 +1,11 @@
 [
     {
         "date": "31/07",
+        "distro_name": "TUXEDO",
+        "version": "3-20240731"
+    },
+    {
+        "date": "31/07",
         "distro_name": "Whonix",
         "version": "17.2.0.1"
     },
@@ -53,10 +58,5 @@
         "date": "25/07",
         "distro_name": "KDE neon",
         "version": "20240725"
-    },
-    {
-        "date": "25/07",
-        "distro_name": "CentOS",
-        "version": "9-20240724"
     }
 ]
