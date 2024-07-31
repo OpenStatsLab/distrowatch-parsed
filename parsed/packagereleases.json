@@ -1,6 +1,12 @@
 [
     {
         "date": "31/07",
+        "package_name": "chromium",
+        "version": "127.0.6533.88",
+        "link": ""
+    },
+    {
+        "date": "31/07",
         "package_name": "curl",
         "version": "8.9.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "28/07",
         "package_name": "links",
         "version": "2.30",
-        "link": ""
-    },
-    {
-        "date": "27/07",
-        "package_name": "linux",
-        "version": "6.10.2",
         "link": ""
     }
 ]
