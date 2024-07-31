@@ -1,5 +1,10 @@
 [
     {
+        "date": "31/07",
+        "distro_name": "Whonix",
+        "version": "17.2.0.1"
+    },
+    {
         "date": "30/07",
         "distro_name": "Super Grub2",
         "version": "2.06s4"
