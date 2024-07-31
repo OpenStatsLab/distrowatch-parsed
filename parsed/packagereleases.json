@@ -1,6 +1,12 @@
 [
     {
         "date": "31/07",
+        "package_name": "pipewire",
+        "version": "1.2.2",
+        "link": ""
+    },
+    {
+        "date": "31/07",
         "package_name": "chromium",
         "version": "127.0.6533.88",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "29/07",
         "package_name": "opera",
         "version": "112.0.5197.39",
-        "link": ""
-    },
-    {
-        "date": "28/07",
-        "package_name": "links",
-        "version": "2.30",
         "link": ""
     }
 ]
