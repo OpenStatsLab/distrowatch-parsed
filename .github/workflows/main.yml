@@ -3,10 +3,11 @@ name: DistroWatch Parse
 on:
   schedule:
     - cron: '*/20 * * * *'
+    - cron: '0 0 * * 0'  # Runs every Sunday at midnight
   workflow_dispatch:
 
 jobs:
-  build:
+  run_other_scripts:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,13 +19,13 @@ jobs:
 
     - name: Clone repository
       run: |
-         git push https://${{ secrets.GH_TOKEN }}@github.com/OpenStatsLab/distrowatch-parsed.git
-         git clone https://github.com/OpenStatsLab/distrowatch-parsing
+        git push https://${{ secrets.GH_TOKEN }}@github.com/OpenStatsLab/distrowatch-parsed.git
+        git clone https://github.com/OpenStatsLab/distrowatch-parsing
 
-    - name: Run Python files
+    - name: Run other Python files
       run: |
         pip install bs4 lxml
-        find distrowatch-parsing -name "*.py" -type f -exec python {} \;
+        find distrowatch-parsing -name "*.py" ! -name "distroinfo.py" -type f -exec python {} \;
 
     - name: Delete cloned repository
       run: rm -rf distrowatch-parsing
@@ -40,4 +41,39 @@ jobs:
     - name: Push changes
       run: |
         git push https://${{ secrets.GH_TOKEN }}@github.com/OpenStatsLab/distrowatch-parsed.git
-       
+
+  run_distroinfo:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 0 * * 0'  # Only runs on Sundays
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
+    - name: Clone repository
+      run: |
+        git push https://${{ secrets.GH_TOKEN }}@github.com/OpenStatsLab/distrowatch-parsed.git
+        git clone https://github.com/OpenStatsLab/distrowatch-parsing
+
+    - name: Run distroinfo.py
+      run: |
+        pip install bs4 lxml
+        python distrowatch-parsing/distroinfo.py
+
+    - name: Delete cloned repository
+      run: rm -rf distrowatch-parsing
+
+    - name: Commit changes
+      run: |
+        current_date=$(date +'%d/%m/%Y, %H:%M')
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add -A
+        git commit -m "Update: $current_date"
+
+    - name: Push changes
+      run: |
+        git push https://${{ secrets.GH_TOKEN }}@github.com/OpenStatsLab/distrowatch-parsed.git
