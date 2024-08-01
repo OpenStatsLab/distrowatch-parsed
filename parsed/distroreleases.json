@@ -51,12 +51,12 @@
     },
     {
         "date": "25/07",
-        "distro_name": "Bluestar",
-        "version": "6.10.0"
+        "distro_name": "KDE neon",
+        "version": "20240725"
     },
     {
         "date": "25/07",
-        "distro_name": "KDE neon",
-        "version": "20240725"
+        "distro_name": "CentOS",
+        "version": "9-20240724"
     }
 ]
