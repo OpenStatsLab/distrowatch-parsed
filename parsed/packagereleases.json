@@ -1,5 +1,11 @@
 [
     {
+        "date": "01/08",
+        "package_name": "gcc",
+        "version": "14.2.0",
+        "link": ""
+    },
+    {
         "date": "31/07",
         "package_name": "mesa",
         "version": "24.1.5",
@@ -63,12 +69,6 @@
         "date": "29/07",
         "package_name": "git",
         "version": "2.46.0",
-        "link": ""
-    },
-    {
-        "date": "29/07",
-        "package_name": "sysvinit",
-        "version": "3.10",
         "link": ""
     }
 ]
