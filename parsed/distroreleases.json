@@ -1,6 +1,11 @@
 [
     {
         "date": "01/08",
+        "distro_name": "KDE neon",
+        "version": "20240801"
+    },
+    {
+        "date": "01/08",
         "distro_name": "Dr.Parted",
         "version": "24.08"
     },
