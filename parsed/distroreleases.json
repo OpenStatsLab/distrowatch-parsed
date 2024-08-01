@@ -1,6 +1,11 @@
 [
     {
         "date": "01/08",
+        "distro_name": "Arch",
+        "version": "2024.08.01"
+    },
+    {
+        "date": "01/08",
         "distro_name": "Bluestar",
         "version": "6.10.2"
     },
