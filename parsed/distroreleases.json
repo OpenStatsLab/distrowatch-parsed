@@ -1,5 +1,10 @@
 [
     {
+        "date": "01/08",
+        "distro_name": "Dr.Parted",
+        "version": "24.08"
+    },
+    {
         "date": "31/07",
         "distro_name": "TUXEDO",
         "version": "3-20240731"
@@ -38,25 +43,5 @@
         "date": "28/07",
         "distro_name": "Vanilla",
         "version": "2"
-    },
-    {
-        "date": "25/07",
-        "distro_name": "OPNsense",
-        "version": "24.7"
-    },
-    {
-        "date": "25/07",
-        "distro_name": "Ubuntu Pack",
-        "version": "24.04"
-    },
-    {
-        "date": "25/07",
-        "distro_name": "KDE neon",
-        "version": "20240725"
-    },
-    {
-        "date": "25/07",
-        "distro_name": "CentOS",
-        "version": "9-20240724"
     }
 ]
