@@ -1,5 +1,11 @@
 [
     {
+        "date": "02/08",
+        "package_name": "evolution",
+        "version": "3.52.4",
+        "link": ""
+    },
+    {
         "date": "01/08",
         "package_name": "gcc",
         "version": "14.2.0",
@@ -63,12 +69,6 @@
         "date": "29/07",
         "package_name": "gstreamer",
         "version": "1.24.6",
-        "link": ""
-    },
-    {
-        "date": "29/07",
-        "package_name": "git",
-        "version": "2.46.0",
         "link": ""
     }
 ]
