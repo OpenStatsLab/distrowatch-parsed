@@ -1,6 +1,12 @@
 [
     {
         "date": "02/08",
+        "package_name": "bash",
+        "version": "5.2.32",
+        "link": ""
+    },
+    {
+        "date": "02/08",
         "package_name": "samba",
         "version": "4.20.3",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "30/07",
         "package_name": "php",
         "version": "8.3.10",
-        "link": ""
-    },
-    {
-        "date": "30/07",
-        "package_name": "cryptsetup",
-        "version": "2.7.4",
         "link": ""
     }
 ]
