@@ -1,6 +1,11 @@
 [
     {
         "date": "03/08",
+        "distro_name": "FreeBSD",
+        "version": "13.4-BETA1"
+    },
+    {
+        "date": "03/08",
         "distro_name": "Ultimate",
         "version": "2024.08.03"
     },
@@ -53,10 +58,5 @@
         "date": "29/07",
         "distro_name": "RebornOS",
         "version": "2024.07.27"
-    },
-    {
-        "date": "29/07",
-        "distro_name": "deepin",
-        "version": "20.9"
     }
 ]
