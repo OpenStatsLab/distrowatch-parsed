@@ -1,5 +1,10 @@
 [
     {
+        "date": "04/08",
+        "distro_name": "Calculate",
+        "version": "20240804"
+    },
+    {
         "date": "03/08",
         "distro_name": "FreeBSD",
         "version": "13.4-BETA1"
@@ -53,10 +58,5 @@
         "date": "29/07",
         "distro_name": "Emmabunt\u00fcs",
         "version": "DE5-1.02"
-    },
-    {
-        "date": "29/07",
-        "distro_name": "RebornOS",
-        "version": "2024.07.27"
     }
 ]
