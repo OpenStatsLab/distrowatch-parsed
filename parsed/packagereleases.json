@@ -1,6 +1,12 @@
 [
     {
         "date": "04/08",
+        "package_name": "binutils",
+        "version": "2.43",
+        "link": ""
+    },
+    {
+        "date": "04/08",
         "package_name": "cinnamon",
         "version": "6.2.8",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "31/07",
         "package_name": "pipewire",
         "version": "1.2.2",
-        "link": ""
-    },
-    {
-        "date": "31/07",
-        "package_name": "chromium",
-        "version": "127.0.6533.88",
         "link": ""
     }
 ]
