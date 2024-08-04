@@ -693,15 +693,6 @@
         "ostype": "Linux"
     },
     {
-        "distro": "FreePBX",
-        "codename": "freepbx",
-        "url": "https://distrowatch.com/table.php?distribution=freepbx",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/freepbx.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/freepbx.png",
-        "homepage": "https://www.freepbx.org/",
-        "ostype": "Linux"
-    },
-    {
         "distro": "Freespire",
         "codename": "freespire",
         "url": "https://distrowatch.com/table.php?distribution=freespire",
