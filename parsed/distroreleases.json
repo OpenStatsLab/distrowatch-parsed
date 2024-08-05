@@ -1,5 +1,10 @@
 [
     {
+        "date": "05/08",
+        "distro_name": "Gnoppix",
+        "version": "24.8.1"
+    },
+    {
         "date": "04/08",
         "distro_name": "Calculate",
         "version": "20240804"
@@ -53,10 +58,5 @@
         "date": "30/07",
         "distro_name": "T2",
         "version": "24.8"
-    },
-    {
-        "date": "29/07",
-        "distro_name": "Emmabunt\u00fcs",
-        "version": "DE5-1.02"
     }
 ]
