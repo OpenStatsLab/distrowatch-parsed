@@ -1,6 +1,12 @@
 [
     {
         "date": "05/08",
+        "package_name": "firefox",
+        "version": "129.0",
+        "link": ""
+    },
+    {
+        "date": "05/08",
         "package_name": "libvirt",
         "version": "10.6.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "02/08",
         "package_name": "evolution",
         "version": "3.52.4",
-        "link": ""
-    },
-    {
-        "date": "01/08",
-        "package_name": "gcc",
-        "version": "14.2.0",
         "link": ""
     }
 ]
