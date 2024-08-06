@@ -1,5 +1,17 @@
 [
     {
+        "date": "06/08",
+        "package_name": "plasma-desktop",
+        "version": "6.1.4",
+        "link": ""
+    },
+    {
+        "date": "06/08",
+        "package_name": "samba",
+        "version": "4.20.4",
+        "link": ""
+    },
+    {
         "date": "05/08",
         "package_name": "firefox",
         "version": "129.0",
@@ -55,20 +67,8 @@
     },
     {
         "date": "02/08",
-        "package_name": "samba",
-        "version": "4.20.3",
-        "link": ""
-    },
-    {
-        "date": "02/08",
         "package_name": "firebird",
         "version": "5.0.1",
-        "link": ""
-    },
-    {
-        "date": "02/08",
-        "package_name": "evolution",
-        "version": "3.52.4",
         "link": ""
     }
 ]
