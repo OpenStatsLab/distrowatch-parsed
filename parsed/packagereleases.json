@@ -1,6 +1,12 @@
 [
     {
         "date": "06/08",
+        "package_name": "thunderbird",
+        "version": "129.0",
+        "link": ""
+    },
+    {
+        "date": "06/08",
         "package_name": "postgresql",
         "version": "16.4",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "03/08",
         "package_name": "linux",
         "version": "6.10.3",
-        "link": ""
-    },
-    {
-        "date": "02/08",
-        "package_name": "ffmpeg",
-        "version": "7.0.2",
         "link": ""
     }
 ]
