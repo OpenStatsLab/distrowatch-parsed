@@ -1,6 +1,12 @@
 [
     {
         "date": "06/08",
+        "package_name": "apache-tomcat",
+        "version": "10.1.28",
+        "link": ""
+    },
+    {
+        "date": "06/08",
         "package_name": "plasma-desktop",
         "version": "6.1.4",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "02/08",
         "package_name": "bash",
         "version": "5.2.32",
-        "link": ""
-    },
-    {
-        "date": "02/08",
-        "package_name": "firebird",
-        "version": "5.0.1",
         "link": ""
     }
 ]
