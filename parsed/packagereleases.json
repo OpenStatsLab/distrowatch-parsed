@@ -1,6 +1,12 @@
 [
     {
         "date": "07/08",
+        "package_name": "Python",
+        "version": "3.12.5",
+        "link": ""
+    },
+    {
+        "date": "07/08",
         "package_name": "qt-creator",
         "version": "14.0.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "05/08",
         "package_name": "libvirt",
         "version": "10.6.0",
-        "link": ""
-    },
-    {
-        "date": "04/08",
-        "package_name": "gnome-shell",
-        "version": "46.4",
         "link": ""
     }
 ]
