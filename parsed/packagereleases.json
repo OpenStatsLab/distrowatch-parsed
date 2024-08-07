@@ -1,5 +1,11 @@
 [
     {
+        "date": "07/08",
+        "package_name": "chromium",
+        "version": "127.0.6533.99",
+        "link": ""
+    },
+    {
         "date": "06/08",
         "package_name": "thunderbird",
         "version": "129.0",
@@ -63,12 +69,6 @@
         "date": "04/08",
         "package_name": "cinnamon",
         "version": "6.2.8",
-        "link": ""
-    },
-    {
-        "date": "03/08",
-        "package_name": "linux",
-        "version": "6.10.3",
         "link": ""
     }
 ]
