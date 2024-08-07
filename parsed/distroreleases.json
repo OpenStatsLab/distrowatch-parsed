@@ -38,15 +38,5 @@
         "date": "01/08",
         "distro_name": "Dr.Parted",
         "version": "24.08"
-    },
-    {
-        "date": "31/07",
-        "distro_name": "TUXEDO",
-        "version": "3-20240731"
-    },
-    {
-        "date": "31/07",
-        "distro_name": "Whonix",
-        "version": "17.2.0.1"
     }
 ]
