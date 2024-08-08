@@ -1,5 +1,15 @@
 [
     {
+        "date": "08/08",
+        "distro_name": "KDE neon",
+        "version": "20240808"
+    },
+    {
+        "date": "08/08",
+        "distro_name": "Bluestar",
+        "version": "6.10.3"
+    },
+    {
         "date": "05/08",
         "distro_name": "Gnoppix",
         "version": "24.8.1"
@@ -18,25 +28,5 @@
         "date": "03/08",
         "distro_name": "Ultimate",
         "version": "2024.08.03"
-    },
-    {
-        "date": "01/08",
-        "distro_name": "Arch",
-        "version": "2024.08.01"
-    },
-    {
-        "date": "01/08",
-        "distro_name": "Bluestar",
-        "version": "6.10.2"
-    },
-    {
-        "date": "01/08",
-        "distro_name": "KDE neon",
-        "version": "20240801"
-    },
-    {
-        "date": "01/08",
-        "distro_name": "Dr.Parted",
-        "version": "24.08"
     }
 ]
