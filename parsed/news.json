@@ -1,5 +1,11 @@
 [
     {
+        "title": "Development Release: Pop!_OS 24.04 Alpha1",
+        "link": "",
+        "description": "Description not available",
+        "date": "08/08/2024, 19:57"
+    },
+    {
         "title": "DistroWatch Weekly, Issue 1082",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "25/07/2024, 15:43"
-    },
-    {
-        "title": "BSD Release: MidnightBSD 3.2.0",
-        "link": "",
-        "description": "Description not available",
-        "date": "25/07/2024, 00:47"
     }
 ]
