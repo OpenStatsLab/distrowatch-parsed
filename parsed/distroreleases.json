@@ -1,6 +1,11 @@
 [
     {
         "date": "08/08",
+        "distro_name": "Pop!_OS",
+        "version": "24.04-alpha1"
+    },
+    {
+        "date": "08/08",
         "distro_name": "KDE neon",
         "version": "20240808"
     },
