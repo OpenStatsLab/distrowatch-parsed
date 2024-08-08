@@ -1,6 +1,12 @@
 [
     {
         "date": "08/08",
+        "package_name": "cinnamon",
+        "version": "6.2.9",
+        "link": ""
+    },
+    {
+        "date": "08/08",
         "package_name": "rust",
         "version": "1.80.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "06/08",
         "package_name": "samba",
         "version": "4.20.4",
-        "link": ""
-    },
-    {
-        "date": "05/08",
-        "package_name": "firefox",
-        "version": "129.0",
         "link": ""
     }
 ]
