@@ -1,6 +1,11 @@
 [
     {
         "date": "09/08",
+        "distro_name": "FreeBSD",
+        "version": "13.4-BETA2"
+    },
+    {
+        "date": "09/08",
         "distro_name": "IPFire",
         "version": "2.29-core187"
     },
