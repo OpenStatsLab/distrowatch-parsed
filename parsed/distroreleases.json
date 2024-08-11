@@ -28,20 +28,5 @@
         "date": "05/08",
         "distro_name": "Gnoppix",
         "version": "24.8.1"
-    },
-    {
-        "date": "04/08",
-        "distro_name": "Calculate",
-        "version": "20240804"
-    },
-    {
-        "date": "03/08",
-        "distro_name": "FreeBSD",
-        "version": "13.4-BETA1"
-    },
-    {
-        "date": "03/08",
-        "distro_name": "Ultimate",
-        "version": "2024.08.03"
     }
 ]
