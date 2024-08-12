@@ -1,6 +1,12 @@
 [
     {
         "date": "12/08",
+        "package_name": "freetype",
+        "version": "2.13.3",
+        "link": ""
+    },
+    {
+        "date": "12/08",
         "package_name": "webmin",
         "version": "2.202",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "07/08",
         "package_name": "chromium",
         "version": "127.0.6533.99",
-        "link": ""
-    },
-    {
-        "date": "06/08",
-        "package_name": "thunderbird",
-        "version": "129.0",
         "link": ""
     }
 ]
