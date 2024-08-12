@@ -1,5 +1,11 @@
 [
     {
+        "date": "12/08",
+        "package_name": "webmin",
+        "version": "2.202",
+        "link": ""
+    },
+    {
         "date": "11/08",
         "package_name": "shotwell",
         "version": "0.32.8",
@@ -63,12 +69,6 @@
         "date": "06/08",
         "package_name": "thunderbird",
         "version": "129.0",
-        "link": ""
-    },
-    {
-        "date": "06/08",
-        "package_name": "postgresql",
-        "version": "16.4",
         "link": ""
     }
 ]
