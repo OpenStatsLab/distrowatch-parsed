@@ -1,6 +1,12 @@
 [
     {
         "date": "12/08",
+        "package_name": "firefox",
+        "version": "129.0.1",
+        "link": ""
+    },
+    {
+        "date": "12/08",
         "package_name": "freetype",
         "version": "2.13.3",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "07/08",
         "package_name": "doxygen",
         "version": "1.12.0",
-        "link": ""
-    },
-    {
-        "date": "07/08",
-        "package_name": "chromium",
-        "version": "127.0.6533.99",
         "link": ""
     }
 ]
