@@ -1,6 +1,11 @@
 [
     {
         "date": "12/08",
+        "distro_name": "AUSTRUMI",
+        "version": "4.9.6"
+    },
+    {
+        "date": "12/08",
         "distro_name": "Endless",
         "version": "6.0.2"
     },
