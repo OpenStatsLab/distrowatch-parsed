@@ -1,5 +1,10 @@
 [
     {
+        "date": "12/08",
+        "distro_name": "Manjaro",
+        "version": "24.0.6"
+    },
+    {
         "date": "11/08",
         "distro_name": "GhostBSD",
         "version": "24.04.2"
@@ -28,10 +33,5 @@
         "date": "08/08",
         "distro_name": "Bluestar",
         "version": "6.10.3"
-    },
-    {
-        "date": "05/08",
-        "distro_name": "Gnoppix",
-        "version": "24.8.1"
     }
 ]
