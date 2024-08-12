@@ -1,5 +1,11 @@
 [
     {
+        "title": "DistroWatch Weekly, Issue 1083",
+        "link": "",
+        "description": "Description not available",
+        "date": "12/08/2024, 00:20"
+    },
+    {
         "title": "Distribution Release: IPFire 2.29 Core 187",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "25/07/2024, 19:22"
-    },
-    {
-        "title": "Distribution Release: Linux Mint 22",
-        "link": "",
-        "description": "Description not available",
-        "date": "25/07/2024, 16:03"
     }
 ]
