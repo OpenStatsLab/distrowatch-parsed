@@ -1,6 +1,11 @@
 [
     {
         "date": "13/08",
+        "distro_name": "SparkyLinux",
+        "version": "2024.08"
+    },
+    {
+        "date": "13/08",
         "distro_name": "Tails",
         "version": "6.6"
     },
