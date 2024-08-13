@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: Tails 6.6",
+        "link": "",
+        "description": "Description not available",
+        "date": "13/08/2024, 12:34"
+    },
+    {
         "title": "Distribution Release: RebeccaBlackOS 2024-08-12",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "28/07/2024, 22:37"
-    },
-    {
-        "title": "BSD Release: OPNsense 24.7",
-        "link": "",
-        "description": "Description not available",
-        "date": "25/07/2024, 20:56"
     }
 ]
