@@ -1,6 +1,12 @@
 [
     {
         "date": "13/08",
+        "package_name": "docker",
+        "version": "27.1.2",
+        "link": ""
+    },
+    {
+        "date": "13/08",
         "package_name": "sqlite",
         "version": "3.46.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "08/08",
         "package_name": "rust",
         "version": "1.80.1",
-        "link": ""
-    },
-    {
-        "date": "07/08",
-        "package_name": "Python",
-        "version": "3.12.5",
         "link": ""
     }
 ]
