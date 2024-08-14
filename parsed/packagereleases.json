@@ -1,6 +1,12 @@
 [
     {
         "date": "14/08",
+        "package_name": "linux",
+        "version": "6.10.5",
+        "link": ""
+    },
+    {
+        "date": "14/08",
         "package_name": "dovecot",
         "version": "2.3.21.1",
         "link": ""
@@ -57,12 +63,6 @@
         "date": "11/08",
         "package_name": "shotwell",
         "version": "0.32.8",
-        "link": ""
-    },
-    {
-        "date": "11/08",
-        "package_name": "linux",
-        "version": "6.10.4",
         "link": ""
     },
     {
