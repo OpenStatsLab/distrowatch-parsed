@@ -1,5 +1,11 @@
 [
     {
+        "date": "14/08",
+        "package_name": "chromium",
+        "version": "127.0.6533.119",
+        "link": ""
+    },
+    {
         "date": "13/08",
         "package_name": "kmod",
         "version": "33",
@@ -63,12 +69,6 @@
         "date": "08/08",
         "package_name": "mariadb",
         "version": "11.4.3",
-        "link": ""
-    },
-    {
-        "date": "08/08",
-        "package_name": "cinnamon",
-        "version": "6.2.9",
         "link": ""
     }
 ]
