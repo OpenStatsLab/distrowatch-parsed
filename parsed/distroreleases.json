@@ -1,6 +1,11 @@
 [
     {
         "date": "14/08",
+        "distro_name": "Calculate",
+        "version": "20240813"
+    },
+    {
+        "date": "14/08",
         "distro_name": "EasyOS",
         "version": "5.8.4"
     },
@@ -53,10 +58,5 @@
         "date": "08/08",
         "distro_name": "Pop!_OS",
         "version": "24.04-alpha1"
-    },
-    {
-        "date": "08/08",
-        "distro_name": "KDE neon",
-        "version": "20240808"
     }
 ]
