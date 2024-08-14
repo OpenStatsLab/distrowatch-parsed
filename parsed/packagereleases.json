@@ -1,6 +1,12 @@
 [
     {
         "date": "14/08",
+        "package_name": "flatpak",
+        "version": "1.14.10",
+        "link": ""
+    },
+    {
+        "date": "14/08",
         "package_name": "nginx",
         "version": "1.26.2",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "12/08",
         "package_name": "webmin",
         "version": "2.202",
-        "link": ""
-    },
-    {
-        "date": "11/08",
-        "package_name": "shotwell",
-        "version": "0.32.8",
         "link": ""
     }
 ]
