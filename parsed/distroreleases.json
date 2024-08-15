@@ -1,6 +1,11 @@
 [
     {
         "date": "15/08",
+        "distro_name": "MakuluLinux",
+        "version": "2024-08-07"
+    },
+    {
+        "date": "15/08",
         "distro_name": "Bluestar",
         "version": "6.10.4"
     },
@@ -53,10 +58,5 @@
         "date": "11/08",
         "distro_name": "GhostBSD",
         "version": "24.04.2"
-    },
-    {
-        "date": "09/08",
-        "distro_name": "FreeBSD",
-        "version": "13.4-BETA2"
     }
 ]
