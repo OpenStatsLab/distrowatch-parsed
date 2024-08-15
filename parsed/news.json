@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: deepin 23",
+        "link": "",
+        "description": "Description not available",
+        "date": "15/08/2024, 11:55"
+    },
+    {
         "title": "Distribution Release: Tails 6.6",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "29/07/2024, 00:06"
-    },
-    {
-        "title": "Distribution Release: Vanilla OS 2",
-        "link": "",
-        "description": "Description not available",
-        "date": "28/07/2024, 22:37"
     }
 ]
