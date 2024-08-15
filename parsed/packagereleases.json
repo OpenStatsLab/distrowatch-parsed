@@ -1,5 +1,11 @@
 [
     {
+        "date": "15/08",
+        "package_name": "chromium",
+        "version": "128.0.6613.36",
+        "link": ""
+    },
+    {
         "date": "14/08",
         "package_name": "mesa",
         "version": "24.2.0",
@@ -32,7 +38,7 @@
     {
         "date": "14/08",
         "package_name": "chromium",
-        "version": "127.0.6533.119",
+        "version": "128.0.6613.36",
         "link": ""
     },
     {
@@ -63,12 +69,6 @@
         "date": "12/08",
         "package_name": "firefox",
         "version": "129.0.1",
-        "link": ""
-    },
-    {
-        "date": "12/08",
-        "package_name": "freetype",
-        "version": "2.13.3",
         "link": ""
     }
 ]
