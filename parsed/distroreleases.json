@@ -1,6 +1,11 @@
 [
     {
         "date": "16/08",
+        "distro_name": "ExTiX",
+        "version": "24.8"
+    },
+    {
+        "date": "16/08",
         "distro_name": "FreeBSD",
         "version": "13.4-BETA3"
     },
@@ -53,10 +58,5 @@
         "date": "12/08",
         "distro_name": "Manjaro",
         "version": "24.0.6"
-    },
-    {
-        "date": "11/08",
-        "distro_name": "GhostBSD",
-        "version": "24.04.2"
     }
 ]
