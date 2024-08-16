@@ -1,5 +1,10 @@
 [
     {
+        "date": "16/08",
+        "distro_name": "FreeBSD",
+        "version": "13.4-BETA3"
+    },
+    {
         "date": "15/08",
         "distro_name": "MakuluLinux",
         "version": "2024-08-07"
