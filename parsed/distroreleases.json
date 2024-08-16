@@ -1,6 +1,11 @@
 [
     {
         "date": "16/08",
+        "distro_name": "Regata",
+        "version": "24.0.8"
+    },
+    {
+        "date": "16/08",
         "distro_name": "ExTiX",
         "version": "24.8"
     },
@@ -53,10 +58,5 @@
         "date": "12/08",
         "distro_name": "RebeccaBlackOS",
         "version": "2024-08-12"
-    },
-    {
-        "date": "12/08",
-        "distro_name": "Manjaro",
-        "version": "24.0.6"
     }
 ]
