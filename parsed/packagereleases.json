@@ -1,5 +1,11 @@
 [
     {
+        "date": "17/08",
+        "package_name": "kodi",
+        "version": "21.1",
+        "link": ""
+    },
+    {
         "date": "16/08",
         "package_name": "gtk",
         "version": "4.14.5",
@@ -63,12 +69,6 @@
         "date": "14/08",
         "package_name": "chromium",
         "version": "127.0.6533.119",
-        "link": ""
-    },
-    {
-        "date": "13/08",
-        "package_name": "kmod",
-        "version": "33",
         "link": ""
     }
 ]
