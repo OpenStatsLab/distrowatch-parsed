@@ -1,6 +1,12 @@
 [
     {
         "date": "17/08",
+        "package_name": "binutils",
+        "version": "2.43.1",
+        "link": ""
+    },
+    {
+        "date": "17/08",
         "package_name": "kodi",
         "version": "21.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "14/08",
         "package_name": "dovecot",
         "version": "2.3.21.1",
-        "link": ""
-    },
-    {
-        "date": "14/08",
-        "package_name": "chromium",
-        "version": "127.0.6533.119",
         "link": ""
     }
 ]
