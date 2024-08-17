@@ -26,11 +26,6 @@
     },
     {
         "date": "15/08",
-        "distro_name": "Bluestar",
-        "version": "6.10.4"
-    },
-    {
-        "date": "15/08",
         "distro_name": "deepin",
         "version": "23"
     },
@@ -58,5 +53,10 @@
         "date": "12/08",
         "distro_name": "Endless",
         "version": "6.0.2"
+    },
+    {
+        "date": "12/08",
+        "distro_name": "RebeccaBlackOS",
+        "version": "2024-08-12"
     }
 ]
