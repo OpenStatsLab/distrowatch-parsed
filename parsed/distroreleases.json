@@ -1,5 +1,10 @@
 [
     {
+        "date": "19/08",
+        "distro_name": "EasyOS",
+        "version": "6.2"
+    },
+    {
         "date": "18/08",
         "distro_name": "CachyOS",
         "version": "240818"
