@@ -1,6 +1,12 @@
 [
     {
         "date": "19/08",
+        "package_name": "qbittorrent",
+        "version": "4.6.6",
+        "link": ""
+    },
+    {
+        "date": "19/08",
         "package_name": "linux",
         "version": "6.10.6",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "14/08",
         "package_name": "nginx",
         "version": "1.26.2",
-        "link": ""
-    },
-    {
-        "date": "14/08",
-        "package_name": "dovecot",
-        "version": "2.3.21.1",
         "link": ""
     }
 ]
