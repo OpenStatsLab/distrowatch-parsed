@@ -1,5 +1,11 @@
 [
     {
+        "title": "DistroWatch Weekly, Issue 1084",
+        "link": "",
+        "description": "Description not available",
+        "date": "19/08/2024, 00:03"
+    },
+    {
         "title": "Distribution Release: ExTiX 24.8",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "30/07/2024, 23:14"
-    },
-    {
-        "title": "Distribution Release: Emmabunt\u00fcs DE5-1.02",
-        "link": "",
-        "description": "Description not available",
-        "date": "29/07/2024, 20:00"
     }
 ]
