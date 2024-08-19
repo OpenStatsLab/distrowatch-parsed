@@ -53,10 +53,5 @@
         "date": "13/08",
         "distro_name": "Tails",
         "version": "6.6"
-    },
-    {
-        "date": "12/08",
-        "distro_name": "AUSTRUMI",
-        "version": "4.9.6"
     }
 ]
