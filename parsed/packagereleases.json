@@ -1,5 +1,11 @@
 [
     {
+        "date": "20/08",
+        "package_name": "firefox",
+        "version": "129.0.2",
+        "link": ""
+    },
+    {
         "date": "19/08",
         "package_name": "qbittorrent",
         "version": "4.6.6",
@@ -63,12 +69,6 @@
         "date": "14/08",
         "package_name": "flatpak",
         "version": "1.14.10",
-        "link": ""
-    },
-    {
-        "date": "14/08",
-        "package_name": "nginx",
-        "version": "1.26.2",
         "link": ""
     }
 ]
