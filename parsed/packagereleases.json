@@ -1,6 +1,12 @@
 [
     {
         "date": "20/08",
+        "package_name": "blender",
+        "version": "4.2.1",
+        "link": ""
+    },
+    {
+        "date": "20/08",
         "package_name": "firefox",
         "version": "129.0.2",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "14/08",
         "package_name": "mesa",
         "version": "24.2.0",
-        "link": ""
-    },
-    {
-        "date": "14/08",
-        "package_name": "flatpak",
-        "version": "1.14.10",
         "link": ""
     }
 ]
