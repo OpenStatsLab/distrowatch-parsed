@@ -1,5 +1,17 @@
 [
     {
+        "date": "21/08",
+        "package_name": "bind",
+        "version": "9.20.1",
+        "link": ""
+    },
+    {
+        "date": "21/08",
+        "package_name": "gstreamer",
+        "version": "1.24.7",
+        "link": ""
+    },
+    {
         "date": "20/08",
         "package_name": "blender",
         "version": "4.2.1",
@@ -57,12 +69,6 @@
         "date": "15/08",
         "package_name": "dnf",
         "version": "4.21.1",
-        "link": ""
-    },
-    {
-        "date": "15/08",
-        "package_name": "clamav",
-        "version": "1.4.0",
         "link": ""
     }
 ]
