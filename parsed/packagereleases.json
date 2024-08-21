@@ -1,6 +1,12 @@
 [
     {
         "date": "21/08",
+        "package_name": "NVIDIA",
+        "version": "560.35.03",
+        "link": ""
+    },
+    {
+        "date": "21/08",
         "package_name": "bind",
         "version": "9.20.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "15/08",
         "package_name": "systemd",
         "version": "256.5",
-        "link": ""
-    },
-    {
-        "date": "15/08",
-        "package_name": "dnf",
-        "version": "4.21.1",
         "link": ""
     }
 ]
