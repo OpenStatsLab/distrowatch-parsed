@@ -1,5 +1,10 @@
 [
     {
+        "date": "22/08",
+        "distro_name": "KDE neon",
+        "version": "20240822"
+    },
+    {
         "date": "21/08",
         "distro_name": "Manjaro",
         "version": "24.0.7"
@@ -53,10 +58,5 @@
         "date": "16/08",
         "distro_name": "FreeBSD",
         "version": "13.4-BETA3"
-    },
-    {
-        "date": "15/08",
-        "distro_name": "MakuluLinux",
-        "version": "2024-08-07"
     }
 ]
