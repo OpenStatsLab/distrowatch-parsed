@@ -21,11 +21,6 @@
     },
     {
         "date": "20/08",
-        "distro_name": "Calculate",
-        "version": "20240820"
-    },
-    {
-        "date": "20/08",
         "distro_name": "CentOS",
         "version": "9-20240819"
     },
@@ -58,5 +53,10 @@
         "date": "16/08",
         "distro_name": "ExTiX",
         "version": "24.8"
+    },
+    {
+        "date": "16/08",
+        "distro_name": "FreeBSD",
+        "version": "13.4-BETA3"
     }
 ]
