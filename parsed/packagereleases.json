@@ -1,6 +1,18 @@
 [
     {
         "date": "22/08",
+        "package_name": "snapd",
+        "version": "2.65",
+        "link": ""
+    },
+    {
+        "date": "22/08",
+        "package_name": "ktorrent",
+        "version": "24.08.0",
+        "link": ""
+    },
+    {
+        "date": "22/08",
         "package_name": "kdevelop",
         "version": "24.08.0",
         "link": ""
@@ -57,18 +69,6 @@
         "date": "20/08",
         "package_name": "firefox",
         "version": "129.0.2",
-        "link": ""
-    },
-    {
-        "date": "19/08",
-        "package_name": "qbittorrent",
-        "version": "4.6.6",
-        "link": ""
-    },
-    {
-        "date": "19/08",
-        "package_name": "linux",
-        "version": "6.10.6",
         "link": ""
     }
 ]
