@@ -1,6 +1,12 @@
 [
     {
         "date": "22/08",
+        "package_name": "k3b",
+        "version": "24.08.0",
+        "link": ""
+    },
+    {
+        "date": "22/08",
         "package_name": "pipewire",
         "version": "1.2.3",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "17/08",
         "package_name": "binutils",
         "version": "2.43.1",
-        "link": ""
-    },
-    {
-        "date": "17/08",
-        "package_name": "kodi",
-        "version": "21.1",
         "link": ""
     }
 ]
