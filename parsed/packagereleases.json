@@ -1,6 +1,12 @@
 [
     {
         "date": "22/08",
+        "package_name": "opera",
+        "version": "113.0.5230.31",
+        "link": ""
+    },
+    {
+        "date": "22/08",
         "package_name": "snapd",
         "version": "2.65",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "20/08",
         "package_name": "blender",
         "version": "4.2.1",
-        "link": ""
-    },
-    {
-        "date": "20/08",
-        "package_name": "firefox",
-        "version": "129.0.2",
         "link": ""
     }
 ]
