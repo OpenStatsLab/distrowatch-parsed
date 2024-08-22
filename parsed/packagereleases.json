@@ -1,5 +1,11 @@
 [
     {
+        "date": "22/08",
+        "package_name": "chromium",
+        "version": "128.0.6613.84",
+        "link": ""
+    },
+    {
         "date": "21/08",
         "package_name": "NVIDIA",
         "version": "560.35.03",
@@ -63,12 +69,6 @@
         "date": "16/08",
         "package_name": "snort",
         "version": "3.3.3.0",
-        "link": ""
-    },
-    {
-        "date": "15/08",
-        "package_name": "systemd",
-        "version": "256.5",
         "link": ""
     }
 ]
