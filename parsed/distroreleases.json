@@ -48,15 +48,5 @@
         "date": "17/08",
         "distro_name": "Fatdog64",
         "version": "903"
-    },
-    {
-        "date": "16/08",
-        "distro_name": "Regata",
-        "version": "24.0.8"
-    },
-    {
-        "date": "16/08",
-        "distro_name": "ExTiX",
-        "version": "24.8"
     }
 ]
