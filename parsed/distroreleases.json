@@ -1,6 +1,11 @@
 [
     {
         "date": "23/08",
+        "distro_name": "FreeBSD",
+        "version": "13.4-RC1"
+    },
+    {
+        "date": "23/08",
         "distro_name": "Ultimate",
         "version": "2024.08.23"
     },
