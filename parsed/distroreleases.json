@@ -1,5 +1,10 @@
 [
     {
+        "date": "24/08",
+        "distro_name": "Bluestar",
+        "version": "6.10.6"
+    },
+    {
         "date": "23/08",
         "distro_name": "Artix",
         "version": "20240823"
@@ -43,10 +48,5 @@
         "date": "18/08",
         "distro_name": "CachyOS",
         "version": "240818"
-    },
-    {
-        "date": "17/08",
-        "distro_name": "Fatdog64",
-        "version": "903"
     }
 ]
