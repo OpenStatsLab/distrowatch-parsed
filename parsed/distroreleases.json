@@ -1,6 +1,11 @@
 [
     {
         "date": "23/08",
+        "distro_name": "Artix",
+        "version": "20240823"
+    },
+    {
+        "date": "23/08",
         "distro_name": "FreeBSD",
         "version": "13.4-RC1"
     },
@@ -23,11 +28,6 @@
         "date": "21/08",
         "distro_name": "Manjaro",
         "version": "24.0.7"
-    },
-    {
-        "date": "20/08",
-        "distro_name": "Artix",
-        "version": "20240819"
     },
     {
         "date": "20/08",
