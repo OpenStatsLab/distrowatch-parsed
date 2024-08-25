@@ -1566,6 +1566,15 @@
         "ostype": "Linux"
     },
     {
+        "distro": "PorteuX",
+        "codename": "porteux",
+        "url": "https://distrowatch.com/table.php?distribution=porteux",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/porteux.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/porteux.png",
+        "homepage": "https://github.com/porteux/porteux/",
+        "ostype": "Linux"
+    },
+    {
         "distro": "postmarketOS",
         "codename": "postmarketos",
         "url": "https://distrowatch.com/table.php?distribution=postmarketos",
