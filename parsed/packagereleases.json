@@ -1,6 +1,12 @@
 [
     {
         "date": "24/08",
+        "package_name": "wayland",
+        "version": "1.23.1",
+        "link": ""
+    },
+    {
+        "date": "24/08",
         "package_name": "snapd",
         "version": "2.65.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "21/08",
         "package_name": "NVIDIA",
         "version": "560.35.03",
-        "link": ""
-    },
-    {
-        "date": "21/08",
-        "package_name": "bind",
-        "version": "9.20.1",
         "link": ""
     }
 ]
