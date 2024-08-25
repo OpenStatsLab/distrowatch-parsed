@@ -1,5 +1,10 @@
 [
     {
+        "date": "25/08",
+        "distro_name": "OSMC",
+        "version": "2024.08-1"
+    },
+    {
         "date": "24/08",
         "distro_name": "Bluestar",
         "version": "6.10.6"
@@ -43,10 +48,5 @@
         "date": "19/08",
         "distro_name": "EasyOS",
         "version": "6.2"
-    },
-    {
-        "date": "18/08",
-        "distro_name": "CachyOS",
-        "version": "240818"
     }
 ]
