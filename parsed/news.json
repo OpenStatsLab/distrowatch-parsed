@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: OSMC 2024.08-1",
+        "link": "",
+        "description": "Description not available",
+        "date": "25/08/2024, 11:03"
+    },
+    {
         "title": "DistroWatch Weekly, Issue 1084",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "05/08/2024, 00:12"
-    },
-    {
-        "title": "Distribution Release: Super Grub2 Disk 2.06s4",
-        "link": "",
-        "description": "Description not available",
-        "date": "30/07/2024, 23:14"
     }
 ]
