@@ -1,5 +1,10 @@
 [
     {
+        "date": "26/08",
+        "distro_name": "LibreELEC",
+        "version": "12.0.1"
+    },
+    {
         "date": "25/08",
         "distro_name": "OSMC",
         "version": "2024.08-1"
