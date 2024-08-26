@@ -43,10 +43,5 @@
         "date": "20/08",
         "distro_name": "CentOS",
         "version": "9-20240819"
-    },
-    {
-        "date": "19/08",
-        "distro_name": "EasyOS",
-        "version": "6.2"
     }
 ]

@@ -1,6 +1,12 @@
 [
     {
         "date": "26/08",
+        "package_name": "xfsprogs",
+        "version": "6.10.0",
+        "link": ""
+    },
+    {
+        "date": "26/08",
         "package_name": "NetworkManager",
         "version": "1.48.10",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "22/08",
         "package_name": "LibreOffice",
         "version": "24.8.0",
-        "link": ""
-    },
-    {
-        "date": "22/08",
-        "package_name": "chromium",
-        "version": "128.0.6613.84",
         "link": ""
     }
 ]
