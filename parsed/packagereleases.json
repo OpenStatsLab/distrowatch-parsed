@@ -1,5 +1,11 @@
 [
     {
+        "date": "27/08",
+        "package_name": "calligra",
+        "version": "4.0.0",
+        "link": ""
+    },
+    {
         "date": "26/08",
         "package_name": "gtk",
         "version": "4.14.5",
@@ -63,12 +69,6 @@
         "date": "22/08",
         "package_name": "k3b",
         "version": "24.08.0",
-        "link": ""
-    },
-    {
-        "date": "22/08",
-        "package_name": "pipewire",
-        "version": "1.2.3",
         "link": ""
     }
 ]
