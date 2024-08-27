@@ -1,6 +1,12 @@
 [
     {
         "date": "26/08",
+        "package_name": "gtk",
+        "version": "4.14.6",
+        "link": ""
+    },
+    {
+        "date": "26/08",
         "package_name": "xfsprogs",
         "version": "6.10.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "22/08",
         "package_name": "pipewire",
         "version": "1.2.3",
-        "link": ""
-    },
-    {
-        "date": "22/08",
-        "package_name": "LibreOffice",
-        "version": "24.8.0",
         "link": ""
     }
 ]
