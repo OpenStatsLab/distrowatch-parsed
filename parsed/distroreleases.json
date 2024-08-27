@@ -1,6 +1,11 @@
 [
     {
         "date": "27/08",
+        "distro_name": "TUXEDO",
+        "version": "3-20240827"
+    },
+    {
+        "date": "27/08",
         "distro_name": "RELIANOID",
         "version": "7.4"
     },
