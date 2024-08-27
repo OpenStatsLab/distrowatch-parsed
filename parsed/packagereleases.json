@@ -1,6 +1,12 @@
 [
     {
         "date": "27/08",
+        "package_name": "php",
+        "version": "8.3.11",
+        "link": ""
+    },
+    {
+        "date": "27/08",
         "package_name": "calligra",
         "version": "4.0.0",
         "link": ""
@@ -62,12 +68,6 @@
     {
         "date": "22/08",
         "package_name": "kdevelop",
-        "version": "24.08.0",
-        "link": ""
-    },
-    {
-        "date": "22/08",
-        "package_name": "k3b",
         "version": "24.08.0",
         "link": ""
     }
