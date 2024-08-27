@@ -1,6 +1,11 @@
 [
     {
         "date": "27/08",
+        "distro_name": "4MLinux",
+        "version": "46.0"
+    },
+    {
+        "date": "27/08",
         "distro_name": "TUXEDO",
         "version": "3-20240827"
     },

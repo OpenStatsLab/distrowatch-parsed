@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: 4MLinux 46.0",
+        "link": "",
+        "description": "Description not available",
+        "date": "27/08/2024, 18:10"
+    },
+    {
         "title": "DistroWatch Weekly, Issue 1085",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "09/08/2024, 17:06"
-    },
-    {
-        "title": "Development Release: Pop!_OS 24.04 Alpha 1",
-        "link": "",
-        "description": "Description not available",
-        "date": "08/08/2024, 19:57"
     }
 ]
