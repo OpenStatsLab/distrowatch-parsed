@@ -1,5 +1,10 @@
 [
     {
+        "date": "28/08",
+        "distro_name": "NethSecurity",
+        "version": "8.2"
+    },
+    {
         "date": "27/08",
         "distro_name": "4MLinux",
         "version": "46.0"
