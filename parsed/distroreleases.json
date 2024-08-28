@@ -53,10 +53,5 @@
         "date": "22/08",
         "distro_name": "KDE neon",
         "version": "20240822"
-    },
-    {
-        "date": "21/08",
-        "distro_name": "Manjaro",
-        "version": "24.0.7"
     }
 ]
