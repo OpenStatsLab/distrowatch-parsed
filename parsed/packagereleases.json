@@ -1,5 +1,11 @@
 [
     {
+        "date": "28/08",
+        "package_name": "snort",
+        "version": "3.3.4.0",
+        "link": ""
+    },
+    {
         "date": "27/08",
         "package_name": "docker",
         "version": "27.2.0",
@@ -63,12 +69,6 @@
         "date": "23/08",
         "package_name": "calibre",
         "version": "7.17.0",
-        "link": ""
-    },
-    {
-        "date": "22/08",
-        "package_name": "ktorrent",
-        "version": "24.08.0",
         "link": ""
     }
 ]
