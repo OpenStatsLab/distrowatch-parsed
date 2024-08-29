@@ -1,6 +1,12 @@
 [
     {
         "date": "29/08",
+        "package_name": "man-db",
+        "version": "2.13.0",
+        "link": ""
+    },
+    {
+        "date": "29/08",
         "package_name": "chromium",
         "version": "128.0.6613.113",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "26/08",
         "package_name": "NetworkManager",
         "version": "1.48.10",
-        "link": ""
-    },
-    {
-        "date": "24/08",
-        "package_name": "wayland",
-        "version": "1.23.1",
         "link": ""
     }
 ]
