@@ -1,6 +1,11 @@
 [
     {
         "date": "29/08",
+        "distro_name": "SystemRescue",
+        "version": "11.02"
+    },
+    {
+        "date": "29/08",
         "distro_name": "Kubuntu",
         "version": "24.04.1"
     },
@@ -53,10 +58,5 @@
         "date": "29/08",
         "distro_name": "Ubuntu",
         "version": "24.04.1"
-    },
-    {
-        "date": "29/08",
-        "distro_name": "PorteuX",
-        "version": "1.6"
     }
 ]
