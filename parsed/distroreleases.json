@@ -1,6 +1,56 @@
 [
     {
         "date": "29/08",
+        "distro_name": "Kubuntu",
+        "version": "24.04.1"
+    },
+    {
+        "date": "29/08",
+        "distro_name": "Lubuntu",
+        "version": "24.04.1"
+    },
+    {
+        "date": "29/08",
+        "distro_name": "Ubuntu Kylin",
+        "version": "24.04.1"
+    },
+    {
+        "date": "29/08",
+        "distro_name": "Ubuntu MATE",
+        "version": "24.04.1"
+    },
+    {
+        "date": "29/08",
+        "distro_name": "Ubuntu Budgie",
+        "version": "24.04.1"
+    },
+    {
+        "date": "29/08",
+        "distro_name": "Ubuntu Cinnamon",
+        "version": "24.04.1"
+    },
+    {
+        "date": "29/08",
+        "distro_name": "Ubuntu Studio",
+        "version": "24.04.1"
+    },
+    {
+        "date": "29/08",
+        "distro_name": "Edubuntu",
+        "version": "24.04.1"
+    },
+    {
+        "date": "29/08",
+        "distro_name": "Ubuntu Unity",
+        "version": "24.04.1"
+    },
+    {
+        "date": "29/08",
+        "distro_name": "Xubuntu",
+        "version": "24.04.1"
+    },
+    {
+        "date": "29/08",
         "distro_name": "Ubuntu",
         "version": "24.04.1"
     },
@@ -8,55 +58,5 @@
         "date": "29/08",
         "distro_name": "PorteuX",
         "version": "1.6"
-    },
-    {
-        "date": "29/08",
-        "distro_name": "KDE neon",
-        "version": "20240829"
-    },
-    {
-        "date": "28/08",
-        "distro_name": "CentOS",
-        "version": "9-20240828"
-    },
-    {
-        "date": "28/08",
-        "distro_name": "NethSecurity",
-        "version": "8.2"
-    },
-    {
-        "date": "27/08",
-        "distro_name": "4MLinux",
-        "version": "46.0"
-    },
-    {
-        "date": "27/08",
-        "distro_name": "TUXEDO",
-        "version": "3-20240827"
-    },
-    {
-        "date": "27/08",
-        "distro_name": "RELIANOID",
-        "version": "7.4"
-    },
-    {
-        "date": "26/08",
-        "distro_name": "LibreELEC",
-        "version": "12.0.1"
-    },
-    {
-        "date": "25/08",
-        "distro_name": "OSMC",
-        "version": "2024.08-1"
-    },
-    {
-        "date": "24/08",
-        "distro_name": "Bluestar",
-        "version": "6.10.6"
-    },
-    {
-        "date": "23/08",
-        "distro_name": "Artix",
-        "version": "20240823"
     }
 ]
