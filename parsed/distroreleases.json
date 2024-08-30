@@ -1,5 +1,10 @@
 [
     {
+        "date": "30/08",
+        "distro_name": "Voyager",
+        "version": "24.04.1.2"
+    },
+    {
         "date": "29/08",
         "distro_name": "SystemRescue",
         "version": "11.02"
@@ -52,11 +57,6 @@
     {
         "date": "29/08",
         "distro_name": "Xubuntu",
-        "version": "24.04.1"
-    },
-    {
-        "date": "29/08",
-        "distro_name": "Ubuntu",
         "version": "24.04.1"
     }
 ]
