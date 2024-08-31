@@ -1,5 +1,10 @@
 [
     {
+        "date": "31/08",
+        "distro_name": "Bluestar",
+        "version": "6.10.7"
+    },
+    {
         "date": "30/08",
         "distro_name": "FreeBSD",
         "version": "13.4-RC2"
@@ -52,11 +57,6 @@
     {
         "date": "29/08",
         "distro_name": "Edubuntu",
-        "version": "24.04.1"
-    },
-    {
-        "date": "29/08",
-        "distro_name": "Ubuntu Unity",
         "version": "24.04.1"
     }
 ]
