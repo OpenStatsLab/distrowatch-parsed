@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: Rhino Linux 2024.2",
+        "link": "",
+        "description": "Description not available",
+        "date": "31/08/2024, 23:47"
+    },
+    {
         "title": "Distribution Release: Ubuntu 24.04.1",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "13/08/2024, 12:34"
-    },
-    {
-        "title": "Distribution Release: RebeccaBlackOS 2024-08-12",
-        "link": "",
-        "description": "Description not available",
-        "date": "12/08/2024, 20:20"
     }
 ]
