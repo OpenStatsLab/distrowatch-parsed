@@ -1305,6 +1305,15 @@
         "ostype": "Solaris"
     },
     {
+        "distro": "openKylin",
+        "codename": "openkylin",
+        "url": "https://distrowatch.com/table.php?distribution=openkylin",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/openkylin.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/openkylin.png",
+        "homepage": "https://www.openkylin.top/",
+        "ostype": "Linux"
+    },
+    {
         "distro": "openmamba",
         "codename": "openmamba",
         "url": "https://distrowatch.com/table.php?distribution=openmamba",
