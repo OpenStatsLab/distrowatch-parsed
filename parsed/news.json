@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: Linux From Scratch 12.2",
+        "link": "",
+        "description": "Description not available",
+        "date": "01/09/2024, 17:09"
+    },
+    {
         "title": "Distribution Release: Rhino Linux 2024.2",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "15/08/2024, 11:55"
-    },
-    {
-        "title": "Distribution Release: Tails 6.6",
-        "link": "",
-        "description": "Description not available",
-        "date": "13/08/2024, 12:34"
     }
 ]
