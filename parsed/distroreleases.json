@@ -1,12 +1,27 @@
 [
     {
         "date": "01/09",
+        "distro_name": "Armbian",
+        "version": "24.8.1"
+    },
+    {
+        "date": "01/09",
+        "distro_name": "Debian Edu",
+        "version": "11.11"
+    },
+    {
+        "date": "01/09",
+        "distro_name": "Arch",
+        "version": "2024.09.01"
+    },
+    {
+        "date": "01/09",
         "distro_name": "Debian",
         "version": "11.11.0"
     },
     {
         "date": "01/09",
-        "distro_name": "Debian-Edu",
+        "distro_name": "Debian Edu",
         "version": "12.7.0"
     },
     {
@@ -43,20 +58,5 @@
         "date": "29/08",
         "distro_name": "SystemRescue",
         "version": "11.02"
-    },
-    {
-        "date": "29/08",
-        "distro_name": "Kubuntu",
-        "version": "24.04.1"
-    },
-    {
-        "date": "29/08",
-        "distro_name": "Lubuntu",
-        "version": "24.04.1"
-    },
-    {
-        "date": "29/08",
-        "distro_name": "Ubuntu Kylin",
-        "version": "24.04.1"
     }
 ]
