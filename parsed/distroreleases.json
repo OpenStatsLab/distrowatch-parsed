@@ -1,6 +1,11 @@
 [
     {
         "date": "01/09",
+        "distro_name": "Debian-Edu",
+        "version": "12.7.0"
+    },
+    {
+        "date": "01/09",
         "distro_name": "Debian",
         "version": "12.7.0"
     },
@@ -52,11 +57,6 @@
     {
         "date": "29/08",
         "distro_name": "Ubuntu MATE",
-        "version": "24.04.1"
-    },
-    {
-        "date": "29/08",
-        "distro_name": "Ubuntu Budgie",
         "version": "24.04.1"
     }
 ]
