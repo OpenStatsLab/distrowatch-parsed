@@ -1,7 +1,12 @@
 [
     {
+        "date": "01/09",
+        "distro_name": "Dr.Parted",
+        "version": "24.09"
+    },
+    {
         "date": "31/08",
-        "distro_name": "Rhino Linux",
+        "distro_name": "Rhino",
         "version": "2024.02"
     },
     {
@@ -52,11 +57,6 @@
     {
         "date": "29/08",
         "distro_name": "Ubuntu Cinnamon",
-        "version": "24.04.1"
-    },
-    {
-        "date": "29/08",
-        "distro_name": "Ubuntu Studio",
         "version": "24.04.1"
     }
 ]
