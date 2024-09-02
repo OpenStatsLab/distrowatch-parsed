@@ -1,5 +1,10 @@
 [
     {
+        "date": "02/09",
+        "distro_name": "Linuxfx",
+        "version": "1122.04.1"
+    },
+    {
         "date": "01/09",
         "distro_name": "Armbian",
         "version": "24.8.1"
@@ -53,10 +58,5 @@
         "date": "30/08",
         "distro_name": "Voyager Live",
         "version": "24.04.1.2"
-    },
-    {
-        "date": "29/08",
-        "distro_name": "SystemRescue",
-        "version": "11.02"
     }
 ]
