@@ -1,6 +1,11 @@
 [
     {
         "date": "02/09",
+        "distro_name": "GhostBSD",
+        "version": "24.07.1"
+    },
+    {
+        "date": "02/09",
         "distro_name": "Linuxfx",
         "version": "11.22.04.1"
     },
@@ -53,10 +58,5 @@
         "date": "30/08",
         "distro_name": "FreeBSD",
         "version": "13.4-RC2"
-    },
-    {
-        "date": "30/08",
-        "distro_name": "Voyager Live",
-        "version": "24.04.1.2"
     }
 ]
