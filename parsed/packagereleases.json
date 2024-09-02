@@ -1,6 +1,18 @@
 [
     {
         "date": "02/09",
+        "package_name": "firefox",
+        "version": "130.0",
+        "link": ""
+    },
+    {
+        "date": "02/09",
+        "package_name": "samba",
+        "version": "4.21.0",
+        "link": ""
+    },
+    {
+        "date": "02/09",
         "package_name": "libvirt",
         "version": "10.7.0",
         "link": ""
@@ -57,18 +69,6 @@
         "date": "28/08",
         "package_name": "snort",
         "version": "3.3.4.0",
-        "link": ""
-    },
-    {
-        "date": "27/08",
-        "package_name": "docker",
-        "version": "27.2.0",
-        "link": ""
-    },
-    {
-        "date": "27/08",
-        "package_name": "php",
-        "version": "8.3.11",
         "link": ""
     }
 ]
