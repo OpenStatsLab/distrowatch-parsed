@@ -1,5 +1,11 @@
 [
     {
+        "title": "BSD Release: GhostBSD 24.07.1",
+        "link": "",
+        "description": "Description not available",
+        "date": "02/09/2024, 22:44"
+    },
+    {
         "title": "DistroWatch Weekly, Issue 1086",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "19/08/2024, 00:03"
-    },
-    {
-        "title": "Distribution Release: ExTiX 24.8",
-        "link": "",
-        "description": "Description not available",
-        "date": "16/08/2024, 21:21"
     }
 ]
