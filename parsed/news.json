@@ -1,5 +1,11 @@
 [
     {
+        "title": "DistroWatch Weekly, Issue 1086",
+        "link": "",
+        "description": "Description not available",
+        "date": "02/09/2024, 00:11"
+    },
+    {
         "title": "Distribution Release: Linux From Scratch 12.2",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "16/08/2024, 21:21"
-    },
-    {
-        "title": "Distribution Release: deepin 23",
-        "link": "",
-        "description": "Description not available",
-        "date": "15/08/2024, 11:55"
     }
 ]
