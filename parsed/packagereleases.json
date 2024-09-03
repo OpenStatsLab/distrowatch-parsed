@@ -1,6 +1,12 @@
 [
     {
         "date": "03/09",
+        "package_name": "openssl",
+        "version": "3.3.2",
+        "link": ""
+    },
+    {
+        "date": "03/09",
         "package_name": "cryptsetup",
         "version": "2.7.5",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "29/08",
         "package_name": "man-db",
         "version": "2.13.0",
-        "link": ""
-    },
-    {
-        "date": "28/08",
-        "package_name": "screen",
-        "version": "5.0.0",
         "link": ""
     }
 ]
