@@ -1,5 +1,11 @@
 [
     {
+        "date": "03/09",
+        "package_name": "ruby",
+        "version": "3.3.5",
+        "link": ""
+    },
+    {
         "date": "02/09",
         "package_name": "firefox",
         "version": "130.0",
@@ -44,7 +50,7 @@
     {
         "date": "29/08",
         "package_name": "chromium",
-        "version": "128.0.6613.113",
+        "version": "128.0.6613.119",
         "link": ""
     },
     {
@@ -63,12 +69,6 @@
         "date": "28/08",
         "package_name": "wireshark",
         "version": "4.4.0",
-        "link": ""
-    },
-    {
-        "date": "28/08",
-        "package_name": "snort",
-        "version": "3.3.4.0",
         "link": ""
     }
 ]
