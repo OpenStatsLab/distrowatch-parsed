@@ -1,5 +1,11 @@
 [
     {
+        "date": "04/09",
+        "package_name": "seamonkey",
+        "version": "2.53.19",
+        "link": ""
+    },
+    {
         "date": "03/09",
         "package_name": "audacity",
         "version": "3.6.2",
@@ -63,12 +69,6 @@
         "date": "30/08",
         "package_name": "tcpdump",
         "version": "4.99.5",
-        "link": ""
-    },
-    {
-        "date": "29/08",
-        "package_name": "cmake",
-        "version": "3.30.3",
         "link": ""
     }
 ]
