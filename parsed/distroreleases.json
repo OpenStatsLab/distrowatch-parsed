@@ -1,6 +1,11 @@
 [
     {
         "date": "04/09",
+        "distro_name": "Peropesis",
+        "version": "2.7"
+    },
+    {
+        "date": "04/09",
         "distro_name": "Q4OS",
         "version": "5.6"
     },
@@ -52,11 +57,6 @@
     {
         "date": "01/09",
         "distro_name": "Debian Edu",
-        "version": "12.7.0"
-    },
-    {
-        "date": "01/09",
-        "distro_name": "Debian",
         "version": "12.7.0"
     }
 ]

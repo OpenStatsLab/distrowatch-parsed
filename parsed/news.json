@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: Peropesis 2.7",
+        "link": "",
+        "description": "Description not available",
+        "date": "04/09/2024, 19:45"
+    },
+    {
         "title": "Distribution Release: Q4OS 5.6",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "26/08/2024, 00:40"
-    },
-    {
-        "title": "Distribution Release: OSMC 2024.08-1",
-        "link": "",
-        "description": "Description not available",
-        "date": "25/08/2024, 11:03"
     }
 ]
