@@ -1,6 +1,11 @@
 [
     {
         "date": "04/09",
+        "distro_name": "Q4OS",
+        "version": "5.6"
+    },
+    {
+        "date": "04/09",
         "distro_name": "TUXEDO",
         "version": "3-20240904"
     },
@@ -53,10 +58,5 @@
         "date": "01/09",
         "distro_name": "Debian",
         "version": "12.7.0"
-    },
-    {
-        "date": "01/09",
-        "distro_name": "Dr.Parted",
-        "version": "24.09"
     }
 ]
