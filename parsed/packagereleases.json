@@ -1,6 +1,12 @@
 [
     {
         "date": "05/09",
+        "package_name": "rust",
+        "version": "1.81.0",
+        "link": ""
+    },
+    {
+        "date": "05/09",
         "package_name": "nano",
         "version": "8.2",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "03/09",
         "package_name": "cryptsetup",
         "version": "2.7.5",
-        "link": ""
-    },
-    {
-        "date": "03/09",
-        "package_name": "chromium",
-        "version": "128.0.6613.119",
         "link": ""
     }
 ]

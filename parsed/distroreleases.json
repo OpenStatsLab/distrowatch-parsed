@@ -15,11 +15,6 @@
         "version": "5.6"
     },
     {
-        "date": "04/09",
-        "distro_name": "TUXEDO",
-        "version": "3-20240904"
-    },
-    {
         "date": "03/09",
         "distro_name": "AUSTRUMI",
         "version": "4.9.7"
@@ -58,5 +53,10 @@
         "date": "01/09",
         "distro_name": "Debian",
         "version": "11.11.0"
+    },
+    {
+        "date": "01/09",
+        "distro_name": "Debian Edu",
+        "version": "12.7.0"
     }
 ]
