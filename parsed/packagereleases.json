@@ -1,5 +1,11 @@
 [
     {
+        "date": "05/09",
+        "package_name": "nano",
+        "version": "8.2",
+        "link": ""
+    },
+    {
         "date": "04/09",
         "package_name": "qemu",
         "version": "9.1.0",
@@ -63,12 +69,6 @@
         "date": "03/09",
         "package_name": "chromium",
         "version": "128.0.6613.119",
-        "link": ""
-    },
-    {
-        "date": "03/09",
-        "package_name": "calligra",
-        "version": "4.0.1",
         "link": ""
     }
 ]
