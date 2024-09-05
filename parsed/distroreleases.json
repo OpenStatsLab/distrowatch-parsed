@@ -1,6 +1,11 @@
 [
     {
         "date": "05/09",
+        "distro_name": "Elive",
+        "version": "3.8.44-beta"
+    },
+    {
+        "date": "05/09",
         "distro_name": "KDE neon",
         "version": "20240905"
     },
@@ -53,10 +58,5 @@
         "date": "01/09",
         "distro_name": "Debian",
         "version": "11.11.0"
-    },
-    {
-        "date": "01/09",
-        "distro_name": "Debian Edu",
-        "version": "12.7.0"
     }
 ]
