@@ -1,6 +1,12 @@
 [
     {
         "date": "05/09",
+        "package_name": "mesa",
+        "version": "24.2.2",
+        "link": ""
+    },
+    {
+        "date": "05/09",
         "package_name": "thunderbird",
         "version": "130.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "03/09",
         "package_name": "vivaldi",
         "version": "6.9.3447.41",
-        "link": ""
-    },
-    {
-        "date": "03/09",
-        "package_name": "openssl",
-        "version": "3.3.2",
         "link": ""
     }
 ]
