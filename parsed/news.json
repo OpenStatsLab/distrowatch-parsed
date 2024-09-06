@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: rlxos 2.0",
+        "link": "",
+        "description": "Description not available",
+        "date": "06/09/2024, 14:30"
+    },
+    {
         "title": "Distribution Release: Peropesis 2.7",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "27/08/2024, 18:10"
-    },
-    {
-        "title": "DistroWatch Weekly, Issue 1085",
-        "link": "",
-        "description": "Description not available",
-        "date": "26/08/2024, 00:40"
     }
 ]
