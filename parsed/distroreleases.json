@@ -1,6 +1,11 @@
 [
     {
         "date": "06/09",
+        "distro_name": "Alpine",
+        "version": "3.20.3"
+    },
+    {
+        "date": "06/09",
         "distro_name": "rlxos",
         "version": "2.0"
     },
@@ -12,7 +17,7 @@
     {
         "date": "05/09",
         "distro_name": "Elive",
-        "version": "3.8.44-beta"
+        "version": "3.8.44"
     },
     {
         "date": "05/09",
@@ -53,10 +58,5 @@
         "date": "01/09",
         "distro_name": "Armbian",
         "version": "24.8.1"
-    },
-    {
-        "date": "01/09",
-        "distro_name": "Debian Edu",
-        "version": "11.11.0"
     }
 ]
