@@ -1,6 +1,12 @@
 [
     {
         "date": "06/09",
+        "package_name": "Python",
+        "version": "3.12.6",
+        "link": ""
+    },
+    {
+        "date": "06/09",
         "package_name": "snapd",
         "version": "2.65.2",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "04/09",
         "package_name": "seamonkey",
         "version": "2.53.19",
-        "link": ""
-    },
-    {
-        "date": "03/09",
-        "package_name": "audacity",
-        "version": "3.6.2",
         "link": ""
     }
 ]
