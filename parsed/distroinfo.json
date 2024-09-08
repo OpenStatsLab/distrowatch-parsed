@@ -1467,6 +1467,15 @@
         "ostype": "Linux"
     },
     {
+        "distro": "PelicanHPC",
+        "codename": "pelicanhpc",
+        "url": "https://distrowatch.com/table.php?distribution=pelicanhpc",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/pelicanhpc.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/pelicanhpc.png",
+        "homepage": "https://sourceforge.net/projects/pelicanhpc/",
+        "ostype": "Linux"
+    },
+    {
         "distro": "Pentoo",
         "codename": "pentoo",
         "url": "https://distrowatch.com/table.php?distribution=pentoo",
