@@ -1,6 +1,11 @@
 [
     {
         "date": "09/09",
+        "distro_name": "EasyOS",
+        "version": "6.3"
+    },
+    {
+        "date": "09/09",
         "distro_name": "Rescuezilla",
         "version": "2.5.1"
     },
@@ -53,10 +58,5 @@
         "date": "05/09",
         "distro_name": "KDE neon",
         "version": "20240905"
-    },
-    {
-        "date": "04/09",
-        "distro_name": "Peropesis",
-        "version": "2.7"
     }
 ]
