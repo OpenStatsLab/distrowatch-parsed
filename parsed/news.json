@@ -1,5 +1,11 @@
 [
     {
+        "title": "DistroWatch Weekly, Issue 1087",
+        "link": "",
+        "description": "Description not available",
+        "date": "09/09/2024, 00:27"
+    },
+    {
         "title": "Distribution Release: rlxos 2.0",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "29/08/2024, 14:21"
-    },
-    {
-        "title": "Distribution Release: 4MLinux 46.0",
-        "link": "",
-        "description": "Description not available",
-        "date": "27/08/2024, 18:10"
     }
 ]
