@@ -1,6 +1,12 @@
 [
     {
         "date": "10/09",
+        "package_name": "wordpress",
+        "version": "6.6.2",
+        "link": ""
+    },
+    {
+        "date": "10/09",
         "package_name": "systemd",
         "version": "256.6",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "05/09",
         "package_name": "mesa",
         "version": "24.2.2",
-        "link": ""
-    },
-    {
-        "date": "05/09",
-        "package_name": "thunderbird",
-        "version": "130.0",
         "link": ""
     }
 ]
