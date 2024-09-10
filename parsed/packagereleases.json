@@ -1,6 +1,12 @@
 [
     {
         "date": "10/09",
+        "package_name": "systemd",
+        "version": "256.6",
+        "link": ""
+    },
+    {
+        "date": "10/09",
         "package_name": "plasma-desktop",
         "version": "6.1.5",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "05/09",
         "package_name": "thunderbird",
         "version": "130.0",
-        "link": ""
-    },
-    {
-        "date": "05/09",
-        "package_name": "rust",
-        "version": "1.81.0",
         "link": ""
     }
 ]
