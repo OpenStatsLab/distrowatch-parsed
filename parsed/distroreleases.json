@@ -1,6 +1,11 @@
 [
     {
         "date": "09/09",
+        "distro_name": "CentOS",
+        "version": "9-20240909"
+    },
+    {
+        "date": "09/09",
         "distro_name": "EasyOS",
         "version": "6.3"
     },
@@ -53,10 +58,5 @@
         "date": "05/09",
         "distro_name": "Elive",
         "version": "3.8.44"
-    },
-    {
-        "date": "05/09",
-        "distro_name": "KDE neon",
-        "version": "20240905"
     }
 ]
