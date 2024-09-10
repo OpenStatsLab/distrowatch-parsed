@@ -1,5 +1,11 @@
 [
     {
+        "date": "10/09",
+        "package_name": "plasma-desktop",
+        "version": "6.1.5",
+        "link": ""
+    },
+    {
         "date": "09/09",
         "package_name": "audacity",
         "version": "3.6.3",
@@ -63,12 +69,6 @@
         "date": "05/09",
         "package_name": "rust",
         "version": "1.81.0",
-        "link": ""
-    },
-    {
-        "date": "05/09",
-        "package_name": "nano",
-        "version": "8.2",
         "link": ""
     }
 ]

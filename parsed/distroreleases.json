@@ -1,5 +1,10 @@
 [
     {
+        "date": "10/09",
+        "distro_name": "Tails",
+        "version": "6.7"
+    },
+    {
         "date": "09/09",
         "distro_name": "CentOS",
         "version": "9-20240909"
@@ -53,10 +58,5 @@
         "date": "06/09",
         "distro_name": "Bluestar",
         "version": "6.10.8"
-    },
-    {
-        "date": "05/09",
-        "distro_name": "Elive",
-        "version": "3.8.44"
     }
 ]
