@@ -1,5 +1,11 @@
 [
     {
+        "title": "OS Release: Redox OS 0.9.0",
+        "link": "",
+        "description": "Description not available",
+        "date": "10/09/2024, 15:05"
+    },
+    {
         "title": "DistroWatch Weekly, Issue 1087",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "29/08/2024, 20:36"
-    },
-    {
-        "title": "Distribution Release: PorteuX 1.6",
-        "link": "",
-        "description": "Description not available",
-        "date": "29/08/2024, 14:21"
     }
 ]
