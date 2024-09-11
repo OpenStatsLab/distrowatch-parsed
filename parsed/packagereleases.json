@@ -1,5 +1,11 @@
 [
     {
+        "date": "11/09",
+        "package_name": "curl",
+        "version": "8.10.0",
+        "link": ""
+    },
+    {
         "date": "10/09",
         "package_name": "apache-tomcat",
         "version": "10.1.29",
@@ -63,12 +69,6 @@
         "date": "06/09",
         "package_name": "Python",
         "version": "3.12.6",
-        "link": ""
-    },
-    {
-        "date": "06/09",
-        "package_name": "snapd",
-        "version": "2.65.2",
         "link": ""
     }
 ]
