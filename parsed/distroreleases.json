@@ -1,6 +1,11 @@
 [
     {
         "date": "11/09",
+        "distro_name": "Kali",
+        "version": "2024.3"
+    },
+    {
+        "date": "11/09",
         "distro_name": "ReactOS",
         "version": "0.4.15-rc"
     },
@@ -53,10 +58,5 @@
         "date": "07/09",
         "distro_name": "FreeBSD",
         "version": "13.4-RC3"
-    },
-    {
-        "date": "06/09",
-        "distro_name": "Alpine",
-        "version": "3.20.3"
     }
 ]
