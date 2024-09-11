@@ -1,6 +1,11 @@
 [
     {
         "date": "11/09",
+        "distro_name": "Endless",
+        "version": "6.0.3"
+    },
+    {
+        "date": "11/09",
         "distro_name": "Kali",
         "version": "2024.3"
     },
@@ -53,10 +58,5 @@
         "date": "07/09",
         "distro_name": "Calculate",
         "version": "20240906"
-    },
-    {
-        "date": "07/09",
-        "distro_name": "FreeBSD",
-        "version": "13.4-RC3"
     }
 ]
