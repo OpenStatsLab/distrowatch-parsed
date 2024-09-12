@@ -1,6 +1,12 @@
 [
     {
         "date": "12/09",
+        "package_name": "kdevelop",
+        "version": "24.08.1",
+        "link": ""
+    },
+    {
+        "date": "12/09",
         "package_name": "linux",
         "version": "6.10.10",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "10/09",
         "package_name": "plasma-desktop",
         "version": "6.1.5",
-        "link": ""
-    },
-    {
-        "date": "09/09",
-        "package_name": "audacity",
-        "version": "3.6.3",
         "link": ""
     }
 ]
