@@ -1,6 +1,12 @@
 [
     {
         "date": "12/09",
+        "package_name": "ktorrent",
+        "version": "24.08.1",
+        "link": ""
+    },
+    {
+        "date": "12/09",
         "package_name": "k3b",
         "version": "24.08.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "09/09",
         "package_name": "snort",
         "version": "3.3.5.0",
-        "link": ""
-    },
-    {
-        "date": "09/09",
-        "package_name": "docker",
-        "version": "27.2.1",
         "link": ""
     }
 ]
