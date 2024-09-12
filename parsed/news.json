@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: Ubuntu 22.04.5",
+        "link": "",
+        "description": "Description not available",
+        "date": "12/09/2024, 20:34"
+    },
+    {
         "title": "Distribution Release: Kali Linux 2024.3",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "01/09/2024, 17:09"
-    },
-    {
-        "title": "Distribution Release: Rhino Linux 2024.2",
-        "link": "",
-        "description": "Description not available",
-        "date": "31/08/2024, 23:47"
     }
 ]

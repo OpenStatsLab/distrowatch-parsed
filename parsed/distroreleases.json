@@ -1,6 +1,41 @@
 [
     {
         "date": "12/09",
+        "distro_name": "Kubuntu",
+        "version": "22.04.5"
+    },
+    {
+        "date": "12/09",
+        "distro_name": "Lubuntu",
+        "version": "22.04.5"
+    },
+    {
+        "date": "12/09",
+        "distro_name": "Ubuntu Kylin",
+        "version": "22.04.5"
+    },
+    {
+        "date": "12/09",
+        "distro_name": "Ubuntu MATE",
+        "version": "22.04.5"
+    },
+    {
+        "date": "12/09",
+        "distro_name": "Ubuntu Budgie",
+        "version": "22.04.5"
+    },
+    {
+        "date": "12/09",
+        "distro_name": "Ubuntu Studio",
+        "version": "22.04.5"
+    },
+    {
+        "date": "12/09",
+        "distro_name": "Xubuntu",
+        "version": "22.04.5"
+    },
+    {
+        "date": "12/09",
         "distro_name": "Ubuntu",
         "version": "22.04.5"
     },
@@ -23,40 +58,5 @@
         "date": "11/09",
         "distro_name": "Kali",
         "version": "2024.3"
-    },
-    {
-        "date": "11/09",
-        "distro_name": "ReactOS",
-        "version": "0.4.15-rc"
-    },
-    {
-        "date": "10/09",
-        "distro_name": "Qubes",
-        "version": "4.2.3-rc1"
-    },
-    {
-        "date": "10/09",
-        "distro_name": "Tails",
-        "version": "6.7"
-    },
-    {
-        "date": "09/09",
-        "distro_name": "CentOS",
-        "version": "9-20240909"
-    },
-    {
-        "date": "09/09",
-        "distro_name": "EasyOS",
-        "version": "6.3"
-    },
-    {
-        "date": "09/09",
-        "distro_name": "Rescuezilla",
-        "version": "2.5.1"
-    },
-    {
-        "date": "08/09",
-        "distro_name": "DynFi",
-        "version": "4.01"
     }
 ]
