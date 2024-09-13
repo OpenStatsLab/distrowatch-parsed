@@ -1,6 +1,11 @@
 [
     {
         "date": "13/09",
+        "distro_name": "FreeBSD",
+        "version": "13.4"
+    },
+    {
+        "date": "13/09",
         "distro_name": "LinuxConsole",
         "version": "2024"
     },
@@ -52,11 +57,6 @@
     {
         "date": "12/09",
         "distro_name": "Xubuntu",
-        "version": "22.04.5"
-    },
-    {
-        "date": "12/09",
-        "distro_name": "Ubuntu",
         "version": "22.04.5"
     }
 ]
