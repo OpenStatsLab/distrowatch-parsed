@@ -1,5 +1,11 @@
 [
     {
+        "title": "Development Release: Haiku R1 Beta 5",
+        "link": "",
+        "description": "Description not available",
+        "date": "13/09/2024, 18:00"
+    },
+    {
         "title": "Distribution Release: Ubuntu 22.04.5",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "02/09/2024, 00:11"
-    },
-    {
-        "title": "Distribution Release: Linux From Scratch 12.2",
-        "link": "",
-        "description": "Description not available",
-        "date": "01/09/2024, 17:09"
     }
 ]
