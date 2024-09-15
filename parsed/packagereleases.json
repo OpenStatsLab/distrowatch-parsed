@@ -67,8 +67,8 @@
     },
     {
         "date": "12/09",
-        "package_name": "linux",
-        "version": "6.11",
+        "package_name": "ktorrent",
+        "version": "24.08.1",
         "link": ""
     }
 ]
