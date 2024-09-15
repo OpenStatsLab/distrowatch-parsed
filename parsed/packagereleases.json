@@ -1,5 +1,11 @@
 [
     {
+        "date": "15/09",
+        "package_name": "shotwell",
+        "version": "0.32.9",
+        "link": ""
+    },
+    {
         "date": "14/09",
         "package_name": "gnome-shell",
         "version": "47.0",
@@ -63,12 +69,6 @@
         "date": "12/09",
         "package_name": "k3b",
         "version": "24.08.1",
-        "link": ""
-    },
-    {
-        "date": "11/09",
-        "package_name": "chromium",
-        "version": "128.0.6613.137",
         "link": ""
     }
 ]
