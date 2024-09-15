@@ -1,5 +1,10 @@
 [
     {
+        "date": "15/09",
+        "distro_name": "Bluestar",
+        "version": "6.10.10"
+    },
+    {
         "date": "13/09",
         "distro_name": "FreeBSD",
         "version": "13.4"
@@ -52,11 +57,6 @@
     {
         "date": "12/09",
         "distro_name": "Ubuntu Studio",
-        "version": "22.04.5"
-    },
-    {
-        "date": "12/09",
-        "distro_name": "Xubuntu",
         "version": "22.04.5"
     }
 ]
