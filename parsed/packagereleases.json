@@ -1,6 +1,12 @@
 [
     {
         "date": "15/09",
+        "package_name": "nautilus",
+        "version": "47.0",
+        "link": ""
+    },
+    {
+        "date": "15/09",
         "package_name": "shotwell",
         "version": "0.32.9",
         "link": ""
@@ -62,12 +68,6 @@
     {
         "date": "12/09",
         "package_name": "ktorrent",
-        "version": "24.08.1",
-        "link": ""
-    },
-    {
-        "date": "12/09",
-        "package_name": "k3b",
         "version": "24.08.1",
         "link": ""
     }
