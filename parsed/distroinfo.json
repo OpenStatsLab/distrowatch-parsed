@@ -990,6 +990,24 @@
         "ostype": "Linux"
     },
     {
+        "distro": "LinuxConsole",
+        "codename": "linuxconsole",
+        "url": "https://distrowatch.com/table.php?distribution=linuxconsole",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/linuxconsole.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/linuxconsole.png",
+        "homepage": "https://www.linuxconsole.org/",
+        "ostype": "Linux"
+    },
+    {
+        "distro": "Linuxfx",
+        "codename": "linuxfx",
+        "url": "https://distrowatch.com/table.php?distribution=linuxfx",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/linuxfx.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/linuxfx.png",
+        "homepage": "N/A",
+        "ostype": "Linux"
+    },
+    {
         "distro": "Lite",
         "codename": "lite",
         "url": "https://distrowatch.com/table.php?distribution=lite",
@@ -1726,6 +1744,15 @@
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/redcore.png",
         "homepage": "https://redcorelinux.org/",
         "ostype": "Linux"
+    },
+    {
+        "distro": "Redox",
+        "codename": "redox",
+        "url": "https://distrowatch.com/table.php?distribution=redox",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/redox.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/redox.png",
+        "homepage": "https://www.redox-os.org/",
+        "ostype": "Other OS"
     },
     {
         "distro": "Refracta",
