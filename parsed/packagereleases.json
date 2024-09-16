@@ -1,5 +1,11 @@
 [
     {
+        "date": "16/09",
+        "package_name": "firefox",
+        "version": "130.0.1",
+        "link": ""
+    },
+    {
         "date": "15/09",
         "package_name": "squid",
         "version": "6.11",
@@ -63,12 +69,6 @@
         "date": "12/09",
         "package_name": "LibreOffice",
         "version": "24.8.1",
-        "link": ""
-    },
-    {
-        "date": "12/09",
-        "package_name": "kdevelop",
-        "version": "24.08.1",
         "link": ""
     }
 ]
