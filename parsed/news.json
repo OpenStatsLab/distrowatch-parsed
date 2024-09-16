@@ -1,5 +1,11 @@
 [
     {
+        "title": "DistroWatch Weekly, Issue 1088",
+        "link": "",
+        "description": "Description not available",
+        "date": "16/09/2024, 00:08"
+    },
+    {
         "title": "Development Release: Haiku R1 Beta 5",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "02/09/2024, 22:44"
-    },
-    {
-        "title": "DistroWatch Weekly, Issue 1086",
-        "link": "",
-        "description": "Description not available",
-        "date": "02/09/2024, 00:11"
     }
 ]

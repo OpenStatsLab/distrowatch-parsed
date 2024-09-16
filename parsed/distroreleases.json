@@ -1,6 +1,11 @@
 [
     {
         "date": "15/09",
+        "distro_name": "MX Linux",
+        "version": "23.4"
+    },
+    {
+        "date": "15/09",
         "distro_name": "Bluestar",
         "version": "6.10.10"
     },
@@ -52,11 +57,6 @@
     {
         "date": "12/09",
         "distro_name": "Ubuntu Budgie",
-        "version": "22.04.5"
-    },
-    {
-        "date": "12/09",
-        "distro_name": "Ubuntu Studio",
         "version": "22.04.5"
     }
 ]
