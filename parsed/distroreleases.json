@@ -1,5 +1,10 @@
 [
     {
+        "date": "16/09",
+        "distro_name": "SDesk",
+        "version": "2024.09.16"
+    },
+    {
         "date": "15/09",
         "distro_name": "MX Linux",
         "version": "23.4"
@@ -52,11 +57,6 @@
     {
         "date": "12/09",
         "distro_name": "Ubuntu MATE",
-        "version": "22.04.5"
-    },
-    {
-        "date": "12/09",
-        "distro_name": "Ubuntu Budgie",
         "version": "22.04.5"
     }
 ]

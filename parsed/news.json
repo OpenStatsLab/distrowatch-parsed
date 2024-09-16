@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: SDesk 2024.09.16",
+        "link": "",
+        "description": "Description not available",
+        "date": "16/09/2024, 16:06"
+    },
+    {
         "title": "Distribution Release: MX Linux 23.4",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "04/09/2024, 19:45"
-    },
-    {
-        "title": "Distribution Release: Q4OS 5.6",
-        "link": "",
-        "description": "Description not available",
-        "date": "04/09/2024, 15:22"
     }
 ]
