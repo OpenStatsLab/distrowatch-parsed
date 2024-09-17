@@ -1,6 +1,11 @@
 [
     {
         "date": "17/09",
+        "distro_name": "Fedora",
+        "version": "41-beta"
+    },
+    {
+        "date": "17/09",
         "distro_name": "IPFire",
         "version": "2.29-core188"
     },
@@ -52,11 +57,6 @@
     {
         "date": "12/09",
         "distro_name": "Lubuntu",
-        "version": "22.04.5"
-    },
-    {
-        "date": "12/09",
-        "distro_name": "Ubuntu Kylin",
         "version": "22.04.5"
     }
 ]
