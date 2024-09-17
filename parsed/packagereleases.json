@@ -1,6 +1,12 @@
 [
     {
         "date": "17/09",
+        "package_name": "apache-tomcat",
+        "version": "10.1.30",
+        "link": ""
+    },
+    {
+        "date": "17/09",
         "package_name": "openjdk",
         "version": "23",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "13/09",
         "package_name": "gtk",
         "version": "4.16.1",
-        "link": ""
-    },
-    {
-        "date": "13/09",
-        "package_name": "evolution",
-        "version": "3.54.0",
         "link": ""
     }
 ]
