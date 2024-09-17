@@ -1,5 +1,11 @@
 [
     {
+        "title": "Development Release: Fedora 41 Beta",
+        "link": "",
+        "description": "Description not available",
+        "date": "17/09/2024, 13:59"
+    },
+    {
         "title": "BSD Release: FreeBSD 13.4",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "09/09/2024, 00:27"
-    },
-    {
-        "title": "Distribution Release: rlxos 2.0",
-        "link": "",
-        "description": "Description not available",
-        "date": "06/09/2024, 14:30"
     }
 ]
