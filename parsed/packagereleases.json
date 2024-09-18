@@ -1,6 +1,12 @@
 [
     {
         "date": "18/09",
+        "package_name": "llvm",
+        "version": "19.1.0",
+        "link": ""
+    },
+    {
+        "date": "18/09",
         "package_name": "ghostscript",
         "version": "10.04.0",
         "link": ""
@@ -62,12 +68,6 @@
     {
         "date": "15/09",
         "package_name": "squid",
-        "version": "6.11",
-        "link": ""
-    },
-    {
-        "date": "15/09",
-        "package_name": "linux",
         "version": "6.11",
         "link": ""
     }
