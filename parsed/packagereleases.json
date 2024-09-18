@@ -1,6 +1,12 @@
 [
     {
         "date": "18/09",
+        "package_name": "chromium",
+        "version": "129.0.6668.58",
+        "link": ""
+    },
+    {
+        "date": "18/09",
         "package_name": "gawk",
         "version": "5.3.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "15/09",
         "package_name": "nautilus",
         "version": "47.0",
-        "link": ""
-    },
-    {
-        "date": "15/09",
-        "package_name": "shotwell",
-        "version": "0.32.9",
         "link": ""
     }
 ]
