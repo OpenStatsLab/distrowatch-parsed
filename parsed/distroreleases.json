@@ -1,6 +1,16 @@
 [
     {
         "date": "18/09",
+        "distro_name": "Damn Small",
+        "version": "2024-rc7"
+    },
+    {
+        "date": "18/09",
+        "distro_name": "KDE neon",
+        "version": "20240918"
+    },
+    {
+        "date": "18/09",
         "distro_name": "SparkyLinux",
         "version": "7.5"
     },
@@ -48,15 +58,5 @@
         "date": "13/09",
         "distro_name": "LinuxConsole",
         "version": "2024"
-    },
-    {
-        "date": "13/09",
-        "distro_name": "Haiku",
-        "version": "R1-beta5"
-    },
-    {
-        "date": "13/09",
-        "distro_name": "Ultimate",
-        "version": "2024.09.13"
     }
 ]
