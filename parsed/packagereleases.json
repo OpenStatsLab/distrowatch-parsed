@@ -1,6 +1,12 @@
 [
     {
         "date": "18/09",
+        "package_name": "gawk",
+        "version": "5.3.1",
+        "link": ""
+    },
+    {
+        "date": "18/09",
         "package_name": "curl",
         "version": "8.10.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "15/09",
         "package_name": "shotwell",
         "version": "0.32.9",
-        "link": ""
-    },
-    {
-        "date": "14/09",
-        "package_name": "gnome-shell",
-        "version": "47.0",
         "link": ""
     }
 ]
