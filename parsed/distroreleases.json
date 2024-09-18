@@ -1,5 +1,10 @@
 [
     {
+        "date": "18/09",
+        "distro_name": "EasyOS",
+        "version": "6.3.1"
+    },
+    {
         "date": "17/09",
         "distro_name": "Fedora",
         "version": "41-beta"
@@ -52,11 +57,6 @@
     {
         "date": "12/09",
         "distro_name": "Kubuntu",
-        "version": "22.04.5"
-    },
-    {
-        "date": "12/09",
-        "distro_name": "Lubuntu",
         "version": "22.04.5"
     }
 ]
