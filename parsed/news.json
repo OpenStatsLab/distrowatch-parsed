@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: Zorin OS 17.2",
+        "link": "",
+        "description": "Description not available",
+        "date": "19/09/2024, 20:12"
+    },
+    {
         "title": "Development Release: Fedora 41 Beta",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "10/09/2024, 15:05"
-    },
-    {
-        "title": "DistroWatch Weekly, Issue 1087",
-        "link": "",
-        "description": "Description not available",
-        "date": "09/09/2024, 00:27"
     }
 ]

@@ -1,6 +1,11 @@
 [
     {
         "date": "19/09",
+        "distro_name": "Zorin OS",
+        "version": "17.2"
+    },
+    {
+        "date": "19/09",
         "distro_name": "TUXEDO OS",
         "version": "3-20240919"
     },
@@ -53,10 +58,5 @@
         "date": "13/09",
         "distro_name": "FreeBSD",
         "version": "13.4"
-    },
-    {
-        "date": "13/09",
-        "distro_name": "LinuxConsole",
-        "version": "2024"
     }
 ]
