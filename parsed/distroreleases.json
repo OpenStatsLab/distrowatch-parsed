@@ -6,11 +6,6 @@
     },
     {
         "date": "18/09",
-        "distro_name": "KDE neon",
-        "version": "20240918"
-    },
-    {
-        "date": "18/09",
         "distro_name": "SparkyLinux",
         "version": "7.5"
     },
@@ -58,5 +53,10 @@
         "date": "13/09",
         "distro_name": "LinuxConsole",
         "version": "2024"
+    },
+    {
+        "date": "13/09",
+        "distro_name": "Haiku",
+        "version": "R1-beta5"
     }
 ]
