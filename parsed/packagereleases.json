@@ -1,6 +1,12 @@
 [
     {
         "date": "19/09",
+        "package_name": "netbeans",
+        "version": "23",
+        "link": ""
+    },
+    {
+        "date": "19/09",
         "package_name": "gstreamer",
         "version": "1.24.8",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "18/09",
         "package_name": "ppp",
         "version": "2.5.1",
-        "link": ""
-    },
-    {
-        "date": "17/09",
-        "package_name": "apache-tomcat",
-        "version": "10.1.30",
         "link": ""
     }
 ]
