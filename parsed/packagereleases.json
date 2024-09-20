@@ -1,6 +1,12 @@
 [
     {
         "date": "20/09",
+        "package_name": "docker",
+        "version": "27.3.1",
+        "link": ""
+    },
+    {
+        "date": "20/09",
         "package_name": "krita",
         "version": "5.2.5",
         "link": ""
@@ -9,12 +15,6 @@
         "date": "20/09",
         "package_name": "openssh",
         "version": "9.9p1",
-        "link": ""
-    },
-    {
-        "date": "19/09",
-        "package_name": "docker",
-        "version": "27.3.0",
         "link": ""
     },
     {
