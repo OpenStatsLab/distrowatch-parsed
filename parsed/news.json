@@ -1,5 +1,11 @@
 [
     {
+        "title": "Development Release: Ubuntu 24.10 Beta",
+        "link": "",
+        "description": "Description not available",
+        "date": "20/09/2024, 23:03"
+    },
+    {
         "title": "Distribution Release: Zorin OS 17.2",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "11/09/2024, 16:22"
-    },
-    {
-        "title": "OS Release: Redox OS 0.9.0",
-        "link": "",
-        "description": "Description not available",
-        "date": "10/09/2024, 15:05"
     }
 ]

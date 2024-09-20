@@ -1,5 +1,45 @@
 [
     {
+        "date": "20/09",
+        "distro_name": "Ubuntu Studio",
+        "version": "24.10-beta"
+    },
+    {
+        "date": "20/09",
+        "distro_name": "Kubuntu",
+        "version": "24.10-beta"
+    },
+    {
+        "date": "20/09",
+        "distro_name": "Lubuntu",
+        "version": "24.10-beta"
+    },
+    {
+        "date": "20/09",
+        "distro_name": "Ubuntu Kylin",
+        "version": "24.10-beta"
+    },
+    {
+        "date": "20/09",
+        "distro_name": "Ubuntu Budgie",
+        "version": "24.10-beta"
+    },
+    {
+        "date": "20/09",
+        "distro_name": "Xubuntu",
+        "version": "24.10-beta"
+    },
+    {
+        "date": "20/09",
+        "distro_name": "Edubuntu",
+        "version": "24.10-beta"
+    },
+    {
+        "date": "20/09",
+        "distro_name": "Ubuntu",
+        "version": "24.10-beta"
+    },
+    {
         "date": "19/09",
         "distro_name": "Zorin OS",
         "version": "17.2"
@@ -18,40 +58,5 @@
         "date": "18/09",
         "distro_name": "SparkyLinux",
         "version": "7.5"
-    },
-    {
-        "date": "18/09",
-        "distro_name": "Qubes",
-        "version": "4.2.3"
-    },
-    {
-        "date": "18/09",
-        "distro_name": "EasyOS",
-        "version": "6.3.1"
-    },
-    {
-        "date": "17/09",
-        "distro_name": "Fedora",
-        "version": "41-beta"
-    },
-    {
-        "date": "17/09",
-        "distro_name": "IPFire",
-        "version": "2.29-core188"
-    },
-    {
-        "date": "16/09",
-        "distro_name": "SDesk",
-        "version": "2024.09.16"
-    },
-    {
-        "date": "15/09",
-        "distro_name": "MX Linux",
-        "version": "23.4"
-    },
-    {
-        "date": "15/09",
-        "distro_name": "Bluestar",
-        "version": "6.10.10"
     }
 ]
