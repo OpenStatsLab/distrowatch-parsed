@@ -1,6 +1,12 @@
 [
     {
         "date": "20/09",
+        "package_name": "krita",
+        "version": "5.2.5",
+        "link": ""
+    },
+    {
+        "date": "20/09",
         "package_name": "openssh",
         "version": "9.9p1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "18/09",
         "package_name": "chromium",
         "version": "129.0.6668.58",
-        "link": ""
-    },
-    {
-        "date": "18/09",
-        "package_name": "gawk",
-        "version": "5.3.1",
         "link": ""
     }
 ]
