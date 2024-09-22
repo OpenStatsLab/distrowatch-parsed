@@ -1,5 +1,10 @@
 [
     {
+        "date": "21/09",
+        "distro_name": "DragonOS",
+        "version": "R37.1"
+    },
+    {
         "date": "20/09",
         "distro_name": "Ubuntu Studio",
         "version": "24.10-beta"
@@ -53,10 +58,5 @@
         "date": "18/09",
         "distro_name": "Damn Small",
         "version": "2024-rc7"
-    },
-    {
-        "date": "18/09",
-        "distro_name": "SparkyLinux",
-        "version": "7.5"
     }
 ]
