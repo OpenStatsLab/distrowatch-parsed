@@ -1,5 +1,11 @@
 [
     {
+        "title": "DistroWatch Weekly, Issue 1089",
+        "link": "",
+        "description": "Description not available",
+        "date": "23/09/2024, 00:10"
+    },
+    {
         "title": "Development Release: Ubuntu 24.10 Beta",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "12/09/2024, 20:34"
-    },
-    {
-        "title": "Distribution Release: Kali Linux 2024.3",
-        "link": "",
-        "description": "Description not available",
-        "date": "11/09/2024, 16:22"
     }
 ]
