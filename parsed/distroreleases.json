@@ -1,5 +1,10 @@
 [
     {
+        "date": "23/09",
+        "distro_name": "Lite",
+        "version": "7.2-rc1"
+    },
+    {
         "date": "21/09",
         "distro_name": "DragonOS",
         "version": "R37.1"
@@ -53,10 +58,5 @@
         "date": "19/09",
         "distro_name": "TUXEDO OS",
         "version": "3-20240919"
-    },
-    {
-        "date": "18/09",
-        "distro_name": "Damn Small",
-        "version": "2024-rc7"
     }
 ]
