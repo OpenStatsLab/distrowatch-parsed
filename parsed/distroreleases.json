@@ -1,5 +1,10 @@
 [
     {
+        "date": "24/09",
+        "distro_name": "Liya",
+        "version": "2.1"
+    },
+    {
         "date": "23/09",
         "distro_name": "Calculate",
         "version": "20240923"
@@ -52,11 +57,6 @@
     {
         "date": "20/09",
         "distro_name": "Edubuntu",
-        "version": "24.10-beta"
-    },
-    {
-        "date": "20/09",
-        "distro_name": "Ubuntu",
         "version": "24.10-beta"
     }
 ]
