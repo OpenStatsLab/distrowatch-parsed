@@ -1,6 +1,12 @@
 [
     {
         "date": "24/09",
+        "package_name": "blender",
+        "version": "4.2.2",
+        "link": ""
+    },
+    {
+        "date": "24/09",
         "package_name": "gtk",
         "version": "4.16.2",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "18/09",
         "package_name": "mesa",
         "version": "24.2.3",
-        "link": ""
-    },
-    {
-        "date": "18/09",
-        "package_name": "bind",
-        "version": "9.20.2",
         "link": ""
     }
 ]
