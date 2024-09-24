@@ -1,5 +1,11 @@
 [
     {
+        "date": "24/09",
+        "package_name": "gtk",
+        "version": "4.16.2",
+        "link": ""
+    },
+    {
         "date": "23/09",
         "package_name": "bash",
         "version": "5.2.37",
@@ -63,12 +69,6 @@
         "date": "18/09",
         "package_name": "bind",
         "version": "9.20.2",
-        "link": ""
-    },
-    {
-        "date": "18/09",
-        "package_name": "llvm",
-        "version": "19.1.0",
         "link": ""
     }
 ]
