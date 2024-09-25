@@ -1,5 +1,11 @@
 [
     {
+        "date": "25/09",
+        "package_name": "chromium",
+        "version": "129.0.6668.70",
+        "link": ""
+    },
+    {
         "date": "24/09",
         "package_name": "php",
         "version": "8.3.12",
@@ -63,12 +69,6 @@
         "date": "19/09",
         "package_name": "audacity",
         "version": "3.6.4",
-        "link": ""
-    },
-    {
-        "date": "19/09",
-        "package_name": "pipewire",
-        "version": "1.2.4",
         "link": ""
     }
 ]
