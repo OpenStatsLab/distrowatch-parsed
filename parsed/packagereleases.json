@@ -1,6 +1,12 @@
 [
     {
         "date": "25/09",
+        "package_name": "libtool",
+        "version": "2.5.3",
+        "link": ""
+    },
+    {
+        "date": "25/09",
         "package_name": "opera",
         "version": "114.0.5282.21",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "19/09",
         "package_name": "netbeans",
         "version": "23",
-        "link": ""
-    },
-    {
-        "date": "19/09",
-        "package_name": "gstreamer",
-        "version": "1.24.8",
         "link": ""
     }
 ]
