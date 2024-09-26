@@ -1,6 +1,11 @@
 [
     {
         "date": "26/09",
+        "distro_name": "Pop!_OS",
+        "version": "24.04-alpha2"
+    },
+    {
+        "date": "26/09",
         "distro_name": "KDE neon",
         "version": "20240926"
     },
@@ -52,11 +57,6 @@
     {
         "date": "20/09",
         "distro_name": "Ubuntu Kylin",
-        "version": "24.10-beta"
-    },
-    {
-        "date": "20/09",
-        "distro_name": "Ubuntu Budgie",
         "version": "24.10-beta"
     }
 ]
