@@ -64,11 +64,5 @@
         "package_name": "openssh",
         "version": "9.9p1",
         "link": ""
-    },
-    {
-        "date": "19/09",
-        "package_name": "netbeans",
-        "version": "23",
-        "link": ""
     }
 ]
