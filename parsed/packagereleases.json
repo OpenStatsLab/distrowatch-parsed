@@ -1,12 +1,6 @@
 [
     {
         "date": "26/09",
-        "package_name": "busybox",
-        "version": "1.37.0",
-        "link": ""
-    },
-    {
-        "date": "26/09",
         "package_name": "tcl",
         "version": "9.0.0",
         "link": ""
@@ -69,6 +63,12 @@
         "date": "20/09",
         "package_name": "docker",
         "version": "27.3.1",
+        "link": ""
+    },
+    {
+        "date": "20/09",
+        "package_name": "krita",
+        "version": "5.2.5",
         "link": ""
     }
 ]
