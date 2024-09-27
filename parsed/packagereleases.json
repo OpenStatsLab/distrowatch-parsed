@@ -1,6 +1,12 @@
 [
     {
         "date": "27/09",
+        "package_name": "qt",
+        "version": "6.7.3",
+        "link": ""
+    },
+    {
+        "date": "27/09",
         "package_name": "tmux",
         "version": "3.5",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "23/09",
         "package_name": "bash",
         "version": "5.2.37",
-        "link": ""
-    },
-    {
-        "date": "23/09",
-        "package_name": "git",
-        "version": "2.46.2",
         "link": ""
     }
 ]
