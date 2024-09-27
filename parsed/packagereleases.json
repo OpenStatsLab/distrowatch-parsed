@@ -1,5 +1,11 @@
 [
     {
+        "date": "27/09",
+        "package_name": "calibre",
+        "version": "7.19.0",
+        "link": ""
+    },
+    {
         "date": "26/09",
         "package_name": "tcl",
         "version": "9.0.0",
@@ -57,18 +63,6 @@
         "date": "23/09",
         "package_name": "git",
         "version": "2.46.2",
-        "link": ""
-    },
-    {
-        "date": "20/09",
-        "package_name": "docker",
-        "version": "27.3.1",
-        "link": ""
-    },
-    {
-        "date": "20/09",
-        "package_name": "krita",
-        "version": "5.2.5",
         "link": ""
     }
 ]
