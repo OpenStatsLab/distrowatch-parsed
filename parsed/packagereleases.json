@@ -1,6 +1,12 @@
 [
     {
         "date": "27/09",
+        "package_name": "tmux",
+        "version": "3.5",
+        "link": ""
+    },
+    {
+        "date": "27/09",
         "package_name": "calibre",
         "version": "7.19.0",
         "link": ""
