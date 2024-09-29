@@ -1,6 +1,11 @@
 [
     {
         "date": "29/09",
+        "distro_name": "CachyOS",
+        "version": "240929"
+    },
+    {
+        "date": "29/09",
         "distro_name": "GParted",
         "version": "1.6.0-10"
     },
