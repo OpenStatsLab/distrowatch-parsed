@@ -1,5 +1,11 @@
 [
     {
+        "date": "29/09",
+        "package_name": "gnucash",
+        "version": "5.9",
+        "link": ""
+    },
+    {
         "date": "27/09",
         "package_name": "VirtualBox",
         "version": "7.1.2",
@@ -63,12 +69,6 @@
         "date": "25/09",
         "package_name": "opera",
         "version": "114.0.5282.21",
-        "link": ""
-    },
-    {
-        "date": "25/09",
-        "package_name": "chromium",
-        "version": "129.0.6668.70",
         "link": ""
     }
 ]
