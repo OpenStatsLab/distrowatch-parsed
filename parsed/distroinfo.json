@@ -486,6 +486,15 @@
         "ostype": "BSD"
     },
     {
+        "distro": "DragonOS",
+        "codename": "dragonos",
+        "url": "https://distrowatch.com/table.php?distribution=dragonos",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/dragonos.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/dragonos.png",
+        "homepage": "https://sourceforge.net/projects/dragonos-focal/",
+        "ostype": "Linux"
+    },
+    {
         "distro": "Dragora",
         "codename": "dragora",
         "url": "https://distrowatch.com/table.php?distribution=dragora",
@@ -711,21 +720,21 @@
         "ostype": "BSD"
     },
     {
+        "distro": "FunOS",
+        "codename": "funos",
+        "url": "https://distrowatch.com/table.php?distribution=funos",
+        "logo": "https://distrowatch.com/images/yvzhuwbpy/funos.png",
+        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/funos.png",
+        "homepage": "https://funos.org/",
+        "ostype": "Linux"
+    },
+    {
         "distro": "Garuda",
         "codename": "garuda",
         "url": "https://distrowatch.com/table.php?distribution=garuda",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/garuda.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/garuda.png",
         "homepage": "https://garudalinux.org/",
-        "ostype": "Linux"
-    },
-    {
-        "distro": "Gecko",
-        "codename": "gecko",
-        "url": "https://distrowatch.com/table.php?distribution=gecko",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/gecko.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/gecko.png",
-        "homepage": "https://geckolinux.github.io/",
         "ostype": "Linux"
     },
     {
@@ -915,15 +924,6 @@
         "logo": "https://distrowatch.com/images/yvzhuwbpy/kumander.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/kumander.png",
         "homepage": "https://www.kumander.org/",
-        "ostype": "Linux"
-    },
-    {
-        "distro": "Kwort",
-        "codename": "kwort",
-        "url": "https://distrowatch.com/table.php?distribution=kwort",
-        "logo": "https://distrowatch.com/images/yvzhuwbpy/kwort.png",
-        "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/kwort.png",
-        "homepage": "https://kwort.org/",
         "ostype": "Linux"
     },
     {
@@ -2273,7 +2273,7 @@
         "url": "https://distrowatch.com/table.php?distribution=ultimate",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/ultimate.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/ultimate.png",
-        "homepage": "https://ultimateedition.info/",
+        "homepage": "https://sourceforge.net/projects/ultimateedition/",
         "ostype": "Linux"
     },
     {
@@ -2471,7 +2471,7 @@
         "url": "https://distrowatch.com/table.php?distribution=zorin",
         "logo": "https://distrowatch.com/images/yvzhuwbpy/zorin.png",
         "screenshot": "https://distrowatch.com/images/ktyxqzobhgijab/zorin.png",
-        "homepage": "https://www.zorinos.com/",
+        "homepage": "https://zorin.com/os/",
         "ostype": "Linux"
     }
 ]
