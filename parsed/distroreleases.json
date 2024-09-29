@@ -1,5 +1,10 @@
 [
     {
+        "date": "29/09",
+        "distro_name": "GParted",
+        "version": "1.6.0-10"
+    },
+    {
         "date": "26/09",
         "distro_name": "Pop!_OS",
         "version": "24.04-alpha2"
