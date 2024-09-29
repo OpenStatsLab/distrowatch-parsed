@@ -16,11 +16,6 @@
     },
     {
         "date": "26/09",
-        "distro_name": "KDE neon",
-        "version": "20240926"
-    },
-    {
-        "date": "26/09",
         "distro_name": "EndeavourOS",
         "version": "2024.09.22"
     },
