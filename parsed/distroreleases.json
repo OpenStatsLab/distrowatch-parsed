@@ -1,5 +1,10 @@
 [
     {
+        "date": "30/09",
+        "distro_name": "Whonix",
+        "version": "17.2.3.7"
+    },
+    {
         "date": "29/09",
         "distro_name": "CachyOS",
         "version": "240929"
@@ -23,20 +28,5 @@
         "date": "24/09",
         "distro_name": "Liya",
         "version": "2.1"
-    },
-    {
-        "date": "23/09",
-        "distro_name": "Calculate",
-        "version": "20240923"
-    },
-    {
-        "date": "23/09",
-        "distro_name": "KaOS",
-        "version": "2024.09"
-    },
-    {
-        "date": "23/09",
-        "distro_name": "Lite",
-        "version": "7.2-rc1"
     }
 ]
