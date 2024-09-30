@@ -1,5 +1,17 @@
 [
     {
+        "date": "30/09",
+        "package_name": "qbittorrent",
+        "version": "5.0.0",
+        "link": ""
+    },
+    {
+        "date": "30/09",
+        "package_name": "snort",
+        "version": "3.3.7.0",
+        "link": ""
+    },
+    {
         "date": "29/09",
         "package_name": "gnucash",
         "version": "5.9",
@@ -57,18 +69,6 @@
         "date": "26/09",
         "package_name": "postgresql",
         "version": "17.0",
-        "link": ""
-    },
-    {
-        "date": "25/09",
-        "package_name": "libtool",
-        "version": "2.5.3",
-        "link": ""
-    },
-    {
-        "date": "25/09",
-        "package_name": "opera",
-        "version": "114.0.5282.21",
         "link": ""
     }
 ]
