@@ -1,6 +1,12 @@
 [
     {
         "date": "30/09",
+        "package_name": "ffmpeg",
+        "version": "7.1",
+        "link": ""
+    },
+    {
+        "date": "30/09",
         "package_name": "qbittorrent",
         "version": "5.0.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "26/09",
         "package_name": "tcl",
         "version": "9.0.0",
-        "link": ""
-    },
-    {
-        "date": "26/09",
-        "package_name": "postgresql",
-        "version": "17.0",
         "link": ""
     }
 ]
