@@ -1,6 +1,11 @@
 [
     {
         "date": "30/09",
+        "distro_name": "4MLinux 47.0",
+        "version": "(beta)"
+    },
+    {
+        "date": "30/09",
         "distro_name": "Whonix",
         "version": "17.2.3.7"
     },
