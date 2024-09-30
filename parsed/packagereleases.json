@@ -1,6 +1,12 @@
 [
     {
         "date": "30/09",
+        "package_name": "linux",
+        "version": "6.11.1",
+        "link": ""
+    },
+    {
+        "date": "30/09",
         "package_name": "firefox",
         "version": "131.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "27/09",
         "package_name": "tmux",
         "version": "3.5",
-        "link": ""
-    },
-    {
-        "date": "27/09",
-        "package_name": "calibre",
-        "version": "7.19.0",
         "link": ""
     }
 ]
