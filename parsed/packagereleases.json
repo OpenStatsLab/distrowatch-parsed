@@ -1,6 +1,12 @@
 [
     {
         "date": "30/09",
+        "package_name": "cups",
+        "version": "2.4.11",
+        "link": ""
+    },
+    {
+        "date": "30/09",
         "package_name": "linux",
         "version": "6.11.1",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "27/09",
         "package_name": "qt",
         "version": "6.7.3",
-        "link": ""
-    },
-    {
-        "date": "27/09",
-        "package_name": "tmux",
-        "version": "3.5",
         "link": ""
     }
 ]
