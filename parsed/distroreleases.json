@@ -1,6 +1,16 @@
 [
     {
         "date": "01/10",
+        "distro_name": "Live Raizo",
+        "version": "15.24.10.01"
+    },
+    {
+        "date": "01/10",
+        "distro_name": "Dr.Parted",
+        "version": "24.10"
+    },
+    {
+        "date": "01/10",
         "distro_name": "Arch",
         "version": "2024.10.01"
     },
