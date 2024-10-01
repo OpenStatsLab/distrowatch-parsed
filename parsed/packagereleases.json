@@ -1,6 +1,12 @@
 [
     {
         "date": "01/10",
+        "package_name": "libvirt",
+        "version": "10.8.0",
+        "link": ""
+    },
+    {
+        "date": "01/10",
         "package_name": "qt-creator",
         "version": "14.0.2",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "27/09",
         "package_name": "cmake",
         "version": "3.30.4",
-        "link": ""
-    },
-    {
-        "date": "27/09",
-        "package_name": "LibreOffice",
-        "version": "24.8.2",
         "link": ""
     }
 ]
