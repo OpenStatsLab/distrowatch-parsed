@@ -1,6 +1,12 @@
 [
     {
         "date": "01/10",
+        "package_name": "krita",
+        "version": "5.2.6",
+        "link": ""
+    },
+    {
+        "date": "01/10",
         "package_name": "libvirt",
         "version": "10.8.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "27/09",
         "package_name": "VirtualBox",
         "version": "7.1.2",
-        "link": ""
-    },
-    {
-        "date": "27/09",
-        "package_name": "cmake",
-        "version": "3.30.4",
         "link": ""
     }
 ]

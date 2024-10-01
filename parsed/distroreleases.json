@@ -1,6 +1,11 @@
 [
     {
         "date": "01/10",
+        "distro_name": "Arch",
+        "version": "2024.10.01"
+    },
+    {
+        "date": "01/10",
         "distro_name": "Manjaro",
         "version": "24.1.0"
     },
