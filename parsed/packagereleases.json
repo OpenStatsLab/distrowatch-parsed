@@ -1,5 +1,11 @@
 [
     {
+        "date": "01/10",
+        "package_name": "Python",
+        "version": "3.12.7",
+        "link": ""
+    },
+    {
         "date": "30/09",
         "package_name": "cups",
         "version": "2.4.11",
@@ -63,12 +69,6 @@
         "date": "27/09",
         "package_name": "pipewire",
         "version": "1.2.5",
-        "link": ""
-    },
-    {
-        "date": "27/09",
-        "package_name": "qt",
-        "version": "6.7.3",
         "link": ""
     }
 ]
