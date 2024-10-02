@@ -1,6 +1,12 @@
 [
     {
         "date": "02/10",
+        "package_name": "NetworkManager",
+        "version": "1.50.0",
+        "link": ""
+    },
+    {
+        "date": "02/10",
         "package_name": "chromium",
         "version": "129.0.6668.89",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "30/09",
         "package_name": "linux",
         "version": "6.11.1",
-        "link": ""
-    },
-    {
-        "date": "30/09",
-        "package_name": "firefox",
-        "version": "131.0",
         "link": ""
     }
 ]
