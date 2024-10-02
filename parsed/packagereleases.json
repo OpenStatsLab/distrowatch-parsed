@@ -1,5 +1,11 @@
 [
     {
+        "date": "02/10",
+        "package_name": "lvm",
+        "version": "2.03.27",
+        "link": ""
+    },
+    {
         "date": "01/10",
         "package_name": "bitcoin",
         "version": "28.0",
@@ -63,12 +69,6 @@
         "date": "30/09",
         "package_name": "ffmpeg",
         "version": "7.1",
-        "link": ""
-    },
-    {
-        "date": "30/09",
-        "package_name": "qbittorrent",
-        "version": "5.0.0",
         "link": ""
     }
 ]
