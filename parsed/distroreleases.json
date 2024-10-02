@@ -1,5 +1,10 @@
 [
     {
+        "date": "02/10",
+        "distro_name": "Bluestar",
+        "version": "6.11.1"
+    },
+    {
         "date": "01/10",
         "distro_name": "Live Raizo",
         "version": "15.24.10.01"
