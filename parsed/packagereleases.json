@@ -1,5 +1,11 @@
 [
     {
+        "date": "03/10",
+        "package_name": "mesa",
+        "version": "24.2.4",
+        "link": ""
+    },
+    {
         "date": "02/10",
         "package_name": "nftables",
         "version": "1.1.1",
@@ -63,12 +69,6 @@
         "date": "01/10",
         "package_name": "Python",
         "version": "3.12.7",
-        "link": ""
-    },
-    {
-        "date": "30/09",
-        "package_name": "cups",
-        "version": "2.4.11",
         "link": ""
     }
 ]
