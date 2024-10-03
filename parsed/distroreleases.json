@@ -1,6 +1,11 @@
 [
     {
         "date": "03/10",
+        "distro_name": "Pearl 12",
+        "version": "\"MATE\""
+    },
+    {
+        "date": "03/10",
         "distro_name": "AUSTRUMI",
         "version": "4.9.8"
     },
