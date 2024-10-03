@@ -1,6 +1,12 @@
 [
     {
         "date": "02/10",
+        "package_name": "nftables",
+        "version": "1.1.1",
+        "link": ""
+    },
+    {
+        "date": "02/10",
         "package_name": "NetworkManager",
         "version": "1.50.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "30/09",
         "package_name": "cups",
         "version": "2.4.11",
-        "link": ""
-    },
-    {
-        "date": "30/09",
-        "package_name": "linux",
-        "version": "6.11.1",
         "link": ""
     }
 ]
