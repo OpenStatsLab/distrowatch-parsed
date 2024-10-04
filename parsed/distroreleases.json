@@ -1,5 +1,10 @@
 [
     {
+        "date": "04/10",
+        "distro_name": "Calculate",
+        "version": "20241004"
+    },
+    {
         "date": "03/10",
         "distro_name": "Pearl 12",
         "version": "\"MATE\""
@@ -53,10 +58,5 @@
         "date": "29/09",
         "distro_name": "CachyOS",
         "version": "240929"
-    },
-    {
-        "date": "29/09",
-        "distro_name": "GParted",
-        "version": "1.6.0-10"
     }
 ]
