@@ -1,5 +1,11 @@
 [
     {
+        "date": "04/10",
+        "package_name": "linux",
+        "version": "6.11.2",
+        "link": ""
+    },
+    {
         "date": "03/10",
         "package_name": "lyx",
         "version": "2.4.2",
@@ -63,12 +69,6 @@
         "date": "01/10",
         "package_name": "libvirt",
         "version": "10.8.0",
-        "link": ""
-    },
-    {
-        "date": "01/10",
-        "package_name": "qt-creator",
-        "version": "14.0.2",
         "link": ""
     }
 ]
