@@ -1,5 +1,10 @@
 [
     {
+        "date": "06/10",
+        "distro_name": "Liya",
+        "version": "2.2"
+    },
+    {
         "date": "04/10",
         "distro_name": "Calculate",
         "version": "20241004"
