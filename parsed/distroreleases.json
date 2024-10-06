@@ -53,10 +53,5 @@
         "date": "30/09",
         "distro_name": "Whonix",
         "version": "17.2.3.7"
-    },
-    {
-        "date": "29/09",
-        "distro_name": "CachyOS",
-        "version": "240929"
     }
 ]
