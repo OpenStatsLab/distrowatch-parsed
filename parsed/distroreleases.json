@@ -1,6 +1,11 @@
 [
     {
         "date": "06/10",
+        "distro_name": "antiX",
+        "version": "23.2"
+    },
+    {
+        "date": "06/10",
         "distro_name": "Liya",
         "version": "2.2"
     },
@@ -53,10 +58,5 @@
         "date": "30/09",
         "distro_name": "4MLinux",
         "version": "47.0-beta"
-    },
-    {
-        "date": "30/09",
-        "distro_name": "Whonix",
-        "version": "17.2.3.7"
     }
 ]
