@@ -48,15 +48,5 @@
         "date": "01/10",
         "distro_name": "Manjaro",
         "version": "24.1.0"
-    },
-    {
-        "date": "30/09",
-        "distro_name": "Mabox",
-        "version": "24.09"
-    },
-    {
-        "date": "30/09",
-        "distro_name": "4MLinux",
-        "version": "47.0-beta"
     }
 ]

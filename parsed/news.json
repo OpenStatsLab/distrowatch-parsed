@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: antiX 23.2",
+        "link": "",
+        "description": "Description not available",
+        "date": "07/10/2024, 12:12"
+    },
+    {
         "title": "DistroWatch Weekly, Issue 1091",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "17/09/2024, 11:01"
-    },
-    {
-        "title": "Distribution Release: SDesk 2024.09.16",
-        "link": "",
-        "description": "Description not available",
-        "date": "16/09/2024, 16:06"
     }
 ]
