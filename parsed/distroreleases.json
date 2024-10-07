@@ -1,6 +1,11 @@
 [
     {
         "date": "07/10",
+        "distro_name": "OpenBSD",
+        "version": "7.6"
+    },
+    {
+        "date": "07/10",
         "distro_name": "openSUSE",
         "version": "16.0-prealpha"
     },

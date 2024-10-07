@@ -1,5 +1,11 @@
 [
     {
+        "title": "BSD Release: OpenBSD 7.6",
+        "link": "",
+        "description": "Description not available",
+        "date": "07/10/2024, 21:50"
+    },
+    {
         "title": "Distribution Release: antiX 23.2",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "17/09/2024, 13:59"
-    },
-    {
-        "title": "BSD Release: FreeBSD 13.4",
-        "link": "",
-        "description": "Description not available",
-        "date": "17/09/2024, 11:01"
     }
 ]
