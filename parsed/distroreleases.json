@@ -1,5 +1,10 @@
 [
     {
+        "date": "07/10",
+        "distro_name": "openSUSE",
+        "version": "16.0-prealpha"
+    },
+    {
         "date": "06/10",
         "distro_name": "antiX",
         "version": "23.2"
