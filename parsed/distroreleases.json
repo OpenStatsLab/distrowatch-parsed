@@ -1,7 +1,12 @@
 [
     {
         "date": "08/10",
-        "distro_name": "TUXEDO OS",
+        "distro_name": "Gnoppix",
+        "version": "24.10"
+    },
+    {
+        "date": "08/10",
+        "distro_name": "TUXEDO",
         "version": "3-20241008"
     },
     {
