@@ -1,6 +1,12 @@
 [
     {
         "date": "08/10",
+        "package_name": "plasma-desktop",
+        "version": "6.2.0",
+        "link": ""
+    },
+    {
+        "date": "08/10",
         "package_name": "subversion",
         "version": "1.14.4",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "03/10",
         "package_name": "mesa",
         "version": "24.2.4",
-        "link": ""
-    },
-    {
-        "date": "02/10",
-        "package_name": "nftables",
-        "version": "1.1.1",
         "link": ""
     }
 ]
