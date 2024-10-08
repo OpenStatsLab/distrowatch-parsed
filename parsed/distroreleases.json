@@ -1,6 +1,11 @@
 [
     {
         "date": "08/10",
+        "distro_name": "Tails",
+        "version": "6.8"
+    },
+    {
+        "date": "08/10",
         "distro_name": "Bluestar",
         "version": "6.11.2"
     },

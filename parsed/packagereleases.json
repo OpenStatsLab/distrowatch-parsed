@@ -1,6 +1,12 @@
 [
     {
         "date": "08/10",
+        "package_name": "cmake",
+        "version": "3.30.5",
+        "link": ""
+    },
+    {
+        "date": "08/10",
         "package_name": "plasma-desktop",
         "version": "6.2.0",
         "link": ""
@@ -63,12 +69,6 @@
         "date": "03/10",
         "package_name": "lyx",
         "version": "2.4.2",
-        "link": ""
-    },
-    {
-        "date": "03/10",
-        "package_name": "mesa",
-        "version": "24.2.4",
         "link": ""
     }
 ]
