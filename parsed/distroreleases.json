@@ -1,6 +1,11 @@
 [
     {
         "date": "08/10",
+        "distro_name": "TUXEDO OS",
+        "version": "3-20241008"
+    },
+    {
+        "date": "08/10",
         "distro_name": "Tails",
         "version": "6.8"
     },
