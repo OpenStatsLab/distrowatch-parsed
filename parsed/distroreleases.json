@@ -1,5 +1,10 @@
 [
     {
+        "date": "08/10",
+        "distro_name": "Bluestar",
+        "version": "6.11.2"
+    },
+    {
         "date": "07/10",
         "distro_name": "OpenBSD",
         "version": "7.6"
@@ -28,30 +33,5 @@
         "date": "03/10",
         "distro_name": "AUSTRUMI",
         "version": "4.9.8"
-    },
-    {
-        "date": "02/10",
-        "distro_name": "Bluestar",
-        "version": "6.11.1"
-    },
-    {
-        "date": "01/10",
-        "distro_name": "Live Raizo",
-        "version": "15.24.10.01"
-    },
-    {
-        "date": "01/10",
-        "distro_name": "Dr.Parted",
-        "version": "24.10"
-    },
-    {
-        "date": "01/10",
-        "distro_name": "Arch",
-        "version": "2024.10.01"
-    },
-    {
-        "date": "01/10",
-        "distro_name": "Manjaro",
-        "version": "24.1.0"
     }
 ]
