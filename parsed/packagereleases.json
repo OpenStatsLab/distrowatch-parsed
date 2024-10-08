@@ -1,5 +1,11 @@
 [
     {
+        "date": "08/10",
+        "package_name": "qt",
+        "version": "6.8.0",
+        "link": ""
+    },
+    {
         "date": "07/10",
         "package_name": "Python",
         "version": "3.13.0",
@@ -63,12 +69,6 @@
         "date": "02/10",
         "package_name": "NetworkManager",
         "version": "1.50.0",
-        "link": ""
-    },
-    {
-        "date": "02/10",
-        "package_name": "chromium",
-        "version": "129.0.6668.89",
         "link": ""
     }
 ]
