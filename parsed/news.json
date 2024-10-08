@@ -1,5 +1,11 @@
 [
     {
+        "title": "Distribution Release: Tails 6.8",
+        "link": "",
+        "description": "Description not available",
+        "date": "08/10/2024, 18:13"
+    },
+    {
         "title": "BSD Release: OpenBSD 7.6",
         "link": "",
         "description": "Description not available",
@@ -52,11 +58,5 @@
         "link": "",
         "description": "Description not available",
         "date": "19/09/2024, 20:12"
-    },
-    {
-        "title": "Development Release: Fedora 41 Beta",
-        "link": "",
-        "description": "Description not available",
-        "date": "17/09/2024, 13:59"
     }
 ]
