@@ -24,7 +24,8 @@ jobs:
 
     - name: Run other Python files
       run: |
-        pip install bs4 lxml
+        sudo apt install pipx
+        pipx install bs4 lxml
         find distrowatch-parsing -name "*.py" ! -name "distroinfo.py" -type f -exec python {} \;
 
     - name: Delete cloned repository
@@ -60,7 +61,8 @@ jobs:
 
     - name: Run distroinfo.py
       run: |
-        pip install bs4 lxml
+        sudo apt install pipx
+        pipx install bs4 lxml
         python distrowatch-parsing/distroinfo.py
 
     - name: Delete cloned repository
